@@ -1,0 +1,18 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WV,01,H6WV01087,,Mike ,Manypenny,"Manypenny, Mike ",DEM
+WV,01,H0WV01072,(I),David B.,McKinley,"McKinley, David B.",REP
+,,,,,,,
+WV,02,H0WV02104,,Mark,Hunt,"Hunt, Mark",DEM
+WV,02,H4WV02080,(I),Alex X.,Mooney,"Mooney, Alex X.",REP
+,,,,,,,
+WV,03,H6WV03091,,Matt,Detch,"Detch, Matt",DEM
+WV,03,H4WV03070,(I),Evan ,Jenkins,"Jenkins, Evan ",REP
+WV,03,H6WV03117,,Zane,Lawhorn,"Lawhorn, Zane",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian

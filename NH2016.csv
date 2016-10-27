@@ -1,0 +1,24 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NH,S,S6NH00091,,Maggie,Hassan,"Hassan, Maggie",DEM
+NH,S,S0NH00235,(I),Kelly,Ayotte,"Ayotte, Kelly",REP
+NH,S,S6NH00117,,Brian,Chabot,"Chabot, Brian",LIB
+NH,S,S6NH00125,,Aaron,Day,"Day, Aaron",IND
+,,,,,,,
+NH,01,H6NH01230,(I),Carol ,Shea-Porter,"Shea-Porter, Carol ",DEM
+NH,01,H0NH01217,,Frank,Guinta,"Guinta, Frank",REP
+NH,01,H6NH01313,,Robert,Lombardo,"Lombardo, Robert",LIB
+NH,01,H4NH01235,,Brendan,Kelly,"Kelly, Brendan",IND
+NH,01,H6NH01271,,Shawn P.,O'Connor,"O'Connor, Shawn P.",IND
+,,,,,,,
+NH,02,H0NH02181,(I),Ann McLane,Kuster,"Kuster, Ann McLane",DEM
+NH,02,H4NH02258,,Jim,Lawrence,"Lawrence, Jim",REP
+NH,02,H6NH02246,,John J.,Babiarz,"Babiarz, John J.",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent

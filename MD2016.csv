@@ -1,0 +1,60 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MD,S,S6MD03441,,Chris,Van Hollen,"Van Hollen, Chris",DEM
+MD,S,S6MD03508,,Kathy,Szeliga,"Szeliga, Kathy",REP
+MD,S,S6MD03474 ,,Margaret ,Flowers,"Flowers, Margaret ",GRE
+MD,S,S6MD03623,,Greg,Dorsey,"Dorsey, Greg",W
+MD,S,S6MD03490 ,,Michael T.,Pearson,"Pearson, Michael T.",W
+MD,S,S6MD03326,,Bob,Robinson,"Robinson, Bob",W
+MD,S,S6MD03359,,Charles U.,Smith,"Smith, Charles U.",W
+MD,S,S2MD00446,,Ed,Tinus,"Tinus, Ed",W
+MD,S,S6MD03375,,Lih,Young,"Young, Lih",W
+,,,,,,,
+MD,01,H8MD01144,,Joe,Werner,"Werner, Joe",DEM
+MD,01,H8MD01094,(I),Andy,Harris,"Harris, Andy",REP
+MD,01,H6MD01247 ,,Matt,Beers,"Beers, Matt",LIB
+,,,,,,,
+MD,02,H2MD02160,(I),C.A. Dutch,Ruppersberger,"Ruppersberger, C.A. Dutch",DEM
+MD,02,H6MD02211,,Pat,McDonough,"McDonough, Pat",REP
+MD,02,H6MD02245,,Kristin S.,Kasprzak,"Kasprzak, Kristin S.",LIB
+,,,,,,,
+MD,03,H6MD03292,(I),John,Sarbanes,"Sarbanes, John",DEM
+MD,03,H6MD03441,,Mark,Plaster,"Plaster, Mark",REP
+MD,03,H6MD03458,,Nnabu,Eze,"Eze, Nnabu",GRE
+MD,03, H6MD03466,,Ann,Dalrymple,"Dalrymple, Ann",W
+,,,,,,,
+MD,04,H6MD04209,,Anthony G.,Brown,"Brown, Anthony G.",DEM
+MD,04,H4MD04071,,George E.,McDermott,"McDermott, George E.",REP
+MD,04,H6MD04290,,Kamesha T.,Clark,"Clark, Kamesha T.",GRE
+MD,04,H6MD04316,,Benjamin Lee,Krause,"Krause, Benjamin Lee",LIB
+MD,04,H6MD07459,,Adrian,Petrus,"Petrus, Adrian",W
+,,,,,,,
+MD,05,H2MD05155,(I),Steny H.,Hoyer,"Hoyer, Steny H.",DEM
+MD,05,H4MD05144,,Mark,Arness,"Arness, Mark",REP
+MD,05,H5MD05018,,Jason,Summers,"Summers, Jason",LIB
+,,,,,,,
+MD,06,H2MD06195,(I),John K.,Delaney,"Delaney, John K.",DEM
+MD,06,H6MD06212,,Amie,Hoeber,"Hoeber, Amie",REP
+MD,06,H2MD08175,,George,Gluck,"Gluck, George",GRE
+MD,06,H6MD06253,,David L.,Howser,"Howser, David L.",LIB
+MD,06,H6MD06261,,Ted,Athey,"Athey, Ted",W
+,,,,,,,
+MD,07,H6MD07160,(I),Elijah,Cummings,"Cummings, Elijah",DEM
+MD,07,H4MD07074,,Corrogan R.,Vaughn,"Vaughn, Corrogan R.",REP
+MD,07,H6MD07467 ,,Myles B.,Hoeing,"Hoeing, Myles B.",GRE
+MD,07,H6MD07434,,William T.,Newton,"Newton, William T.",W
+MD,07,H4MD07066,,Michael T.,Pearson,"Pearson, Michael T.",W
+,,,,,,,
+MD,08,H6MD08457,,Jamie,Raskin,"Raskin, Jamie",DEM
+MD,08,H6MD08564,,Dan,Cox,"Cox, Dan",REP
+MD,08,H6MD08598,,Nancy,Wallace,"Wallace, Nancy",GRE
+MD,08,H6MD08606,,Jasen,Wunder,"Wunder, Jasen",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)

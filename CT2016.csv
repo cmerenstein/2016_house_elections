@@ -1,0 +1,34 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+CT,S,S0CT00177,(I),Richard,Blumenthal,"Blumenthal, Richard",DEM/WF
+CT,S,S6CT05108,,Dan,Carter,"Carter, Dan",REP
+CT,S,S6CT05124,,Richard,Lion,"Lion, Richard",LIB
+CT,S,S0CT00250,,Jeffery,Russell,"Russell, Jeffery",GRE
+,,,,,,,
+CT,01,H8CT01046,(I),John B.,Larson,"Larson, John B.",DEM/WF
+CT,01,H2CT01189,,Matthew M.,Corey,"Corey, Matthew M.",REP
+CT,01,H2CT01171,,S. Michael,DeRosa,"DeRosa, S. Michael",GRE
+,,,,,,,
+CT,02,H2CT02112,(I),Joe,Courtney,"Courtney, Joe",DEM/WF
+CT,02,H0CT02140,,Daria Irene,Novak,"Novak, Daria Irene",REP
+CT,02,H8CT02085 ,,Daniel,Reale,"Reale, Daniel",LIB
+CT,02,H6CT02162,,Jonathan,Pelto,"Pelto, Jonathan",GRE
+,,,,,,,
+CT,03,H0CT03072,(I),Rosa L.,DeLauro,"DeLauro, Rosa L.",DEM/WF
+CT,03,H6CT03145,,Angel,Cadena,"Cadena, Angel",REP
+,,,,,,,
+CT,04,H8CT04172,(I),Jim,Himes,"Himes, Jim",DEM
+CT,04,H4CT04114,,John,Shaban,"Shaban, John",REP/IP
+,,,,,,,
+CT,05,H2CT05131,(I),Elizabeth,Esty,"Esty, Elizabeth",DEM/WF
+CT,05,H6CT05157,,Clay,Cope,"Cope, Clay",REP/IP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic 
+,,,,,,,REP = Republican 
+,,,,,,,GRE = Green
+,,,,,,,IP = Independent Party
+,,,,,,,LIB = Libertarian
+,,,,,,,WF = Working Families

@@ -1,0 +1,79 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OH,S,S6OH00254,,Ted,Strickland,"Strickland, Ted",DEM
+OH,S,S0OH00133,(I),Rob,Portman,"Portman, Rob",REP
+OH,S,S2OH00238,,Joseph R.,DeMare,"DeMare, Joseph R.",GRE
+OH,S,S6OH00262,,Tom,Connors,"Connors, Tom",N
+OH,S,S2OH0020,,Scott,Rupert,"Rupert, Scott",N
+OH,S,S6OH00296,,James,Stahl,"Stahl, James",W
+,,,,,,,
+OH,01,H6OH01096 ,,Michele,Young,"Young, Michele",DEM
+OH,01,H8OH01043,(I),Steve,Chabot,"Chabot, Steve",REP
+OH,01,H6OH01104 ,,Sholom D.,Keller,"Keller, Sholom D.",W
+OH,01,H6OH01112,,Kiumars G.,Kiani,"Kiani, Kiumars G.",W
+,,,,,,,
+OH,02,H8OH02074,,William R. ,Smith,"Smith, William R. ",DEM
+OH,02,H2OH02085,(I),Brad ,Wenstrup,"Wenstrup, Brad ",REP
+OH,02,H6OH02292,,Janet,Everhard,"Everhard, Janet",W
+,,,,,,,
+OH,03,H0OH15099,,John,Adams,"Adams, John",REP
+OH,03,H2OH03125,(I),Joyce,Beatty,"Beatty, Joyce",DEM
+,,,,,,,
+OH,04,H4OH04046,,Janet,Garrett,"Garrett, Janet",DEM
+OH,04,H6OH04082,(I),Jim,Jordan,"Jordan, Jim",REP
+,,,,,,,
+OH,05,H6OH05097,,"James, Jr.",Neu,"Neu, James, Jr.",DEM
+OH,05,H8OH05036,(I),Bob,Latta,"Latta, Bob",REP
+,,,,,,,
+OH,06,H6OH06152,,Michael L.,Lorentz,"Lorentz, Michael L.",DEM
+OH,06,H0OH06189,(I),Bill,Johnson,"Johnson, Bill",REP
+,,,,,,,
+OH,07,H6OH07127,,Roy ,Rich,"Rich, Roy ",DEM
+OH,07,H0OH18077,(I),Bob ,Gibbs,"Gibbs, Bob ",REP
+OH,07,H4OH07049,,Dan,Phillip,"Phillip, Dan",N
+,,,,,,,
+OH,08,H6OH08331,,Steven,Fought,"Fought, Steven",DEM
+OH,08,H6OH08315,,Warren,Davidson,"Davidson, Warren",REP
+OH,08,H6OH08349,,Derrick James,Hendricks,"Hendricks, Derrick James",GRE
+,,,,,,,
+OH,09,H2OH09031,(I),Marcy,Kaptur,"Kaptur, Marcy",DEM
+OH,09,H6OH09099,,Donald P.,Larson,"Larson, Donald P.",REP
+OH,09,H4OH09128,,George A.,Skalsky,"Skalsky, George A.",W
+,,,,,,,
+OH,10 ,H4OH10167,,Robert ,Klepinger,"Klepinger, Robert ",DEM
+OH,10,H2OH03067,(I),Mike ,Turner,"Turner, Mike ",REP
+OH,10,H6OH10113,,Tom,McMasters,"McMasters, Tom",N
+OH,10,H0OH08136,,David A.,Harlow,"Harlow, David A.",W
+,,,,,,,
+OH,11,H8OH11141,(I),Marcia L.,Fudge,"Fudge, Marcia L.",DEM
+OH,11,H6OH11160 ,,Beverly A.,Goldstein,"Goldstein, Beverly A.",REP
+,,,,,,,
+OH,12,H6OH12127,,Ed ,Albertson,"Albertson, Ed ",DEM
+OH,12,H0OH12062,(I),Pat,Tiberi,"Tiberi, Pat",REP
+OH,12 ,H6OH12119,,Joe ,Manchik,"Manchik, Joe ",GRE
+OH,12 ,H6OH12135,,John J.,Baumeister,"Baumeister, John J.",W
+,,,,,,,
+OH,13,H2OH17109,(I),Tim ,Ryan,"Ryan, Tim ",DEM
+OH,13,H6OH13240,,Richard A.,Morckel,"Morckel, Richard A.",REP
+OH,13,H6OH13257,,"Calvin, Sr.",Hill,"Hill, Calvin, Sr.",W
+,,,,,,,
+OH,14,H4OH14102,,Michael,Wager,"Wager, Michael",DEM
+OH,14,H2OH14064,(I),David P.,Joyce,"Joyce, David P.",REP
+OH,14,H6OH14206,,Andrew ,Jarvi,"Jarvi, Andrew ",W
+,,,,,,,
+OH,15,H2OH15095,,Scott,Wharton,"Wharton, Scott",DEM
+OH,15,H8OH15076 ,(I),Steve,Stivers,"Stivers, Steve",REP
+OH,15,H4OH06090,,Dennis,Lambert,"Lambert, Dennis",GRE
+,,,,,,,
+OH,16, H6OH16136,,Keith ,Mundy,"Mundy, Keith ",DEM
+OH,16,H0OH16097,(I),Jim,Renacci,"Renacci, Jim",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,N = Nonpartisan
+,,,,,,,W = Write-In Candidate (Not on Ballot)

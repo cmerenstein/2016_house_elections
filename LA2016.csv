@@ -1,0 +1,80 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+LA,S,S6LA00359,,Foster,Campbell,"Campbell, Foster",DEM
+LA,S,S6LA00342,,Derrick,Edwards,"Edwards, Derrick",DEM
+LA,S,S6LA00334,,Caroline,Fayard,"Fayard, Caroline",DEM
+LA,S,S6LA00391,,Gary,Landrieu,"Landrieu, Gary",DEM
+LA,S,S6LA00409,,"MV ""Vinny""",Mendoza,"Mendoza, MV ""Vinny""",DEM
+LA,S,S6LA00367,,Joshua,Pellerin,"Pellerin, Joshua",DEM
+LA,S,S6LA00417,,Peter,Williams,"Williams, Peter",DEM
+LA,S,S6LA00300,,Charles,Boustany,"Boustany, Charles",REP
+LA,S,S6LA00326,,"""Joseph""",Cao,"Cao, ""Joseph""",REP
+LA,S,S6LA00383,,"Donald ""Crawdaddy""",Crawford,"Crawford, Donald ""Crawdaddy""",REP
+LA,S,S0LA00071,,David,Duke,"Duke, David",REP
+LA,S,S6LA00318,,John,Fleming,"Fleming, John",REP
+LA,S,S4LA00065,,John,Kennedy,"Kennedy, John",REP
+LA,S,S4LA00115,,"""Rob""",Maness,"Maness, ""Rob""",REP
+LA,S,S6LA00425,,Charles,Marsala,"Marsala, Charles",REP
+LA,S,S6LA00375,,Abhay,Patel,"Patel, Abhay",REP
+LA,S,S4LA00149,,Thomas P.,Clements,"Clements, Thomas P.",LIB
+LA,S,S6LA00433,,Le Roy,Gillam,"Gillam, Le Roy",LIB
+LA,S,S6LA00441,,Beryl,Billiot,"Billiot, Beryl",NPA
+LA,S,S6LA00458,,Troy,Hebert,"Hebert, Troy",NPA
+LA,S,S6LA00466,,Kaitlin,Marone,"Marone, Kaitlin",NPA
+LA,S,S6LA00474,,Arden,Wells,"Wells, Arden",NPA
+LA,S,S0LA00170,,"William Robert ""Bob.,"" Jr.",Lang,"Lang, William Robert ""Bob.,"" Jr.",OTH
+LA,S,S6LA00482,,"Gregory, Jr.",Taylor,"Taylor, Gregory, Jr.",OTH
+,,,,,,,
+LA,01,H4LA01147,,Lee Ann,Dugas,"Dugas, Lee Ann",DEM
+LA,01,H6LA01209,,Danil Ezekiel,Faust,"Faust, Danil Ezekiel",DEM
+LA,01,H6LA01217,,"Joseph ""Joe""",Swider,"Swider, Joseph ""Joe""",DEM
+LA,01,H0LA01087,(I),Steve,Scalise,"Scalise, Steve",REP
+LA,01,H4LA05098,,Eliot,Barron,"Barron, Eliot",GRE
+LA,01,H6LA01225,,Howard,Kearney,"Kearney, Howard",LIB
+LA,01,H6LA01233,,Chuemai,Yang,"Yang, Chuemai",NPA
+,,,,,,,
+LA,02,H6LA02223,,Kenneth,Cutno,"Cutno, Kenneth",DEM
+LA,02,H6LA02215,,"Melvin L. ""Kip""",Holden,"Holden, Melvin L. ""Kip""",DEM
+LA,02,H8LA02054,(I),Cedric,Richmond,"Richmond, Cedric",DEM
+,,,,,,,
+LA,03,H6LA03163,,"Jacob ""Dorian Phibian""",Hebert,"Hebert, Jacob ""Dorian Phibian""",DEM
+LA,03,H6LA03155,,Larry,Rader,"Rader, Larry",DEM
+LA,03,H6LA03130,,Scott A.,Angelle,"Angelle, Scott A.",REP
+LA,03,H2LA03063,,Bryan,Barrilleaux,"Barrilleaux, Bryan",REP
+LA,03,H6LA03098,,"""Greg""",Ellison,"Ellison, ""Greg""",REP
+LA,03,H6LA03106,,Brett,Geymann,"Geymann, Brett",REP
+LA,03,H6LA03148,,Clay,Higgins,"Higgins, Clay",REP
+LA,03,H6LA03122,,Gus,Rantz,"Rantz, Gus",REP
+LA,03,H6LA03114,,Grover Joseph,Rees,"Rees, Grover Joseph",REP
+LA,03,H6LA03171,,Herman L.,Vidrine,"Vidrine, Herman L.",REP
+LA,03,H6LA03189,,Guy ,McLendon,"McLendon, Guy ",LIB
+LA,03,H6LA03197,,"Kenny P., Sr.",Scelfo,"Scelfo, Kenny P., Sr.",NPA
+,,,,,,,
+LA,04,H6LA04153,,Marshall,Jones,"Jones, Marshall",DEM
+LA,04,H6LA04120,,"Ralph ""Trey""",Baucum,"Baucum, Ralph ""Trey""",REP
+LA,04,H6LA04112,,Elbert,Guillory,"Guillory, Elbert",REP
+LA,04,H6LA04146,,Oliver,Jenkins,"Jenkins, Oliver",REP
+LA,04,H6LA04096,,"""Rick""",John,"John, ""Rick""",REP
+LA,04,H6LA04138,,"""Mike""",Johnson,"Johnson, ""Mike""",REP
+LA,04,H6LA04161,,Mark David,Halverson,"Halverson, Mark David",NPA
+LA,04,H6LA04179,,Kenneth J.,Krefft,"Krefft, Kenneth J.",NPA
+,,,,,,,
+LA,05,H4LA05221,(I),"Ralph,  Jr.",Abraham,"Abraham, Ralph,  Jr.",REP
+LA,05,H6LA05150,,Billy,Burkette,"Burkette, Billy",REP
+,,,,,,,
+LA,06,H4LA06062,,Richard ,Lieberman,"Lieberman, Richard ",DEM
+LA,06,H6LA06117,,Jermaine,Sampson,"Sampson, Jermaine",DEM
+LA,06,H4LA06153,(I),Garret,Graves,"Graves, Garret",REP
+LA,06,H6LA06125,,"Robert Lamar ""Bob""",Bell,"Bell, Robert Lamar ""Bob""",REP
+LA,06,H6LA06109,,Richard M.,Fontanesi,"Fontanesi, Richard M.",LIB
+LA,06,H6LA06133,,Devin Lance,Graham,"Graham, Devin Lance",OTH
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,NPA = No Party Affiliation
+,,,,,,,OTH = Other

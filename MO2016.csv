@@ -1,0 +1,51 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MO,S,S6MO00362,,Jason,Kander,"Kander, Jason",DEM
+MO,S,S0MO00183,(I),Roy ,Blunt,"Blunt, Roy ",REP
+MO,S,S6MO00453,,Fred ,Ryman,"Ryman, Fred ",CON
+MO,S,S6MO00479,,Jonathan ,McFarland,"McFarland, Jonathan ",GRE
+MO,S,S0MO00340,,Jonathan ,Dine,"Dine, Jonathan ",LIB
+,,,,,,,
+MO,01,H0MO01066,(I),Lacy ,Clay,"Clay, Lacy ",DEM
+MO,01,H8MO03131,,Steven G. ,Bailey,"Bailey, Steven G. ",REP
+MO,01,H6MO01246,,Robb E.,Cunningham,"Cunningham, Robb E.",LIB
+,,,,,,,
+MO,02,H6MO02301,,Bill,Otto,"Otto, Bill",DEM
+MO,02,H2MO02102,(I),Ann ,Wagner,"Wagner, Ann ",REP
+MO,02,H0MO03120,,David Justus,Arnold,"Arnold, David Justus",GRE
+MO,02,H2MO02078,,Jim ,Higgins,"Higgins, Jim ",LIB
+,,,,,,,
+MO,03,H6MO03341,,Kevin ,Miller,"Miller, Kevin ",DEM
+MO,03,H8MO09153,(I),Blaine,Luetkemeyer,"Luetkemeyer, Blaine",REP
+MO,03,H6MO03358,,Dan ,Hogan,"Hogan, Dan ",LIB
+MO,03,H6MO03325,,Doanita,Simmons,"Simmons, Doanita",CON
+,,,,,,,
+MO,04,H6MO04224,,Gordon,Christensen,"Christensen, Gordon",DEM
+MO,04,H0MO04086,(I),Vicky,Hartzler,"Hartzler, Vicky",REP
+MO,04,H6MO04232,,Mark ,Bliss,"Bliss, Mark ",LIB
+,,,,,,,
+MO,05,H4MO05234,(I),"Emanuel, II",Cleaver,"Cleaver, Emanuel, II",DEM
+MO,05,H6MO05189,,Jacob ,Turk,"Turk, Jacob ",REP
+MO,05,H4MO05341,,Roy ,Welborn,"Welborn, Roy ",LIB
+,,,,,,,
+MO,06,H6MO06229,,David M. ,Blackwell,"Blackwell, David M. ",DEM
+MO,06,H0MO06073,(I),Sam,Graves,"Graves, Sam",REP
+MO,06,H6MO06245,,Mike,Diel,"Diel, Mike",GRE
+MO,06,H2MO06228,,Russ Lee,Monchil,"Monchil, Russ Lee",LIB
+,,,,,,,
+MO,07,H4MO07131,,Genevieve (Gen),Williams,"Williams, Genevieve (Gen)",DEM
+MO,07,H0MO07113,(I),Billy ,Long,"Long, Billy ",REP
+MO,07,H6MO07292,,Benjamin T.,Brixey,"Brixey, Benjamin T.",LIB
+,,,,,,,
+MO,08,H6MO08126,,Dave,Cowell,"Cowell, Dave",DEM
+MO,08,H4MO08162,(I),Jason ,Smith,"Smith, Jason ",REP
+MO,08,H6MO08159,,Jonathan ,Shell,"Shell, Jonathan ",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian

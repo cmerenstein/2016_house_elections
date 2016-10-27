@@ -1,0 +1,85 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MI,01,H6MI01200,,Lon,Johnson,"Johnson, Lon",DEM
+MI,01,H6MI01226 ,,Jack,Bergman,"Bergman, Jack",REP
+MI,01,H0MI01187,,Ellis,Boal,"Boal, Ellis",GRE
+MI,01,H6MI01234,,Diane,Bostow,"Bostow, Diane",LIB
+,,,,,,,
+MI,02,H6MI02182,,Dennis B.,Murphy,"Murphy, Dennis B.",DEM
+MI,02,H0MI02094 ,(I),Bill,Huizenga,"Huizenga, Bill",REP
+MI,02,H6MI02190,,Matthew A.,Brady,"Brady, Matthew A.",GRE
+MI,02,H6MI03123,,Erwin J.,Haas,"Haas, Erwin J.",LIB
+MI,02,H0MI02086,,Ronald E.,Graeser,"Graeser, Ronald E.",UST
+,,,,,,,
+MI,03,H6MI03172,,Douglas,Smith,"Smith, Douglas",DEM
+MI,03,H0MI03126 ,(I),Justin,Amash,"Amash, Justin",REP
+MI,03,H0MI03209,,Ted,Gerrard,"Gerrard, Ted",UST
+,,,,,,,
+MI,03,H2MI04237,,Debra,Wirth,"Wirth, Debra",DEM
+MI,04,H4MI04126 ,(I),John ,Moolenaar,"Moolenaar, John ",REP
+MI,04,H6MI04170,,Jordan,Salvi,"Salvi, Jordan",GRE
+MI,04,H8MI05108,,Leonard ,Schwartz,"Schwartz, Leonard ",LIB
+MI,04,H6MI04162,,Keith,Butkovich,"Butkovich, Keith",NLP
+MI,04,H8MI08086,,George M.,Zimmer,"Zimmer, George M.",UST
+,,,,,,,
+MI,05,H2MI05119 ,(I),Daniel T.,Kildee,"Kildee, Daniel T.",DEM
+MI,05,H4MI05123,,Al,Hardwick,"Hardwick, Al",REP
+MI,05,H2MI05101,,Harley,Mikkelson,"Mikkelson, Harley",GRE
+MI,05,H6MI05219,,Steve,Sluka,"Sluka, Steve",LIB
+,,,,,,,
+MI,06,H4MI06105 ,,Paul,Clements,"Clements, Paul",DEM
+MI,06,H6MI04113 ,(I),Fred,Upton,"Upton, Fred",REP
+MI,06,H6MI06159 ,,Lorence,Wenke,"Wenke, Lorence",LIB
+,,,,,,,
+MI,07,H6MI07223 ,,Gretchen D.,Driskell,"Driskell, Gretchen D.",DEM
+MI,07,H4MI07103 ,(I),Tim,Walberg,"Walberg, Tim",REP
+MI,07,H2MI07073,,Ken,Proctor,"Proctor, Ken",LIB
+,,,,,,,
+MI,08,H6MI08262,,Suzanna,Shkreli,"Shkreli, Suzanna",DEM
+MI,08,H4MI08135,(I),Mike,Bishop,"Bishop, Mike",REP
+MI,08,H6MI08270,,Maria,Green,"Green, Maria",GRE
+MI,08,H6MI08288,,Jeff,Wood,"Wood, Jeff",LIB
+MI,08,H4MI08101,,Jeremy,Burgess,"Burgess, Jeremy",NLP
+,,,,,,,
+MI,09,H2MI17023,(I),Sander,Levin,"Levin, Sander",DEM
+MI,09,H6MI09187,,Christopher R.,Morse,"Morse, Christopher R.",REP
+MI,09,H4MI09091,,John V.,McDermott,"McDermott, John V.",GRE
+MI,09,H6MI09195,,Matthew,Orlando,"Orlando, Matthew",LIB
+,,,,,,,
+MI,10,H6MI10227,,"Frank, Jr.",Accavitti,"Accavitti, Frank, Jr.",DEM
+MI,10,H4MI04118,,Paul ,Mitchell,"Mitchell, Paul ",REP
+MI,10,H6MI10250,,Benjamin,Nofs,"Nofs, Benjamin",GRE
+MI,10,H6MI10243,,Lisa Lane,Gioia,"Gioia, Lisa Lane",LIB
+,,,,,,,
+MI,11,H4MI11089 ,,Anil ,Kumar,"Kumar, Anil ",DEM
+MI,11,H4MI11097,(I),David A.,Trott,"Trott, David A.",REP
+MI,11,H6MI11183,,Jonathan Ray,Osment,"Osment, Jonathan Ray",LIB
+MI,11,H2MI11133,,Kerry,Bentivolio,"Bentivolio, Kerry",NPA
+,,,,,,,
+MI,12,H4MI12079 ,(I),Debbie,Dingell,"Dingell, Debbie",DEM
+MI,12,H6MI12264 ,,Jeff,Jones,"Jones, Jeff",REP
+MI,12,H6MI12280,,Dylan,Calewarts,"Calewarts, Dylan",GRE
+MI,12,H6MI12272,,Tom,Bagwell,"Bagwell, Tom",LIB
+MI,12,H8MI07039,,Gary,Walkowicz,"Walkowicz, Gary",WC
+,,,,,,,
+MI,13,H6MI01028,(I),"John, Jr.",Conyers,"Conyers, John, Jr.",DEM
+MI,13,H4MI13200,,Jeff,Gorman,"Gorman, Jeff",REP
+MI,13,H6MI13239,,Tiffany,Hayden,"Hayden, Tiffany",LIB
+MI,13,H4MI13218,,Sam,Johnson,"Johnson, Sam",WC
+,,,,,,,
+MI,14,H2MI14111,(I),Brenda L.,Lawrence,"Lawrence, Brenda L.",DEM
+MI,14,H6MI14211 ,,Howard,Klausner,"Klausner, Howard",REP
+MI,14,H6MI14229,,Marcia,Squier,"Squier, Marcia",GRE
+MI,14,H4MI09083,,Gregory,Creswell,"Creswell, Gregory",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,NLP = Natural Law
+,,,,,,,NPA = No Party Affiliation
+,,,,,,,UST =US Taxpayers
+,,,,,,,WC = Working Class

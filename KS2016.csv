@@ -1,0 +1,30 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+KS,S,S0KS00166,,Patrick,Wiesner,"Wiesner, Patrick",DEM 
+KS,S,S0KS00091,(I),Jerry,Moran,"Moran, Jerry",REP 
+KS,S,S6KS00221,,Robert D.,Garrard,"Garrard, Robert D.",LIB
+,,,,,,,
+KS,01,H6KS01179 ,,Roger,Marshall,"Marshall, Roger",REP 
+KS,01,H6KS01187,,Kerry,Burt,"Burt, Kerry",LIB
+KS,01,H4KS01059,,Alan,LaPolice,"LaPolice, Alan",IND
+,,,,,,,
+KS,02,H6KS02250 ,,Britani,Potter,"Potter, Britani",DEM 
+KS,02,H8KS02090 ,(I),Lynn,Jenkins,"Jenkins, Lynn",REP 
+KS,02,H6KS02268,,James Houston,Bales,"Bales, James Houston",LIB
+,,,,,,,
+KS,03,H6KS03241,,Jay,Sidie,"Sidie, Jay",DEM 
+KS,03,H0KS03137 ,(I),Kevin,Yoder,"Yoder, Kevin",REP 
+KS,03,H6KS03225,,Steven A.,Hohe,"Hohe, Steven A.",LIB
+,,,,,,,
+KS,04,H6KS04165,,Daniel B.,Giroux,"Giroux, Daniel B.",DEM
+KS,04,H0KS04051,(I),Michael,Pompeo,"Pompeo, Michael",REP 
+KS,04,H6KS04181,,Gorden J.,Bakken,"Bakken, Gorden J.",LIB
+KS,04,H6KS04173,,Miranda,Allen,"Allen, Miranda",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent

@@ -1,0 +1,37 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NV,S,S6NV00200,,Catherine,Cortez Masto,"Cortez Masto, Catherine",DEM
+NV,S,S6NV00218,,Joe,Heck,"Heck, Joe",REP
+NV,S,S6NV00242,,Tom,Jones,"Jones, Tom",IAP
+NV,S,S6NV00259,,Tony,Gumina,"Gumina, Tony",NPY
+NV,S,S6NV00317,,"Thomas ""Tom""",Sawyer,"Sawyer, Thomas ""Tom""",NPY
+NV,S,S6NV00341,,Jarrod M.,Williams,"Williams, Jarrod M.",NPY
+,,,,,,,
+NV,01,H8NV03036,(I),Dina,Titus,"Titus, Dina",DEM
+NV,01,H6NV01208,,Mary,Perry,"Perry, Mary",REP
+NV,01,H4NV01187,,Kamau A. ,Bakari,"Bakari, Kamau A. ",IAP
+NV,01,H6NV01232,,Reuben,D'Silva,"D'Silva, Reuben",NPY
+,,,,,,,
+NV,02,H6NV02248,,"H. D. ""Chip""",Evans,"Evans, H. D. ""Chip""",DEM
+NV,02,H2NV02395,(I),Mark E.,Amodei,"Amodei, Mark E.",REP
+NV,02,H8NV02079,,John H.,Everhart,"Everhart, John H.",IAP
+NV,02,H6NV02263,,Drew ,Knight,"Knight, Drew ",NPY
+,,,,,,,
+NV,03,H6NV03139,,Jacky,Rosen,"Rosen, Jacky",DEM
+NV,03,H2NV04045,,Danny,Tarkanian,"Tarkanian, Danny",REP
+NV,03,H6NV03162,,Warren,Markowitz,"Markowitz, Warren",IAP
+NV,03,H4NV03126,,David,Goossen,"Goossen, David",NPY
+,,,,,,,
+NV,04,H2NV00050,,Ruben,Kihuen,"Kihuen, Ruben",DEM
+NV,04,H4NV04017,(I),Cresent,Hardy,"Hardy, Cresent",REP
+NV,04,H6NV04103,,Mike ,Little,"Little, Mike ",IAP
+NV,04,H4NV04058,,Steve,Brown,"Brown, Steve",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IAP = Independent American Party
+,,,,,,,LIB = Libertarian
+,,,,,,,NPY = No Political Party

@@ -1,0 +1,19 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+DE,00,H6DE00206,,Lisa Blunt,Rochester,"Rochester, Lisa Blunt",DEM
+DE,00,H6DE01071,,Hans,Reigle,"Reigle, Hans",REP
+DE,00,H6DE00255,,Mark J.,Perri,"Perri, Mark J.",GRE
+DE,00,H2DE00148,,Scott A.,Gesty,"Gesty, Scott A.",LIB
+DE,00,H6DE00230,,"Robert Nelson, III",Franz,"Franz, Robert Nelson, III",W
+DE,00,H6DE00248,,Rachelle Lee,Linney,"Linney, Rachelle Lee",W
+DE,00,H6DE00263,,Campbell,Smith,"Smith, Campbell",W
+DE,00,H6DE00214,,Scott,Walker,"Walker, Scott",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)

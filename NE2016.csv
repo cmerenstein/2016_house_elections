@@ -1,0 +1,16 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NE,01,H6NE01119,(I),Daniel M.,Wik,"Wik, Daniel M.",DEM
+NE,01,H4NE01064,,Jeff,Fortenberry,"Fortenberry, Jeff",REP
+,,,,,,,
+NE,02,H4NE02054,(I),Brad,Ashford,"Ashford, Brad",DEM
+NE,02,H6NE02125,,Don,Bacon,"Bacon, Don",REP
+NE,02,H8NE02204,,Steven,Laird,"Laird, Steven",LIB
+,,,,,,,
+NE,03,H6NE03115,(I),Adrian,Smith,"Smith, Adrian",REP
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian

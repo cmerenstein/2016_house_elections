@@ -1,0 +1,52 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+CO,S,S0CO00211,(I),Michael,Bennet,"Bennet, Michael",DEM
+CO,S,S6CO00226,,Darryl,Glenn,"Glenn, Darryl",REP
+CO,S,S6CO00317 ,,Lily Tang ,Williams,"Williams, Lily Tang ",LIB
+CO,S,S6CO00366,,Arn,Menconi,"Menconi, Arn",GRE
+CO,S,S4CO00411,,Bill,Hammons,"Hammons, Bill",UPC
+CO,S,S6CO00374,,Dan,Chapin,"Chapin, Dan",UN
+CO,S,S6CO00382,,Paul Noel,Fiorino,"Fiorino, Paul Noel",UN
+CO,S,S4CO00429,,Don,Willoughby,"Willoughby, Don",W
+,,,,,,,
+CO,01,H6CO01141,(I),Diana,DeGette,"DeGette, Diana",DEM
+CO,01,H6CO01208,,"Charles ""Casper""",Stockham,"Stockham, Charles ""Casper""",REP
+CO,01,H6CO01216,,Darrell,Dinges,"Dinges, Darrell",LIB
+,,,,,,,
+CO,02,H8CO02137,(I),Jared,Polis,"Polis, Jared",DEM
+CO,02,H6CO02149,,Nicholas,Morse,"Morse, Nicholas",REP
+CO,02,H6CO02156 ,,Richard,Longstreth,"Longstreth, Richard",LIB
+,,,,,,,
+CO,03,H6CO03170,,Gail,Schwartz,"Schwartz, Gail",DEM
+CO,03,H6CO03139,(I),Scott R.,Tipton,"Tipton, Scott R.",REP
+CO,03,H6CO03196,,Kent,Gaylon,"Gaylon, Kent",LIB
+,,,,,,,
+CO,04,H6CO04160,,Bob,Seay,"Seay, Bob",DEM
+CO,04,H4CO04090,(I),Ken,Buck,"Buck, Ken",REP
+CO,04,H6CO04178,,Bruce,Griffith,"Griffith, Bruce",LIB
+CO,04,H6CO04186,,Donald,Howbert,"Howbert, Donald",W
+,,,,,,,
+CO,05,H6CO05233,,Misty,Plowright,"Plowright, Misty",DEM
+CO,05,H6CO05159,(I),Doug,Lamborn,"Lamborn, Doug",REP
+CO,05,H6CO05266,,Mike,McRedmond,"McRedmond, Mike",LIB
+CO,05,H6CO05274 ,,Curtis,Imrie,"Imrie, Curtis",W
+,,,,,,,
+CO,06,H6CO06058,,Morgan,Carroll,"Carroll, Morgan",DEM
+CO,06,H8CO06138,(I),Mike,Coffman,"Coffman, Mike",REP
+CO,06,H6CO06082,,Robert Lee,Worthey,"Worthey, Robert Lee",GRE
+CO,06,H2CO02122,,Norm,Olsen,"Olsen, Norm",LIB
+,,,,,,,
+CO,07,H6CO07023,(I),Ed,Perlmutter,"Perlmutter, Ed",DEM
+CO,07,H6CO07106,,George,Athanasopoulos,"Athanasopoulos, George",REP
+CO,07,H6CO07114,,Martin L.,Buchanan,"Buchanan, Martin L.",LIB  
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,UN = Unaffiliated
+,,,,,,,UPC = Unity Party of Colorado
+,,,,,,,W = Write-In Candidate (Not on Ballot)

@@ -1,0 +1,42 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OR,S,S6OR00110,(I),Ron,Wyden,"Wyden, Ron",DEM
+OR,S,S4OR00172,,Mark,Callahan,"Callahan, Mark",REP
+OR,S,S6OR05127,,Steven C.,Reynolds,"Reynolds, Steven C.",IP
+OR,S,S6OR05176,,Jim,Lindsay,"Lindsay, Jim",LIB
+OR,S,S6OR05150,,Eric,Navickas,"Navickas, Eric",PG/PRO
+OR,S,S6OR05168,,Shanti S.,Lewallen,"Lewallen, Shanti S.",WF
+,,,,,,,
+OR,01,H2OR01133,(I),Suzanne,Bonamici,"Bonamici, Suzanne",DEM/IP
+OR,01,H6OR01274,,Brian J.,Heinrich,"Heinrich, Brian J.",REP
+OR,01,H6OR01282,,Kyle,Sheahan,"Sheahan, Kyle",LIB
+,,,,,,,
+OR,02,H6OR02181,,James (Jim),Crary,"Crary, James (Jim)",DEM
+OR,02,H6OR02116,(I),Greg,Walden,"Walden, Greg",REP/W(IP)
+,,,,,,,
+OR,03,H6OR03064,(I),Earl ,Blumenauer,"Blumenauer, Earl ",DEM
+OR,03,H4OR03135,,David W.,Walker,"Walker, David W.",IP/W(REP)
+OR,03,H6OR03163,,David,Delk,"Delk, David",PRO
+,,,,,,,
+OR,04,H6OR04047,(I),Peter A.,DeFazio,"DeFazio, Peter A.",DEM/PRO/WF/W(IP)
+OR,04,H0OR04081,,Art,Robinson,"Robinson, Art",REP/CON
+OR,04,H6OR04229,,Gil,Guthrie,"Guthrie, Gil",LIB
+OR,04,H8OR04134,,Mike,Beilstein,"Beilstein, Mike",PG
+,,,,,,,
+OR,05,H8OR05107,(I),Kurt,Schrader,"Schrader, Kurt",DEM/W(IP)
+OR,05,H6OR05143,,Colm,Willis,"Willis, Colm",REP
+OR,05,H6OR05192,,Marvin,Sandnes,"Sandnes, Marvin",PG
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON  = Constitution
+,,,,,,,IP = Independent Party
+,,,,,,,LIB = Libertarian
+,,,,,,,PG = Pacific Green
+,,,,,,,PRO = Progressive
+,,,,,,,WF= Working Families
+,,,,,,,W(IP) = Write In Candidate (Independent Party)
+,,,,,,,W(REP) = Write-In Candidate (Republican)

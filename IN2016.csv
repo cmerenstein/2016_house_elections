@@ -1,0 +1,50 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+IN,S,S8IN00049,,Evan,Bayh,"Bayh, Evan",DEM
+IN,S,S6IN00191 ,,Todd,Young,"Young, Todd",REP
+IN,S,S6IN00225,,Lucy,Brenton,"Brenton, Lucy",LIB
+IN,S,S2IN00117,,James L.,Johnson,"Johnson, James L.",W
+,,,,,,,
+IN,01,H4IN01012,(I),Peter J,Visclosky,"Visclosky, Peter J",DEM
+IN,01,H4IN01152,,Donna,Dunn,"Dunn, Donna",LIB
+IN,01,H6IN01207,,John ,Meyer,"Meyer, John ",W
+,,,,,,,
+IN,02,H6IN02155 ,,Lynn C.,Coleman,"Coleman, Lynn C.",DEM
+IN,02,H0IN02190,(I),Jackie,Walorski,"Walorski, Jackie",REP
+IN,02,H6IN02163,,Ron,Cenkush,"Cenkush, Ron",LIB
+,,,,,,,
+IN,03,H6IN03187,,Tommy A.,Schrader,"Schrader, Tommy A.",DEM
+IN,03,H6IN03229,,Jim,Banks,"Banks, Jim",REP
+IN,03,H6IN03286,,Pepper,Snyder,"Snyder, Pepper",LIB
+,,,,,,,
+IN,04,H4IN04172,,John,Dale,"Dale, John",DEM
+IN,04,H0IN04170 ,(I),Todd,Rokita,"Rokita, Todd",REP
+IN,04,H6IN04169,,Steven M.,Mayoras,"Mayoras, Steven M.",LIB
+,,,,,,,
+IN,05,H6IN05216,,Angela ,Demaree,"Demaree, Angela ",DEM
+IN,05,H2IN05082,(I),Susan W.,Brooks,"Brooks, Susan W.",REP
+IN,05,H6IN05257,,Matthew,Wittlief,"Wittlief, Matthew",LIB
+,,,,,,,
+IN,06,H6IN06149,,Barry,Welsh,"Welsh, Barry",DEM
+IN,06,H0IN02125 ,(I),Luke ,Messer,"Messer, Luke ",REP
+IN,06,H6IN06214,,Rich,Turvey,"Turvey, Rich",LIB
+,,,,,,,
+IN,07,H8IN07184,(I),André D.,Carson,"Carson, André D.",DEM
+IN,07,H8IN07259,,Catherine (CAT),Ping,"Ping, Catherine (CAT)",REP
+IN,07,H6IN07386,,Drew,Thompson,"Thompson, Drew",LIB
+,,,,,,,
+IN,08,H6IN08244,,Ron,Drake,"Drake, Ron",DEM
+IN,08,H0IN08114 ,(I),Larry D.,Bucshon,"Bucshon, Larry D.",REP
+IN,08,H2IN07088,,Andrew,Horning,"Horning, Andrew",LIB
+,,,,,,,
+IN,09,H2IN09167 ,,Shelli ,Yoder,"Yoder, Shelli ",DEM
+IN,09,H6IN09176 ,,Trey,Hollingsworth,"Hollingsworth, Trey",REP
+IN,09,H6IN09218,,Russell,Brooksbank,"Brooksbank, Russell",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)

@@ -1,0 +1,19 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+VT,S,S4VT00017,(I),Patrick,Leahy,"Leahy, Patrick",DEM
+VT,S,S6VT00160,,Scott,Milne,"Milne, Scott",REP
+VT,S,S6VT00178,,Jerry,Trudell,"Trudell, Jerry",IND
+VT,S,S6VT00152,,Pete ,Diamondstone,"Diamondstone, Pete ",LBU
+VT,S,S4VT00132,,Cris,Ericson,"Ericson, Cris",USM
+,,,,,,,
+VT,00,H6VT00160,(I),Peter,Welch,"Welch, Peter",DEM/REP
+VT,00,H6VT00251,,Erica,Clawson,"Clawson, Erica",LBU
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LBU = Liberty Union
+,,,,,,,USM = United States Marijuana

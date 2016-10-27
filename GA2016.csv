@@ -1,0 +1,59 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+GA,S,S6GA00200 ,,Jim,Barksdale,"Barksdale, Jim",DEM
+GA,S,S6GA00218,,Cheryl ,Copeland,"Copeland, Cheryl ",DEM
+GA,S,S4GA11202,,"John F., III",Coyne,"Coyne, John F., III",DEM
+GA,S,S6GA00242,,Mary Kay,Bacallao,"Bacallao, Mary Kay",REP
+GA,S,S4GA11236 ,,Derrick,Grayson,"Grayson, Derrick",REP
+GA,S,S6GA00119 ,(I),Johnny,Isakson,"Isakson, Johnny",REP
+GA,S,S4GA11103,,Allen,Buckley,"Buckley, Allen",LIB
+GA,S,S6GA00259,,Michelle,Gates,"Gates, Michelle",W
+,,,,,,,
+GA,01,H4GA01039 ,(I),"Earl ""Buddy""",Carter,"Carter, Earl ""Buddy""",REP
+GA,01,H2GA01223,,Nathan,Russo,"Russo, Nathan",W
+,,,,,,,
+GA,02,H2GA02031,(I),Sanford,Bishop,"Bishop, Sanford",DEM
+GA,02,H4GA02060 ,,Greg,Duke,"Duke, Greg",REP
+GA,02,H6GA02123,,Diane,Vann,"Vann, Diane",REP
+,,,,,,,
+GA,03,H6GA03154,,Angela,Pendley,"Pendley, Angela",DEM
+GA,03,H6GA03113,,Drew,Ferguson,"Ferguson, Drew",REP
+,,,,,,,
+GA,04,H6GA04129,(I),"Henry C. ""Hank,"" Jr.",Johnson,"Johnson, Henry C. ""Hank,"" Jr.",DEM
+GA,04,H6GA04152,,Victor ,Armendariz,"Armendariz, Victor ",REP
+,,,,,,,
+GA,05,H6GA05217,(I),John R.,Lewis,"Lewis, John R.",DEM
+GA,05,H6GA05290,,Douglas ,Bell,"Bell, Douglas ",REP
+,,,,,,,
+GA,06,H6GA06124,,Rodney ,Stooksbury,"Stooksbury, Rodney ",DEM
+GA,06,H4GA06087,(I),Tom ,Price,"Price, Tom ",REP
+,,,,,,,
+GA,07,H6GA07155,,Rashid ,Malik,"Malik, Rashid ",DEM
+GA,07,H0GA07133,(I),Rob,Woodall,"Woodall, Rob",REP
+,,,,,,,
+GA,08,H6GA08120,,James Neal,Harris,"Harris, James Neal",DEM
+GA,08,H0GA08099 ,(I),Austin ,Scott,"Scott, Austin ",REP
+,,,,,,,
+GA,09,H2GA09150 ,(I),Doug ,Collins,"Collins, Doug ",REP
+,,,,,,,
+GA,10,H0GA07125 ,(I),Jody ,Hice,"Hice, Jody ",REP
+GA,10,H6GA10159,,Leonard,Ware,"Ware, Leonard",W
+,,,,,,,
+GA,11,H4GA11111,,Don ,Wilson,"Wilson, Don ",DEM
+GA,11,H4GA11061 ,(I),Barry,Loudermilk,"Loudermilk, Barry",REP
+,,,,,,,
+GA,12,H6GA12031,,Patricia C.,McCracken,"McCracken, Patricia C.",DEM
+GA,12,H2GA12121,(I),Rick ,Allen,"Allen, Rick ",REP
+,,,,,,,
+GA,13,H2GA13012 ,(I),David ,Scott,"Scott, David ",DEM
+,,,,,,,
+GA,14,H0GA09030 ,(I),Tom ,Graves,"Graves, Tom ",REP
+GA,14,H6GA14037,,Patrick A.,Boggs,"Boggs, Patrick A.",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB=Libertarian
+,,,,,,,W= Write-In

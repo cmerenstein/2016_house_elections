@@ -1,0 +1,16 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+RI,01,H0RI01073,(I),David N.,Cicilline,"Cicilline, David N.",DEM
+RI,01,H4RI01133,,Harold Russell,Taub,"Taub, Harold Russell",REP
+,,,,,,,
+RI,02,H0RI02139,(I),James R.,Langevin,"Langevin, James R.",DEM
+RI,02,H4RI02107,,Rhue R.,Reis,"Reis, Rhue R.",REP
+RI,02,H6RI02284,,Salvatore G.,Caiozzo,"Caiozzo, Salvatore G.",IND
+RI,02,H4RI02073,,Jeffrey C.,Johnson,"Johnson, Jeffrey C.",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent

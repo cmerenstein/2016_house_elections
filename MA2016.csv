@@ -1,0 +1,36 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MA,01,H8MA02041,(I),Richard E.,Neal,"Neal, Richard E.",DEM
+MA,01,H6MA01096,,Thomas T.,Simmons,"Simmons, Thomas T.",LIB
+MA,01,H4MA01059,,Frederick O.,Mayock,"Mayock, Frederick O.",IND
+,,,,,,,
+MA,02,H4MA03022,(I),James P.,McGovern,"McGovern, James P.",DEM
+,,,,,,,
+MA,03,H8MA05143,(I),Nicola S.,Tsongas,"Tsongas, Nicola S.",DEM
+MA,03,H4MA03097,,Ann,Wofford,"Wofford, Ann",REP
+,,,,,,,
+MA,04,H2MA04073,(I),"Joseph P., III",Kennedy,"Kennedy, Joseph P., III",DEM
+MA,04,H0MA09027,,David A.,Rosa,"Rosa, David A.",REP
+,,,,,,,
+MA,05,H4MA05084,(I),Katherine M.,Clark,"Clark, Katherine M.",DEM
+,,,,,,,
+MA,06,H4MA06090,(I),Seth,Moulton,"Moulton, Seth",DEM
+,,,,,,,
+MA,07,H8MA08071,(I),Michael E.,Capuano,"Capuano, Michael E.",DEM
+,,,,,,,
+MA,08,H2MA09072,(I),Stephen F. ,Lynch,"Lynch, Stephen F. ",DEM
+MA,08,H6MA08299,,William,Burke,"Burke, William",DEM
+,,,,,,,
+MA,09,H0MA10082,(I),William Richard ,Keating,"Keating, William Richard ",DEM
+MA,09,H4MA09052,,Mark C.,Alliegro,"Alliegro, Mark C.",REP
+MA,09,H6MA09180,,Paul J.,Harrington,"Harrington, Paul J.",IND
+MA,09,H6MA09164,,Christopher D.,Cataldo,"Cataldo, Christopher D.",U
+MA,09,H6MA09198,,Anna Grace,Raduc,"Raduc, Anna Grace",U
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LIB = Libertarian
+,,,,,,,U = Unenrolled

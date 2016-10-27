@@ -1,0 +1,42 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WI,S,S8WI00026,,Russ,Feingold,"Feingold, Russ",DEM
+WI,S,S0WI00197,(I),Ron ,Johnson,"Johnson, Ron ",REP
+WI,S,S6WI00152,,Phillip N.,Anderson,"Anderson, Phillip N.",LIB
+,,,,,,,
+WI,01,H6WI01192,,Ryan,Solen,"Solen, Ryan",DEM
+WI,01,H8WI01024,(I),Paul,Ryan,"Ryan, Paul",REP
+WI,01,H6WI01200,,Jason,Lebeck,"Lebeck, Jason",LIB
+WI,01,H6WI01234,,Jason,Lebeck,"Zimmerman, Spencer",TC
+,,,,,,,
+WI,02,H2WI02124,(I),Mark,Pocan,"Pocan, Mark",DEM
+WI,02,H8WI02121,,Peter,Theron,"Theron, Peter",REP
+,,,,,,,
+WI,03,H6WI03099,(I),Ron ,Kind,"Kind, Ron ",DEM
+,,,,,,,
+WI,04,H4WI04183,(I),Gwen S.,Moore,"Moore, Gwen S.",DEM
+WI,04,H6WI04063,,Andy,Craig,"Craig, Andy",LIB
+WI,04,H4WI04266,,Andy,Craig,"Raymond, Robert R. ",IND
+,,,,,,,
+WI,05,H6WI05110,,Khary,Penebaker,"Penebaker, Khary",DEM
+WI,05,H8WI09050,(I),"F. James., Jr.",Sensenbrenner,"Sensenbrenner, F. James., Jr.",REP
+WI,05,H6WI05128,,John ,Arndt,"Arndt, John ",LIB
+,,,,,,,
+WI,06,H6WI06100,,Sarah,Lloyd,"Lloyd, Sarah",DEM
+WI,06,H4WI06048,(I),Glenn,Grothman,"Grothman, Glenn",REP
+WI,06,H6WI06118,,W. Michael,Slattery,"Dahlke, Jeff",IND
+,,,,,,,
+WI,07,H6WI07181,,Mary,Hoeft,"Hoeft, Mary",DEM
+WI,07,H0WI07051,(I),Sean,Duffy,"Duffy, Sean",REP
+,,,,,,,
+WI,08,H6WI08163,,Tom,Nelson,"Nelson, Tom",DEM
+WI,08,H6WI08155,,Mike,Gallagher,"Gallagher, Mike",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LIB = Libertarian
+,,,,,,,TC = Trump Conservative

@@ -1,0 +1,31 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+KY,S,S6KY00120,,Jim,Gray,"Gray, Jim",DEM
+KY,S,S0KY00156,(I),Rand,Paul,"Paul, Rand",REP
+KY,S,S0KY00255,,Billy Ray,Wilson,"Wilson, Billy Ray",W
+,,,,,,,
+KY,01,H4KY01073,,Samuel L.,Gaskins,"Gaskins, Samuel L.",DEM
+KY,01,H6KY01110,,James R.,Comer,"Comer, James R.",REP
+KY,01,H6KY01151,,Terry,McIntosh,"McIntosh, Terry",W
+,,,,,,,
+KY,02,H8KY02031,(I),S. Brett,Guthrie,"Guthrie, S. Brett",REP
+,,,,,,,
+KY,03,H6KY03124,(I),John A.,Yarmuth,"Yarmuth, John A.",DEM
+KY,03,H6KY03173,,Harold,Bratcher,"Bratcher, Harold",REP
+KY,03,H6KY03181,,Everett,Corley,"Corley, Everett",FFP
+,,,,,,,
+KY,04,H6KY04106 ,,Calvin,Sidle,"Sidle, Calvin",DEM
+KY,04,H2KY04121,(I),Thomas,Massie,"Massie, Thomas",REP
+,,,,,,,
+KY,05,H0KY05015,(I),"Harold ""Hal""",Rogers,"Rogers, Harold ""Hal""",REP
+,,,,,,,
+KY,06,H6KY06127,,Nancy Jo,Kemper,"Kemper, Nancy Jo",DEM
+KY,06,H0KY06104,(I),Andy,Barr,"Barr, Andy",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,FFP = Forefathers Party
+,,,,,,,W = Write-in Candidate (Not on Ballot)

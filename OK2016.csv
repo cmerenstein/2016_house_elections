@@ -1,0 +1,31 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OK,S,S6OK04114,,Mike ,Workman,"Workman, Mike ",DEM
+OK,S,S4OK00232,(I),James,Lankford,"Lankford, James",REP
+OK,S,S6OK04098,,Robert T.,Murphy,"Murphy, Robert T.",LIB
+OK,S,S4OK00372,,Mark T.,Beard,"Beard, Mark T.",IND
+OK,S,S6OK04130,,Sean ,Braddy,"Braddy, Sean ",IND
+,,,,,,,
+OK,01,H2OK01143 ,(I),Jim ,Bridenstine,"Bridenstine, Jim ",REP
+,,,,,,,
+OK,02,H4OK02170 ,,Joshua,Harris-Till,"Harris-Till, Joshua",DEM
+OK,02,H2OK02083,(I),Markwayne ,Mullin,"Mullin, Markwayne ",REP
+OK,02,H6OK02258,,John ,McCarthy,"McCarthy, John ",IND
+,,,,,,,
+OK,03,H6OK03215 ,,Frankie,Robbins,"Robbins, Frankie",DEM
+OK,03,H4OK06056 ,(I),Frank D.,Lucas,"Lucas, Frank D.",REP
+,,,,,,,
+OK,04,H6OK04130 ,,Christina,Owen,"Owen, Christina",DEM
+OK,04,H2OK04055 ,(I),Tom,Cole,"Cole, Tom",REP
+OK,04,H6OK04148,,Sevier,White,"White, Sevier",LIB
+,,,,,,,
+OK,05,H6OK05251 ,,Al,McAffrey,"McAffrey, Al",DEM
+OK,05,H4OK05132 ,(I),Steve ,Russell,"Russell, Steve ",REP
+OK,05,H6OK05277,,Zachary,Knight,"Knight, Zachary",LIB
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent

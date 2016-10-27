@@ -1,0 +1,21 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID #,(I),CANDATE NAME (First),CANDATE NAME (Last),CANDATE NAME,PARTY
+,,,,,,,
+ID,S,S6ID00112,,Jerry ,Sturgill,"Sturgill, Jerry ",DEM
+ID,S,S8ID00027,(I),Mike,Crapo,"Crapo, Mike",REP
+ID,S,S6ID00104,,Ray J.,Writz,"Writz, Ray J.",CON
+,,,,,,,
+ID,01,H6ID01250,,James ,Piotrowski,"Piotrowski, James ",DEM
+ID,01,H0ID01253,(I),Raul R.,Labrador,"Labrador, Raul R.",REP
+ID,01,H2ID01150,,,Pro-Life,Pro-Life,W
+,,,,,,,
+ID,02,H6ID02209,,Jennifer ,Martinez,"Martinez, Jennifer ",DEM
+ID,02,H8ID02064,(I),Mike ,Simpson,"Simpson, Mike ",REP
+ID,02,H6ID02183,,Anthony,Tomkins,"Tomkins, Anthony",CON
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,W = Write-In Candidate (Not on Ballot)

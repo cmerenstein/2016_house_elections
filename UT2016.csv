@@ -1,0 +1,32 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+UT,S,S6UT00246,,Misty K.,Snow,"Snow, Misty K.",DEM
+UT,S,S0UT00165 ,(I),Mike,Lee,"Lee, Mike",REP
+UT,S,S6UT00261,,Stoney,Fonua,"Fonua, Stoney",IAP
+UT,S,S2UT00187,,Bill,Barron,"Barron, Bill",UN
+,,,,,,,
+UT,01,H6UT01137 ,,Peter C.,Clemens,"Clemens, Peter C.",DEM
+UT,01,H2UT01094,(I),Rob,Bishop,"Bishop, Rob",REP
+UT,01,H4UT01108,,Craig,Bowden,"Bowden, Craig",LIB
+UT,01,H6UT01145,,"Chadwick H., III",Fairbanks,"Fairbanks, Chadwick H., III",UN
+,,,,,,,
+UT,02,H6UT02390 ,,Charlene,Albarran,"Albarran, Charlene",DEM
+UT,02,H2UT02324,(I),Chris,Stewart,"Stewart, Chris",REP
+UT,02,H6UT02416 ,,"Paul J., Jr.",McCollaum,"McCollaum, Paul J., Jr.",CON
+,,,,,,,
+UT,03,H4UT03211,,Stephen P.,Tryon,"Tryon, Stephen P.",DEM
+UT,03,H8UT03089,(I),Jason,Chaffetz,"Chaffetz, Jason",REP
+,,,,,,,
+UT,04,H4UT04011,,Doug,Owens,"Owens, Doug",DEM
+UT,04,H2UT04023,(I),Mia B.,Love,"Love, Mia B.",REP
+UT,04,H4UT04045,,Collin R.,Simonsen,"Simonsen, Collin R.",CON
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic 
+,,,,,,,REP = Republican 
+,,,,,,,CON = Constitution 
+,,,,,,,IAP = Independent American
+,,,,,,,LIB = Libertarian  
+,,,,,,,UN =  Unaffiliated

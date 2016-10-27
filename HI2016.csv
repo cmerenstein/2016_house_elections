@@ -1,0 +1,25 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+HI,S,S4HI00136 ,(I),Brian,Schatz,"Schatz, Brian",DEM
+HI,S,S0HI00126,,John,Carroll,"Carroll, John",REP
+HI,S,S6HI00305,,John M. (Raghu),Giuffre,"Giuffre, John M. (Raghu)",AMS
+HI,S,S4HI00151,,Joy J,Allison,"Allison, Joy J",CON
+HI,S,S4HI00169,,Michael A.,Kokoski,"Kokoski, Michael A.",LIB
+,,,,,,,
+HI,01,H2HI02110,,Colleen Wakako,Hanabusa,"Hanabusa, Colleen Wakako",DEM
+HI,01,H6HI01279,,Shirlene D. (Shirl),Ostrov,"Ostrov, Shirlene D. (Shirl)",REP
+HI,01,H6HI01261,,Alan J.K.,Yim,"Yim, Alan J.K.",LIB
+HI,01,H4HI01183,,Calvin (G),Griffin,"Griffin, Calvin (G)",N
+,,,,,,,
+HI,02,H2HI02508,(I),Tulsi,Gabbard,"Gabbard, Tulsi",DEM
+HI,02,H6HI02400,,Angela Aulani,Kaaihue,"Kaaihue, Angela Aulani",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,AMS = American Shopping
+,,,,,,,CON = Constitution
+,,,,,,,LIB = Libertarian
+,,,,,,,N = Nonpartisan

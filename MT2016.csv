@@ -1,0 +1,12 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MT,00,H6MT01095,,Denise,Juneau,"Juneau, Denise",DEM
+MT,00,H4MT01041,(I),Ryan,Zinke,"Zinke, Ryan",REP
+MT,00,H6MT00097,,Rick,Breckenridge,"Breckenridge, Rick",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian

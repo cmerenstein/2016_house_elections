@@ -1,0 +1,28 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AK,S,S8AK00082,,Ray,Metcalfe,"Metcalfe, Ray",DEM
+AK,S,S4AK00099,(I),Lisa,Murkowski,"Murkowski, Lisa",REP
+AK,S,S0AK00121,,Joe,Miller,"Miller, Joe",LIB
+AK,S,S6AK00201,,Breck A.,Craig,"Craig, Breck A.",NAF
+AK,S,S4AK00115,,Ted,Gianoutsos,"Gianoutsos, Ted",NAF
+AK,S,S6AK00151,,Margaret,Stock,"Stock, Margaret",NAF
+AK,S,S0AK00162,,"Sidney ""Sid""",Hill,"Hill, Sidney ""Sid""",W
+AK,S,S6AK00193,,Paul,Kendall,"Kendall, Paul",W
+AK,S,S6AK00219,,Rob,Mulford,"Mulford, Rob",W
+AK,S,S2AK00044,,Jed,Whittaker,"Whittaker, Jed",W
+,,,,,,,
+AK,00,H6AK00235,,Steve,Lindbeck,"Lindbeck, Steve",DEM
+AK,00,H6AK00045,(I),Don,Young,"Young, Don",REP
+AK,00,H2AK00143,,Jim C.,McDermott,"McDermott, Jim C.",LIB
+AK,00,H6AK01050,,Bernie,Souphanavong,"Souphanavong, Bernie",NAF
+AK,00,H6AK00318,,Zachary A.,Kile,"Kile, Zachary A.",W
+AK,00,H6AK00284,,Stephen,Wright,"Wright, Stephen",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,NAF = Non-Affiliated
+,,,,,,,W = Write-in Candidate (Not on Ballot)

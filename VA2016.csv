@@ -1,0 +1,43 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+VA,01,H6VA01174,,"M. D. ""Matt""",Rowe,"Rowe, M. D. ""Matt""",DEM
+VA,01,H8VA01147,(I),"Robert J. ""Rob""",Wittman,"Wittman, Robert J. ""Rob""",REP
+VA,01,H0VA01185,,Glenda Gail,Parker,"Parker, Glenda Gail",IND
+,,,,,,,
+VA,02,H6VA02115,,Shaun D.,Brown,"Brown, Shaun D.",DEM
+VA,02,H0VA02118,,Scott W.,Taylor,"Taylor, Scott W.",REP
+,,,,,,,
+VA,03,H6VA01117,(I),"Robert C. ""Bobby""",Scott,"Scott, Robert C. ""Bobby""",DEM
+VA,03,H6VA03089,,"M. L. ""Marty""",Williams,"Williams, M. L. ""Marty""",REP
+,,,,,,,
+VA,04,H6VA04061,,A. Donald ,McEachin,"McEachin, A. Donald ",DEM
+VA,04,H6VA07130,,"Michael L. ""Mike""",Wade,"Wade, Michael L. ""Mike""",REP
+,,,,,,,
+VA,05,H6VA05118,,Jane D.,Dittmar,"Dittmar, Jane D.",DEM
+VA,05,H6VA05142,,"Tom A., Jr.",Garrett,"Garrett, Tom A., Jr.",REP
+,,,,,,,
+VA,06,H6VA06157,,Kai E.,Degner,"Degner, Kai E.",DEM
+VA,06,H2VA06115,(I),"Robert W. ""Bob""",Goodlatte,"Goodlatte, Robert W. ""Bob""",REP
+,,,,,,,
+VA,07,H6VA07148,,Eileen M.,Bedell,"Bedell, Eileen M.",DEM
+VA,07,H4VA07143,(I),David A.,Brat,"Brat, David A.",REP
+,,,,,,,
+VA,08,H4VA08224,(I),"Donald S., Jr.",Beyer,"Beyer, Donald S., Jr.",DEM
+VA,08,H6VA08237,,Charles A.,Hernick,"Hernick, Charles A.",REP
+VA,08,H6VA08245,,Julio,Gracia,"Gracia, Julio",IND
+,,,,,,,
+VA,09,H6VA09086,,Derek W.,Kitts,"Kitts, Derek W.",DEM
+VA,09,H0VA09055,(I),H. Morgan,Griffith,"Griffith, H. Morgan",REP
+VA,09,H6VA09094,,Janice Allen,Boyd,"Boyd, Janice Allen",IND
+,,,,,,,
+VA,10,H6VA10209,,LuAnn L.,Bennett,"Bennett, LuAnn L.",DEM
+VA,10,H4VA10089,(I),Barbara Jean,Comstock,"Comstock, Barbara Jean",REP
+,,,,,,,
+VA,11,H8VA11062,(I),"G.E. ""Gerry""",Connolly,"Connolly, G.E. ""Gerry""",DEM
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent

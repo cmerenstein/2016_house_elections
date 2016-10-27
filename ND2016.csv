@@ -1,0 +1,18 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+ND,S,S6ND00108,,Eliot,Glassheim,"Glassheim, Eliot",DNL
+ND,S,S0ND00093,(I),John,Hoeven,"Hoeven, John",REP
+ND,S,S6ND00116,,Robert N.,Marquette,"Marquette, Robert N.",LIB
+ND,S,S6ND00082,,,,"Germalic, James",IND
+,,,,,,,
+ND,00,H6ND01015,,Chase,Iron Eyes,"Iron Eyes, Chase",DNL
+ND,00,H0ND01026,(I),Kevin,Cramer,"Cramer, Kevin",REP
+ND,00,H4ND01028,,Jack,Seaman,"Seaman, Jack",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DNL = Democratic-Nonpartisan League
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent

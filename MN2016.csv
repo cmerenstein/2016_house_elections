@@ -1,0 +1,36 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MN,01,H6MN01174,(I),Tim ,Walz,"Walz, Tim ",DFL
+MN,01,H0MN01045,,Jim,Hagedorn,"Hagedorn, Jim",REP
+,,,,,,,
+MN,02,H6MN02131,,Angie ,Craig,"Craig, Angie ",DFL
+MN,02,H6MN02149,,Jason,Lewis,"Lewis, Jason",REP
+MN,02,H4MN02136,,Paula,Overby,"Overby, Paula",IDP
+,,,,,,,
+MN,03,H8MN03069 ,,Terri E.,Bonoff,"Bonoff, Terri E.",DFL
+MN,03,H8MN03077 ,(I),Erik,Paulsen,"Paulsen, Erik",REP
+,,,,,,,
+MN,04,H0MN04049,(I),Betty ,McCollum,"McCollum, Betty ",DFL
+MN,04,H6MN04236,,Greg,Ryan,"Ryan, Greg",REP
+MN,04,H6MN04269 ,,Susan Pendergast,Sindt,"Sindt, Susan Pendergast",LMN
+,,,,,,,
+MN,05,H6MN05183,(I),Keith,Ellison,"Ellison, Keith",DFL
+MN,05,H6MN05332 ,,Frank Nelson,Drake,"Drake, Frank Nelson",REP
+MN,05,H6MN05340,,Dennis,Schuller,"Schuller, Dennis",LMN
+,,,,,,,
+MN,06,H6MN06181,,David,Snyder,"Snyder, David",DFL
+MN,06,H4MN06087,(I),Tom,Emmer,"Emmer, Tom",REP
+,,,,,,,
+MN,07,H2MN07014,(I),Collin,Peterson,"Peterson, Collin",DFL
+MN,07,H6MN07304,,Dave,Hughes,"Hughes, Dave",REP
+,,,,,,,
+MN,08,H2MN08111,(I),Rick ,Nolan,"Nolan, Rick ",DFL
+MN,08,H4MN08083,,Stewart,Mills,"Mills, Stewart",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DFL = Democratic-Farmer-Labor
+,,,,,,,REP = Republican
+,,,,,,,IDP = Independence
+,,,,,,,LMN = Legal Marijuana Now

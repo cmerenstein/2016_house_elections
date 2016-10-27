@@ -1,0 +1,28 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AL,S,S6AL00302,,Ron,Crumpton,"Crumpton, Ron",DEM
+AL,S,S6AL00013,(I),Richard C.,Shelby,"Shelby, Richard C.",REP
+,,,,,,,
+AL,01,H4AL01123,(I),Bradley,Byrne,"Byrne, Bradley",REP
+,,,,,,,
+AL,02,H6AL02167,,Nathan ,Mathis,"Mathis, Nathan ",DEM
+AL,02,H0AL02087,(I),Martha,Roby,"Roby, Martha",REP
+,,,,,,,
+AL,03,H4AL03061,,Jesse,Smith,"Smith, Jesse",DEM
+AL,03,H2AL03032,(I),Mike,Rogers,"Rogers, Mike",REP
+,,,,,,,
+AL,04,H6AL04098,(I),Robert,Aderholt,"Aderholt, Robert",REP
+,,,,,,,
+AL,05,H6AL05202,,"Will, Jr.",Boyd,"Boyd, Will, Jr.",DEM
+AL,05,H0AL05163,(I),Mo,Brooks,"Brooks, Mo",REP
+,,,,,,,
+AL,06,H6AL06127,,David J.,Putman,"Putman, David J.",DEM
+AL,06,H4AL06098,(I),Gary,Palmer,"Palmer, Gary",REP
+,,,,,,,
+AL,07,H0AL07086,(I),Terri A.,Sewell,"Sewell, Terri A.",DEM
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican

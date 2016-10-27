@@ -1,0 +1,14 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WY,00,H6WY01074 ,,Ryan,Greene,"Greene, Ryan",DEM
+WY,00,H6WY00159 ,,Liz,Cheney,"Cheney, Liz",REP
+WY,00,H2WY00133,,Daniel Clyde,Cummings,"Cummings, Daniel Clyde",CON
+WY,00,H6WY00175,,Lawrence Gerard,Struempf,"Struempf, Lawrence Gerard",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,LIB = Libertarian

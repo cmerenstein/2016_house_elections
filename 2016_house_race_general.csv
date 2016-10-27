@@ -1,0 +1,2523 @@
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AK,S,S8AK00082,,Ray,Metcalfe,"Metcalfe, Ray",DEM
+AK,S,S4AK00099,(I),Lisa,Murkowski,"Murkowski, Lisa",REP
+AK,S,S0AK00121,,Joe,Miller,"Miller, Joe",LIB
+AK,S,S6AK00201,,Breck A.,Craig,"Craig, Breck A.",NAF
+AK,S,S4AK00115,,Ted,Gianoutsos,"Gianoutsos, Ted",NAF
+AK,S,S6AK00151,,Margaret,Stock,"Stock, Margaret",NAF
+AK,S,S0AK00162,,"Sidney ""Sid""",Hill,"Hill, Sidney ""Sid""",W
+AK,S,S6AK00193,,Paul,Kendall,"Kendall, Paul",W
+AK,S,S6AK00219,,Rob,Mulford,"Mulford, Rob",W
+AK,S,S2AK00044,,Jed,Whittaker,"Whittaker, Jed",W
+,,,,,,,
+AK,00,H6AK00235,,Steve,Lindbeck,"Lindbeck, Steve",DEM
+AK,00,H6AK00045,(I),Don,Young,"Young, Don",REP
+AK,00,H2AK00143,,Jim C.,McDermott,"McDermott, Jim C.",LIB
+AK,00,H6AK01050,,Bernie,Souphanavong,"Souphanavong, Bernie",NAF
+AK,00,H6AK00318,,Zachary A.,Kile,"Kile, Zachary A.",W
+AK,00,H6AK00284,,Stephen,Wright,"Wright, Stephen",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,NAF = Non-Affiliated
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AL,S,S6AL00302,,Ron,Crumpton,"Crumpton, Ron",DEM
+AL,S,S6AL00013,(I),Richard C.,Shelby,"Shelby, Richard C.",REP
+,,,,,,,
+AL,01,H4AL01123,(I),Bradley,Byrne,"Byrne, Bradley",REP
+,,,,,,,
+AL,02,H6AL02167,,Nathan ,Mathis,"Mathis, Nathan ",DEM
+AL,02,H0AL02087,(I),Martha,Roby,"Roby, Martha",REP
+,,,,,,,
+AL,03,H4AL03061,,Jesse,Smith,"Smith, Jesse",DEM
+AL,03,H2AL03032,(I),Mike,Rogers,"Rogers, Mike",REP
+,,,,,,,
+AL,04,H6AL04098,(I),Robert,Aderholt,"Aderholt, Robert",REP
+,,,,,,,
+AL,05,H6AL05202,,"Will, Jr.",Boyd,"Boyd, Will, Jr.",DEM
+AL,05,H0AL05163,(I),Mo,Brooks,"Brooks, Mo",REP
+,,,,,,,
+AL,06,H6AL06127,,David J.,Putman,"Putman, David J.",DEM
+AL,06,H4AL06098,(I),Gary,Palmer,"Palmer, Gary",REP
+,,,,,,,
+AL,07,H0AL07086,(I),Terri A.,Sewell,"Sewell, Terri A.",DEM
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AR,S,S6AR00132,,Conner,Eldridge,"Eldridge, Conner",DEM
+AR,S,S0AR00150,(I),John,Boozman,"Boozman, John",REP
+AR,S,S6AR00140 ,,Frank,Gilbert,"Gilbert, Frank",LIB
+AR,S,S6AR00157,,Jason,Tate,"Tate, Jason",W
+,,,,,,,
+AR,01,H0AR01083,(I),Rick ,Crawford,"Crawford, Rick ",REP
+AR,01,H6AR01114,,Mark ,West,"West, Mark ",LIB
+,,,,,,,
+AR,02,H6AR02245 ,,Dianne ,Curry,"Curry, Dianne ",DEM
+AR,02,H4AR02141,(I),French,Hill,"Hill, French",REP
+AR,02,H2AR02061,,Chris,Hayes,"Hayes, Chris",LIB
+AR,02,H4AR02182,,Charles,Neely,"Neely, Charles",W
+AR,02,H6AR02260,,Mathew ,Wescott,"Wescott, Mathew ",W
+,,,,,,,
+AR,03,H0AR03055,(I),Steve,Womack,"Womack, Steve",REP
+AR,03,H6AR03110,,Steve,Isaacson,"Isaacson, Steve",LIB
+,,,,,,,
+AR,04,H4AR04048,(I),Bruce,Westerman,"Westerman, Bruce",REP
+AR,04,H6AR04076,,Kerry,Hicks,"Hicks, Kerry",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AZ,S,S6AZ00225 ,,Ann,Kirkpatrick,"Kirkpatrick, Ann",DEM
+AZ,S,S6AZ00019 ,(I),John,McCain,"McCain, John",REP
+AZ,S,S6AZ00340,,Gary,Swing,"Swing, Gary",GRE
+AZ,S,S2AZ00273,,Sheila ,Bilyeu,"Bilyeu, Sheila ",W
+AZ,S,S6AZ00399 ,,Anthony,Camboni,"Camboni, Anthony",W
+AZ,S,S0AZ00327,,Santos,Chavez,"Chavez, Santos",W
+AZ,S,S6AZ00134 ,,Leonard,Clark,"Clark, Leonard",W
+AZ,S,S6AZ00365,,Sydney,Dudikoff,"Dudikoff, Sydney",W
+AZ,S,S6AZ00241,,Selena,Lopez,"Lopez, Selena",W
+AZ,S,S6AZ00258 ,,Pat,Quinn,"Quinn, Pat",W
+AZ,S,S6AZ00381,,"Gene, II",Scott,"Scott, Gene, II",W
+,,,,,,,
+AZ,01,H6AZ01199,,Tom,O'Halleran,"O'Halleran, Tom",DEM
+AZ,01,H2AZ04127 ,,Paul,Babeu,"Babeu, Paul",REP
+AZ,01,H6AZ01264,,Ray,Parrish,"Parrish, Ray",GRE
+,,,,,,,
+AZ,02,H2AZ08078,,Matt,Heinz,"Heinz, Matt",DEM
+AZ,02,H2AZ08102 ,(I),Martha,McSally,"McSally, Martha",REP
+,,,,,,,
+AZ,03,H2AZ07070 ,(I),Raúl,Grijalva,"Grijalva, Raúl",DEM
+AZ,03,H6AZ03245,,Bill,Abatecola,"Abatecola, Bill",W
+AZ,03,H6AZ03211 ,,Harvey,Martin,"Martin, Harvey",W
+AZ,03,H4AZ03075,,Federico,Sanchez,"Sanchez, Federico",W
+AZ,03,H2AZ07161,,Jaime,Vasquez,"Vasquez, Jaime",W
+,,,,,,,
+AZ,04,H2AZ04143 ,,Mikel,Weisser,"Weisser, Mikel",DEM
+AZ,04,H0AZ01259,(I),Paul,Gosar,"Gosar, Paul",REP
+,,,,,,,
+AZ,05,H6AZ05133,,Talia,Fuentes,"Fuentes, Talia",DEM
+AZ,05,H6AZ05083,,Andy,Biggs,"Biggs, Andy",REP
+,,,,,,,
+AZ,06,H2AZ05132,,W. John,Williamson,"Williamson, W. John",DEM
+AZ,06,H4AZ06045 ,(I),David,Schweikert,"Schweikert, David",REP
+,,,,,,,
+AZ,07,H4AZ07043,(I),Ruben,Gallego,"Gallego, Ruben",DEM
+AZ,07,H6AZ07030 ,,Eve,Nunez,"Nunez, Eve",REP
+AZ,07,H6AZ07048,,Neil B.,Westbrooks,"Westbrooks, Neil B.",W
+,,,,,,,
+AZ,08,H4AZ04024 ,(I),Trent,Franks,"Franks, Trent",REP
+AZ,08,H2AZ06197,,Mark,Salazar,"Salazar, Mark",GRE
+AZ,08,H6AZ08202,,"Hayden, III",Keener,"Keener, Hayden, III",W
+,,,,,,,
+AZ,09,H2AZ09019 ,(I),Kyrsten,Sinema,"Sinema, Kyrsten",DEM
+AZ,09,H6AZ09010,,Dave,Giles,"Giles, Dave",REP
+AZ,09,H6AZ09077,,Axel ,Bello,"Bello, Axel ",W
+AZ,09,H6AZ09069,,Cary,Dolego,"Dolego, Cary",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+CA,S,S6CA00634 ,,Akinyemi Olabode,Agbede,"Agbede, Akinyemi Olabode",DEM
+CA,S,S6CA00899,,President Cristina,Grappo,"Grappo, President Cristina",DEM
+CA,S,S6CA00584 ,,Kamala D. ,Harris,"Harris, Kamala D. ",DEM
+CA,S,S6CA00832 ,,Massie ,Munroe,"Munroe, Massie ",DEM
+CA,S,S6CA00907 ,,Herbert G.,Peters,"Peters, Herbert G.",DEM
+CA,S,S6CA00865 ,,Emory,Rodgers,"Rodgers, Emory",DEM
+CA,S,S6CA00691 ,,Loretta L.,Sanchez,"Sanchez, Loretta L.",DEM
+CA,S,S6CA00873 ,,Steve,Stokes,"Stokes, Steve",DEM
+CA,S,S2CA00740,,Greg,Conlon,"Conlon, Greg",REP
+CA,S,S6CA00683 ,,Thomas G.,Del Beccaro,"Del Beccaro, Thomas G.",REP
+CA,S,S6CA00915,,Von,Hougo,"Hougo, Von",REP
+CA,S,S2CA00799,,Don,Krampe,"Krampe, Don",REP
+CA,S,S6CA00717 ,,Jerry J.,Laws,"Laws, Jerry J.",REP
+CA,S,S6CA00675,,Tom,Palzer,"Palzer, Tom",REP
+CA,S, S6CA00923,,Karen ,Roseberry,"Roseberry, Karen ",REP
+CA,S,S6CA00741 ,,Duf,Sundheim,"Sundheim, Duf",REP
+CA,S,S8CA00291,,Ron,Unz,"Unz, Ron",REP
+CA,S,S6CA00824 ,,Jarrell ,Williamson,"Williamson, Jarrell ",REP
+CA,S,S6CA00667 ,,Phil,Wyman,"Wyman, Phil",REP
+CA,S,S6CA00931,,George C.,Yang,"Yang, George C.",REP
+CA,S,S6CA00964,,Billy,Falling,"Falling, Billy",W(REP)
+CA,S,,,Alexis,Stuart,"Stuart, Alexis",W(REP)
+CA,S,S6CA00956,,Pamela,Elizondo,"Elizondo, Pamela",GRE
+CA,S,S6CA00972 ,,Mark Matthew ,Herd,"Herd, Mark Matthew ",LIB
+CA,S,S8CA00283,,Gail K.,Lightfoot,"Lightfoot, Gail K.",LIB
+CA,S,S6CA00949,,John Thompson,Parker,"Parker, John Thompson",PAF
+CA,S,S6CA00766 ,,Mike ,Beitiks,"Beitiks, Mike ",NOP
+CA,S,S6CA00980 ,,Eleanor ,García,"García, Eleanor ",NOP
+CA,S,S6CA00733 ,,Tim,Gildersleeve,"Gildersleeve, Tim",NOP
+CA,S,S6CA00774 ,,Clive,Grey,"Grey, Clive",NOP
+CA,S,S4CA00332,,Don J.,Grundmann,"Grundmann, Don J.",NOP
+CA,S,S6CA00998,,Jason,Hanania,"Hanania, Jason",NOP
+CA,S,S6CA01004,,Jason,Kraus,"Kraus, Jason",NOP
+CA,S,S6CA01012,,Paul,Merritt,"Merritt, Paul",NOP
+CA,S,S6CA00881,,Gar,Myers,"Myers, Gar",NOP
+CA,S,S6CA01020,,Ling Ling,Shi,"Shi, Ling Ling",NOP
+CA,S,S6CA00857,,Scott A.,Vineberg,"Vineberg, Scott A.",NOP
+CA,S,,,Ric M.,Llewellyn,"Llewellyn, Ric M.",W(NOP)
+,,,,,,,
+CA,01,H6CA01202 ,,David,Peterson,"Peterson, David",DEM
+CA,01,H6CA01194,,Jim,Reed,"Reed, Jim",DEM
+CA,01,H2CA01136,,Gregory,Cheadle,"Cheadle, Gregory",REP
+CA,01,H2CA02142,(I),Doug,La Malfa,"La Malfa, Doug",REP
+CA,01,H6CA01186,,Joe,Montes,"Montes, Joe",REP
+CA,01,H2CA01151,,Gary Allen,Oxley,"Oxley, Gary Allen",REP
+CA,01,H4CA04110,,Jeff,Gerlach,"Gerlach, Jeff",NOP
+,,,,,,,
+CA,02,H2CA06259 ,(I),Jared W.,Huffman,"Huffman, Jared W.",DEM
+CA,02,H6CA02234,,Erin A.,Schrode,"Schrode, Erin A.",DEM
+CA,02,H6CA02226,,Andrew Augustine ,Caffrey,"Caffrey, Andrew Augustine ",W(DEM)
+CA,02,H4CA02098 ,,Dale K.,Mensing,"Mensing, Dale K.",REP
+CA,02,H6CA02242,,Matthew Robert ,Wookey,"Wookey, Matthew Robert ",NOP
+,,,,,,,
+CA,03,H0CA10149 ,(I),John G.,Garamendi,"Garamendi, John G.",DEM
+CA,03,H6CA03117 ,,N. Eugene,Cleek,"Cleek, N. Eugene",REP
+CA,03,H6CA03125 ,,Ryan ,Detert,"Detert, Ryan ",REP
+,,,,,,,
+CA,04,H6CA04156,,Robert W.,Derlet,"Derlet, Robert W.",DEM
+CA,04,H6CA04164 ,,Sean,White,"White, Sean",DEM
+CA,04,H8CA04152 ,(I),Tom,McClintock,"McClintock, Tom",REP
+,,,,,,,
+CA,05,H6CA05344,,Nils ,Palsson,"Palsson, Nils ",DEM
+CA,05,H6CA05351 ,,Alex,Poling,"Poling, Alex",DEM
+CA,05,H8CA01109 ,(I),Mike ,Thompson,"Thompson, Mike ",DEM
+CA,05,H6CA05336 ,,Carlos,Santamaria,"Santamaria, Carlos",REP
+,,,,,,,
+CA,06,H6CA06219,,Jrmar,Jefferson,"Jefferson, Jrmar",DEM
+CA,06,H6CA05195,(I),Doris,Matsui,"Matsui, Doris",DEM
+CA,06,H6CA06227 ,,Robert (Bob),Evans,"Evans, Robert (Bob)",REP
+CA,06,H6CA06235 ,,Mario,Galván,"Galván, Mario",NOP
+CA,06,H6CA28163 ,,Yuriy,Seretskiy,"Seretskiy, Yuriy",NOP
+,,,,,,,
+CA,07,H0CA03078 ,(I),Ami,Bera,"Bera, Ami",DEM
+CA,07,H6CA07126 ,,Scott R.,Jones,"Jones, Scott R.",REP
+,,,,,,,
+CA,08,H6CA08199,,Roger,LaPlante,"LaPlante, Roger",DEM
+CA,08,H6CA08215,,John,Pinkerton,"Pinkerton, John",DEM
+CA,08,H8CA41139 ,,Rita,Ramirez,"Ramirez, Rita",DEM
+CA,08,H2CA08164 ,(I),Paul ,Cook,"Cook, Paul ",REP
+CA,08,H6CA08207,,Tim,Donnelly,"Donnelly, Tim",REP
+,,,,,,,
+CA,09,H4CA11081 ,(I),Jerry,McNerney,"McNerney, Jerry",DEM
+CA,09,H0CA11337 ,,"Antonio C. ""Tony""",Amador,"Amador, Antonio C. ""Tony""",REP
+CA,09,H6CA09098,,Kathryn,Nance,"Nance, Kathryn",REP
+CA,09,H6CA09106,,Alex,Appleby,"Appleby, Alex",LIB
+,,,,,,,
+CA,10,H2CA00096 ,,"Michael J. ""Mike""",Barkley,"Barkley, Michael J. ""Mike""",DEM
+CA,10,H4CA10075 ,,Michael  ,Eggman,"Eggman, Michael  ",DEM
+CA,10,H0CA19173 ,(I),Jeff,Denham,"Denham, Jeff",REP
+CA,10,H6CA10146 ,,Robert,Hodges,"Hodges, Robert",REP
+,,,,,,,
+CA,11,H0CA10073 ,(I),Mark,Desaulnier,"Desaulnier, Mark",DEM
+CA,11,H6CA11169,,Roger Allen,Petersen,"Petersen, Roger Allen",REP
+,,,,,,,
+CA,12,H8CA05035 ,(I),Nancy ,Pelosi,"Pelosi, Nancy ",DEM
+CA,12,H6CA12183 ,,Bob,Miller,"Miller, Bob",REP
+CA,12,H4CA12089 ,,Barry,Hermanson,"Hermanson, Barry",GRE
+CA,12,H6CA12175 ,,Preston,Picus,"Picus, Preston",NOP
+,,,,,,,
+CA,13,H8CA09060 ,(I),Barbara,Lee,"Lee, Barbara",DEM
+CA,13,H6CA13140,,Sue,Caro,"Caro, Sue",REP
+,,,,,,,
+CA,14,H8CA12171,(I),Jackie,Speier,"Speier, Jackie",DEM
+CA,14,H6CA14114,,Angel,Cardenas,"Cardenas, Angel",REP
+,,,,,,,
+CA,15,H2CA15094 ,(I),Eric,Swalwell,"Swalwell, Eric",DEM
+CA,15,H6CA15152 ,,Danny R.,Turner,"Turner, Danny R.",REP
+,,,,,,,
+CA,16,H4CA20082 ,(I),Jim,Costa,"Costa, Jim",DEM
+CA,16,H6CA16135,,David,Rogers,"Rogers, David",REP
+CA,16,H2CA16100,,Johnny M.,Tacherra,"Tacherra, Johnny M.",REP
+CA,16,,,Richard,Gomez,"Gomez, Richard",W(GRE)
+,,,,,,,
+CA,17,H0CA15148 ,(I),Mike ,Honda,"Honda, Mike ",DEM
+CA,17,H4CA12055 ,,Ro,Khanna,"Khanna, Ro",DEM
+CA,17,H6CA17166 ,,Pierluigi C.,Oliverio,"Oliverio, Pierluigi C.",DEM
+CA,17,H6CA17141,,Ron,Cohen,"Cohen, Ron",REP
+CA,17,H6CA17158 ,,Peter,Kuo,"Kuo, Peter",REP
+CA,17,H6CA17174,,Kennita,Watson,"Watson, Kennita",LIB
+,,,,,,,
+CA,18,H8CA12098 ,(I),Anna G.,Eshoo,"Eshoo, Anna G.",DEM
+CA,18,H6CA18115,,Bob,Harlow,"Harlow, Bob",DEM
+CA,18,H4CA18094 ,,Richard B.,Fox,"Fox, Richard B.",REP
+,,,,,,,
+CA,19,H4CA16049 ,(I),Zoe,Lofgren,"Lofgren, Zoe",DEM
+CA,19,H6CA19121 ,,G. Burt,Lancaster,"Lancaster, G. Burt",REP
+,,,,,,,
+CA,20,H6CA20152 ,,Jimmy ,Panetta,"Panetta, Jimmy ",DEM
+CA,20,H6CA20145,,Casey ,Lucius,"Lucius, Casey ",REP
+CA,20,H6CA20178,,Joe,Williams,"Williams, Joe",PAF
+CA,20,H6CA20186,,Jack ,Digby,"Digby, Jack ",NOP
+CA,20,H6CA20194,,Barbara,Honegger,"Honegger, Barbara",NOP
+,,,,,,,
+CA,21,H6CA21218 ,,Emilio Jesus,Huerta,"Huerta, Emilio Jesus",DEM
+CA,21,H6CA21192,,Daniel,Parra,"Parra, Daniel",DEM
+CA,21,H2CA20094 ,(I),David,Valadao,"Valadao, David",REP
+,,,,,,,
+CA,22,H6CA22182 ,,Louie J.,Campos,"Campos, Louie J.",DEM
+CA,22,H6CA22166,,"Teresita ""Tess""",Andres,"Andres, Teresita ""Tess""",REP
+CA,22,H8CA20059 ,(I),Devin G.,Nunes,"Nunes, Devin G.",REP
+,,,,,,,
+CA,23,H6CA23206 ,,Wendy ,Reed,"Reed, Wendy ",DEM
+CA,23,H6CA22125,(I),Kevin,McCarthy,"McCarthy, Kevin",REP
+CA,23,H6CA23222 ,,Ken ,Mettler,"Mettler, Ken ",REP
+CA,23,H6CA23214 ,,Gerald,Morris,"Morris, Gerald",REP
+,,,,,,,
+CA,24,H6CA24303 ,,Salud,Carbajal,"Carbajal, Salud",DEM
+CA,24,H6CA20202,,Benjamin,Lucas,"Lucas, Benjamin",DEM
+CA,24,H6CA24287 ,,"William ""Bill""",Ostrander,"Ostrander, William ""Bill""",DEM
+CA,24,H6CA24311,,Helene,Schneider,"Schneider, Helene",DEM
+CA,24,H6CA24295,,K.H. Katcho,Achadjian,"Achadjian, K.H. Katcho",REP
+CA,24,H4CA24142,,Justin Donald ,Fareed,"Fareed, Justin Donald ",REP
+CA,24,H6CA24329,,Matt T.,Kokkonen,"Kokkonen, Matt T.",REP
+CA,24,H4CA24183,,Steve,Isakson,"Isakson, Steve",NOP
+CA,24,H0CA22086,,John ,Uebersax,"Uebersax, John ",NOP
+,,,,,,,
+CA,25,H6CA25177 ,,Bryan,Caforio,"Caforio, Bryan",DEM
+CA,25,H6CA25151 ,,Lou ,Vince,"Vince, Lou ",DEM
+CA,25,H4CA25123 ,(I),Steve,Knight,"Knight, Steve",REP
+CA,25,H6CA25201,,Jeffrey,Moffatt,"Moffatt, Jeffrey",REP
+CA,25,H6CA25193,,Jeff,Bomberger,"Bomberger, Jeff",W(NOP)
+,,,,,,,
+CA,26,H2CA00120 ,(I),Julia,Brownley,"Brownley, Julia",DEM
+CA,26,H4CA26139,,Rafael A.,Dagnesses,"Dagnesses, Rafael A.",REP
+,,,,,,,
+CA,27,H0CA32101,(I),Judy ,Chu,"Chu, Judy ",DEM
+CA,27,H2CA27198 ,,Jack,Orswell,"Orswell, Jack",REP
+CA,27,H6CA27298,,Tim,Sweeney,"Sweeney, Tim",NOP
+,,,,,,,
+CA,28,H6CA31126,,Sal,Genovese,"Genovese, Sal",DEM
+CA,28,H0CA27085,(I),Adam B.,Schiff,"Schiff, Adam B.",DEM
+CA,28,H6CA28171,,Lenore,Solis,"Solis, Lenore",REP
+,,,,,,,
+CA,29,H6CA29229 ,,Richard,Alarcon,"Alarcon, Richard",DEM
+CA,29,H6CA29203 ,,"Benny ""Benito""",Bernal,"Bernal, Benny ""Benito""",DEM
+CA,29,H2CA28113 ,(I),Tony,Cardenas,"Cardenas, Tony",DEM
+CA,29,H6CA29237 ,,David Z.,Guzman,"Guzman, David Z.",DEM
+CA,29,H6CA29211,,"Joseph ""Joe""",Shammas,"Shammas, Joseph ""Joe""",DEM
+,,,,,,,
+CA,30,H4CA30107,,Luke ,Davis,"Davis, Luke ",DEM
+CA,30,H6CA30177,,Patrea,Patrick,"Patrick, Patrea",DEM
+CA,30,H4CA30123,,A. (Raji),Rab,"Rab, A. (Raji)",DEM
+CA,30,H6CA24113 ,(I),Brad,Sherman,"Sherman, Brad",DEM
+CA,30,H6CA30185,,Mark,Reed,"Reed, Mark",REP
+CA,30,H8CA27088,,Navraj,Singh,"Singh, Navraj",REP
+CA,30,H6CA30193 ,,Christopher David,Townsend,"Townsend, Christopher David",REP
+,,,,,,,
+CA,31,H2CA31125 ,(I),Pete,Aguilar,"Aguilar, Pete",DEM
+CA,31,H6CA31159,,Kaisar,Ahmed,"Ahmed, Kaisar",DEM
+CA,31,H6CA31142,,Joe,Baca,"Baca, Joe",REP
+CA,31,H4CA31071,,Paul ,Chabot,"Chabot, Paul ",REP
+CA,31,H6CA31134 ,,Sean,Flynn,"Flynn, Sean",REP
+,,,,,,,
+CA,32,H6CA32132,,Roger,Hernández,"Hernández, Roger",DEM
+CA,32,H8CA34068 ,(I),Grace F. ,Napolitano,"Napolitano, Grace F. ",DEM
+CA,32,H6CA32140,,Gordon E.,Fisher,"Fisher, Gordon E.",REP
+,,,,,,,
+CA,33,H4CA33119,(I),Ted W.,Lieu,"Lieu, Ted W.",DEM
+CA,33,H6CA33106 ,,Kenneth W.,Wright,"Wright, Kenneth W.",REP
+,,,,,,,
+CA,34,H2CA30143 ,(I),Xavier,Becerra,"Becerra, Xavier",DEM
+CA,34,H6CA34229 ,,Adrienne Nicole,Edwards,"Edwards, Adrienne Nicole",DEM
+CA,34,H6CA34237,,Kenneth,Mejia,"Mejia, Kenneth",W(DEM)
+,,,,,,,
+CA,35,H4CA35031 ,(I),Norma J.,Torres,"Torres, Norma J.",DEM
+CA,35,H6CA35127,,Tyler,Fischella,"Fischella, Tyler",REP
+,,,,,,,
+CA,36,H2CA36439,(I),Raul,Ruiz,"Ruiz, Raul",DEM
+CA,36,H6CA36182,,Jeff,Stone,"Stone, Jeff",REP
+CA,36,H6CA36190,,"Stephan ""Steven""",Wolkowicz,"Wolkowicz, Stephan ""Steven""",REP
+,,,,,,,
+CA,37,H0CA33117 ,(I),Karen,Bass,"Bass, Karen",DEM
+CA,37,H6CA37313,,Chris Blake,Wiggins,"Wiggins, Chris Blake",DEM
+CA,37,H6CA37305 ,,Shariff A.,Hasan,"Hasan, Shariff A.",REP
+,,,,,,,
+CA,38,H2CA39078 ,(I),Linda T.,Sánchez,"Sánchez, Linda T.",DEM
+CA,38,H4CA31105,,Ryan ,Downing,"Downing, Ryan ",REP
+CA,38,H6CA38113,,Scott Michael,Adams,"Adams, Scott Michael",NOP
+,,,,,,,
+CA,39,H6CA39137 ,,Brett ,Murdock,"Murdock, Brett ",DEM
+CA,39,H6CA39020,(I),Ed,Royce,"Royce, Ed",REP
+,,,,,,,
+CA,40,H2CA33048 ,(I),Lucille,Roybal-Allard,"Roybal-Allard, Lucille",DEM
+CA,40,,,J. Cesar,Flores,"Flores, J. Cesar",W(DEM)
+CA,40,H6CA40291,,Roman Gabriel ,Gonzalez,"Gonzalez, Roman Gabriel ",NOP
+,,,,,,,
+CA,41,H2CA43245 ,(I),Mark,Takano,"Takano, Mark",DEM
+CA,41,H6CA41190 ,,Randy ,Fox,"Fox, Randy ",REP
+CA,41,H6CA41208,,Cody,Ryan,"Ryan, Cody",REP
+CA,41,H6CA41182,,Doug,Shepherd,"Shepherd, Doug",REP
+,,,,,,,
+CA,42,H4CA42086 ,,Tim,Sheridan,"Sheridan, Tim",DEM
+CA,42,H2CA37023 ,(I),Ken,Calvert,"Calvert, Ken",REP
+CA,42,H4CA42060 ,,Kerri,Condley,"Condley, Kerri",NOP
+,,,,,,,
+CA,43,H4CA23011 ,(I),Maxine,Waters,"Waters, Maxine",DEM
+CA,43,H6CA44145 ,,Omar,Navarro,"Navarro, Omar",REP
+,,,,,,,
+CA,44,H6CA44103 ,,Nanette Diaz,Barragán,"Barragán, Nanette Diaz",DEM
+CA,44,H6CA44160,,Martha C. ,Delgadillo,"Delgadillo, Martha C. ",DEM
+CA,44,H0CA33158,,Morris F.,Griffin,"Griffin, Morris F.",DEM
+CA,44,H2CA35100 ,,"Isadore, III",Hall,"Hall, Isadore, III",DEM
+CA,44,H6CA44111 ,,Marcus C.,Musante,"Musante, Marcus C.",DEM
+CA,44,H6CA44178 ,,Sylvia,Ortiz,"Ortiz, Sylvia",DEM
+CA,44,H6CA44186,,Armando ,Sotomayor,"Sotomayor, Armando ",DEM
+CA,44,H6CA44129 ,,Christopher  ,Castillo,"Castillo, Christopher  ",REP
+CA,44,H6CA44194,,Ronald,Siegel,"Siegel, Ronald",REP
+CA,44,H6CA44202,,Michael,De Mauricio,"De Mauricio, Michael",NOP
+,,,,,,,
+CA,45,H6CA45118,,Max,Gouron,"Gouron, Max",DEM
+CA,45,H2CA48095 ,,Ron,Varasteh,"Varasteh, Ron",DEM
+CA,45,H4CA45089,,Greg ,Raths,"Raths, Greg ",REP
+CA,45,H4CA45097,(I),Mimi,Walters,"Walters, Mimi",REP
+,,,,,,,
+CA,46,H6CA46116 ,,Lou,Correa,"Correa, Lou",DEM
+CA,46,H6CA46157 ,,Joe,Dunn,"Dunn, Joe",DEM
+CA,46,H6CA46140,,Bao,Nguyen,"Nguyen, Bao",DEM
+CA,46,H6CA41174 ,,Louie A.,Contreras,"Contreras, Louie A.",REP
+CA,46,H6CA46173,,Rodolfo Rudy,Gaona,"Gaona, Rodolfo Rudy",REP
+CA,46,H6CA46165 ,,Bob,Peterson,"Peterson, Bob",REP
+CA,46,H6CA46108 ,,Lynn,Schott,"Schott, Lynn",REP
+CA,46,H6CA46181 ,,Nancy Trinidad,Marin,"Marin, Nancy Trinidad",NOP
+,,,,,,,
+CA,47,H2CA00104,(I),Alan,Lowenthal,"Lowenthal, Alan",DEM
+CA,47,H8CA32039,,Sanford W.,Kahn,"Kahn, Sanford W.",REP
+CA,47,H4CA47069 ,,Andy,Whallon,"Whallon, Andy",REP
+CA,47,,,Rich,Camp,"Camp, Rich",W(NOP)
+,,,,,,,
+CA,48,H2CA46040 ,,Robert John,Banuelos,"Banuelos, Robert John",DEM
+CA,48,H6CA48237 ,,Suzanne,Savary,"Savary, Suzanne",DEM
+CA,48,H8CA42061 ,(I),Dana ,Rohrabacher,"Rohrabacher, Dana ",REP
+,,,,,,,
+CA,49,H6CA49102,,Doug,Applegate,"Applegate, Doug",DEM
+CA,49,H0CA48024,(I),Darrell,Issa,"Issa, Darrell",REP
+CA,49,H6CA49110 ,,Ryan Glenn,Wingo,"Wingo, Ryan Glenn",NOP
+,,,,,,,
+CA,50,H6CA50258 ,,Patrick,Malloy,"Malloy, Patrick",DEM
+CA,50,H2CA50158,,David,Secor,"Secor, David",DEM
+CA,50,H8CA52052 ,(I),Duncan,Hunter,"Hunter, Duncan",REP
+CA,50,H6CA50266,,Scott C.,Meisterlin,"Meisterlin, Scott C.",REP
+CA,50,H6CA50274,,H. Fuji,Shioura,"Shioura, H. Fuji",NOP
+,,,,,,,
+CA,51,H6CA51082,,"Juan ""Charly""",Mercado-Flores,"Mercado-Flores, Juan ""Charly""",DEM
+CA,51,H2CA50026 ,(I),Juan ,Vargas,"Vargas, Juan ",DEM
+CA,51,H6CA51066 ,,"Juan M., Jr.",Hidalgo,"Hidalgo, Juan M., Jr.",REP
+CA,51,H6CA51074,,Carlos J.,Sanchez,"Sanchez, Carlos J.",REP
+,,,,,,,
+CA,52,H2CA52089 ,(I),Scott,Peters,"Peters, Scott",DEM
+CA,52,H6CA52155 ,,Terry Reagan,Allvord,"Allvord, Terry Reagan",REP
+CA,52,H6CA52114 ,,Jacquie,Atkinson,"Atkinson, Jacquie",REP
+CA,52,H6CA52122 ,,"Kenneth ""Mike""",Canada,"Canada, Kenneth ""Mike""",REP
+CA,52,H6CA52130 ,,Denise,Gitsham,"Gitsham, Denise",REP
+CA,52,H6CA52148 ,,John,Horst,"Horst, John",REP
+,,,,,,,
+CA,53,H0CA49055,(I),Susan A.,Davis,"Davis, Susan A.",DEM
+CA,53,H6CA53070 ,,"Nicholas ""Nick""",Walpert,"Walpert, Nicholas ""Nick""",DEM
+CA,53,H6CA53047 ,,Jim,Ash,"Ash, Jim",REP
+CA,53,H6CA53054 ,,James,Veltmeyer,"Veltmeyer, James",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+CO,S,S0CO00211,(I),Michael,Bennet,"Bennet, Michael",DEM
+CO,S,S6CO00226,,Darryl,Glenn,"Glenn, Darryl",REP
+CO,S,S6CO00317 ,,Lily Tang ,Williams,"Williams, Lily Tang ",LIB
+CO,S,S6CO00366,,Arn,Menconi,"Menconi, Arn",GRE
+CO,S,S4CO00411,,Bill,Hammons,"Hammons, Bill",UPC
+CO,S,S6CO00374,,Dan,Chapin,"Chapin, Dan",UN
+CO,S,S6CO00382,,Paul Noel,Fiorino,"Fiorino, Paul Noel",UN
+CO,S,S4CO00429,,Don,Willoughby,"Willoughby, Don",W
+,,,,,,,
+CO,01,H6CO01141,(I),Diana,DeGette,"DeGette, Diana",DEM
+CO,01,H6CO01208,,"Charles ""Casper""",Stockham,"Stockham, Charles ""Casper""",REP
+CO,01,H6CO01216,,Darrell,Dinges,"Dinges, Darrell",LIB
+,,,,,,,
+CO,02,H8CO02137,(I),Jared,Polis,"Polis, Jared",DEM
+CO,02,H6CO02149,,Nicholas,Morse,"Morse, Nicholas",REP
+CO,02,H6CO02156 ,,Richard,Longstreth,"Longstreth, Richard",LIB
+,,,,,,,
+CO,03,H6CO03170,,Gail,Schwartz,"Schwartz, Gail",DEM
+CO,03,H6CO03139,(I),Scott R.,Tipton,"Tipton, Scott R.",REP
+CO,03,H6CO03196,,Kent,Gaylon,"Gaylon, Kent",LIB
+,,,,,,,
+CO,04,H6CO04160,,Bob,Seay,"Seay, Bob",DEM
+CO,04,H4CO04090,(I),Ken,Buck,"Buck, Ken",REP
+CO,04,H6CO04178,,Bruce,Griffith,"Griffith, Bruce",LIB
+CO,04,H6CO04186,,Donald,Howbert,"Howbert, Donald",W
+,,,,,,,
+CO,05,H6CO05233,,Misty,Plowright,"Plowright, Misty",DEM
+CO,05,H6CO05159,(I),Doug,Lamborn,"Lamborn, Doug",REP
+CO,05,H6CO05266,,Mike,McRedmond,"McRedmond, Mike",LIB
+CO,05,H6CO05274 ,,Curtis,Imrie,"Imrie, Curtis",W
+,,,,,,,
+CO,06,H6CO06058,,Morgan,Carroll,"Carroll, Morgan",DEM
+CO,06,H8CO06138,(I),Mike,Coffman,"Coffman, Mike",REP
+CO,06,H6CO06082,,Robert Lee,Worthey,"Worthey, Robert Lee",GRE
+CO,06,H2CO02122,,Norm,Olsen,"Olsen, Norm",LIB
+,,,,,,,
+CO,07,H6CO07023,(I),Ed,Perlmutter,"Perlmutter, Ed",DEM
+CO,07,H6CO07106,,George,Athanasopoulos,"Athanasopoulos, George",REP
+CO,07,H6CO07114,,Martin L.,Buchanan,"Buchanan, Martin L.",LIB  
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,UN = Unaffiliated
+,,,,,,,UPC = Unity Party of Colorado
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+CT,S,S0CT00177,(I),Richard,Blumenthal,"Blumenthal, Richard",DEM/WF
+CT,S,S6CT05108,,Dan,Carter,"Carter, Dan",REP
+CT,S,S6CT05124,,Richard,Lion,"Lion, Richard",LIB
+CT,S,S0CT00250,,Jeffery,Russell,"Russell, Jeffery",GRE
+,,,,,,,
+CT,01,H8CT01046,(I),John B.,Larson,"Larson, John B.",DEM/WF
+CT,01,H2CT01189,,Matthew M.,Corey,"Corey, Matthew M.",REP
+CT,01,H2CT01171,,S. Michael,DeRosa,"DeRosa, S. Michael",GRE
+,,,,,,,
+CT,02,H2CT02112,(I),Joe,Courtney,"Courtney, Joe",DEM/WF
+CT,02,H0CT02140,,Daria Irene,Novak,"Novak, Daria Irene",REP
+CT,02,H8CT02085 ,,Daniel,Reale,"Reale, Daniel",LIB
+CT,02,H6CT02162,,Jonathan,Pelto,"Pelto, Jonathan",GRE
+,,,,,,,
+CT,03,H0CT03072,(I),Rosa L.,DeLauro,"DeLauro, Rosa L.",DEM/WF
+CT,03,H6CT03145,,Angel,Cadena,"Cadena, Angel",REP
+,,,,,,,
+CT,04,H8CT04172,(I),Jim,Himes,"Himes, Jim",DEM
+CT,04,H4CT04114,,John,Shaban,"Shaban, John",REP/IP
+,,,,,,,
+CT,05,H2CT05131,(I),Elizabeth,Esty,"Esty, Elizabeth",DEM/WF
+CT,05,H6CT05157,,Clay,Cope,"Cope, Clay",REP/IP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic 
+,,,,,,,REP = Republican 
+,,,,,,,GRE = Green
+,,,,,,,IP = Independent Party
+,,,,,,,LIB = Libertarian
+,,,,,,,WF = Working Families
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+DE,00,H6DE00206,,Lisa Blunt,Rochester,"Rochester, Lisa Blunt",DEM
+DE,00,H6DE01071,,Hans,Reigle,"Reigle, Hans",REP
+DE,00,H6DE00255,,Mark J.,Perri,"Perri, Mark J.",GRE
+DE,00,H2DE00148,,Scott A.,Gesty,"Gesty, Scott A.",LIB
+DE,00,H6DE00230,,"Robert Nelson, III",Franz,"Franz, Robert Nelson, III",W
+DE,00,H6DE00248,,Rachelle Lee,Linney,"Linney, Rachelle Lee",W
+DE,00,H6DE00263,,Campbell,Smith,"Smith, Campbell",W
+DE,00,H6DE00214,,Scott,Walker,"Walker, Scott",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+FL,S,S6FL00319 ,,Patrick,Murphy,"Murphy, Patrick",DEM
+FL,S,S0FL00338,(I),Marco,Rubio,"Rubio, Marco",REP
+FL,S,S6FL00467 ,,Paul,Stanton,"Stanton, Paul",LBF
+FL,S,S6FL00459,,Basil E.,Dalack,"Dalack, Basil E.",NPA
+FL,S,S6FL00434 ,,Tony ,Khoury,"Khoury, Tony ",NPA
+FL,S,S6FL00517 ,,Steven ,Machat,"Machat, Steven ",NPA
+FL,S,S6FL00327 ,,Bruce,Nathan,"Nathan, Bruce",NPA
+FL,S,S6FL00483,,Jon ,Friend,"Friend, Jon ",W
+FL,S,S6FL00558,,Robert Samuel,Kaplan,"Kaplan, Robert Samuel",W
+FL,S,S0FL00544,,Howard ,Knepper,"Knepper, Howard ",W
+FL,S,S6FL00541,,Bradley ,Patrick,"Patrick, Bradley ",W
+FL,S,S6FL00533 ,,Charles Frederick ,Tolbert,"Tolbert, Charles Frederick ",W
+FL,S,S6FL00442,,Angela Marie,Walls-Windhauser,"Walls-Windhauser, Angela Marie",W
+,,,,,,,
+FL,01,H6FL01176 ,,Steven ,Specht,"Specht, Steven ",DEM
+FL,01,H6FL01119 ,,Matt,Gaetz,"Gaetz, Matt",REP
+,,,,,,,
+FL,02,H6FL02257,,Walter,Dartland,"Dartland, Walter",DEM
+FL,02,H6FL02208,,Neal,Dunn,"Dunn, Neal",REP
+FL,02,H6FL02240 ,,Rob ,Lapham,"Lapham, Rob ",LBF
+FL,02,H6FL02273,,Antoine Edward ,Roberts,"Roberts, Antoine Edward ",W
+,,,,,,,
+FL,03,H6FL03081,,"Kenneth ""Ken""",McGurn,"McGurn, Kenneth ""Ken""",DEM
+FL,03,H2FL06109 ,(I),Ted,Yoho,"Yoho, Ted",REP
+FL,03,H6FL03073 ,,Tom,Wells,"Wells, Tom",NPA
+,,,,,,,
+FL,04,H2FL06091 ,,David E.,Bruderly,"Bruderly, David E.",DEM
+FL,04 ,H6FL04105 ,,John ,Rutherford,"Rutherford, John ",REP
+FL,04,H2FL04138,,Gary L.,Koniz,"Koniz, Gary L.",NPA
+FL,04,H6FL04170 ,,Daniel,Murphy,"Murphy, Daniel",W
+,,,,,,,
+FL,05,H0FL02086 ,,Al ,Lawson,"Lawson, Al ",DEM
+FL,05,H4FL05081,,Glo,Smith,"Smith, Glo",REP
+,,,,,,,
+FL,06,H6FL06126 ,,William (Bill),McCullough,"McCullough, William (Bill)",DEM
+FL,06,H2FL00292 ,(I),Ron,DeSantis,"DeSantis, Ron",REP
+,,,,,,,
+FL,07,H6FL07140 ,,Stephanie,Murphy,"Murphy, Stephanie",DEM
+FL,07,H2FL08055 ,(I),John ,Mica,"Mica, John ",REP
+FL,07,H6FL07157,,Mike,Plaskon,"Plaskon, Mike",W
+,,,,,,,
+FL,08,H4FL08077,,Corry,Westbrook,"Westbrook, Corry",DEM
+FL,08,H8FL15107 ,(I),Bill ,Posey,"Posey, Bill ",REP
+FL,08,H6FL08254,,Bill,Stinson,"Stinson, Bill",NPA
+,,,,,,,
+FL,09,H6FL09179 ,,Darren,Soto,"Soto, Darren",DEM
+FL,09,H6FL09195 ,,Wayne,Liebnitzky,"Liebnitzky, Wayne",REP
+,,,,,,,
+FL,10,H2FL08063 ,,Val,Demings,"Demings, Val",DEM
+FL,10,H6FL05177 ,,Thuy,Lowe,"Lowe, Thuy",REP
+,,,,,,,
+FL,11,H4FL11071 ,,Dave,Koller,"Koller, Dave",DEM
+FL,11,H0FL08208 ,(I),Daniel ,Webster,"Webster, Daniel ",REP
+FL,11,H2FL05192,,Bruce Ray,Riggs,"Riggs, Bruce Ray",NPA
+,,,,,,,
+FL,12,H6FL12181,,Robert Matthew ,Tager,"Tager, Robert Matthew ",DEM
+FL,12,H6FL09070 ,(I),Gus Michael ,Bilirakis,"Bilirakis, Gus Michael ",REP
+,,,,,,,
+FL,13,H6FL13205 ,,Charlie ,Crist,"Crist, Charlie ",DEM
+FL,13,H4FL13101,(I),David W.,Jolly,"Jolly, David W.",REP
+,,,,,,,
+FL,14,H6FL11126,(I),Kathy ,Castor,"Castor, Kathy ",DEM
+FL,14,H6FL14112 ,,Christine,Quinn,"Quinn, Christine",REP
+,,,,,,,
+FL,15,H6FL15150 ,,Jim,Lange,"Lange, Jim",DEM
+FL,15,H0FL12101 ,(I),Dennis A.,Ross,"Ross, Dennis A.",REP
+,,,,,,,
+FL,16,H2FL13139,,Jan,Schneider,"Schneider, Jan",DEM
+FL,16,H6FL13148 ,(I),Vern,Buchanan,"Buchanan, Vern",REP
+,,,,,,,
+FL,17,H4FL19058 ,,April,Freeman,"Freeman, April",DEM
+FL,17,H8FL16022 ,(I),Tom,Rooney,"Rooney, Tom",REP
+FL,17,H2FL14160,,"John W., III",Sawyer,"Sawyer, John W., III",NPA
+,,,,,,,
+FL,18,H6FL18147,,Randy ,Perkins,"Perkins, Randy ",DEM
+FL,18,H6FL18097 ,,Brian,Mast,"Mast, Brian",REP
+FL,18,H6FL18121 ,,Carla,Spalding,"Spalding, Carla",NPA
+FL,18,H6FL18196 ,,Marilyn ,Holloman,"Holloman, Marilyn ",W
+,,,,,,,
+FL,19,H4FL14091 ,,Robert M.,Neeld,"Neeld, Robert M.",DEM
+FL,19,H6FL19087 ,,Francis,Rooney,"Rooney, Francis",REP
+FL,19,H6FL19103,,David,Byron,"Byron, David",W
+FL,19,H4FL19082,,Timothy John,Rossano,"Rossano, Timothy John",W
+,,,,,,,
+FL,20,H2FL23021 ,(I),Alcee L.,Hastings,"Hastings, Alcee L.",DEM
+FL,20,H6FL20051,,Gary  ,Stein,"Stein, Gary  ",REP
+,,,,,,,
+FL,21,H2FL14053 ,(I),Lois ,Frankel ,"Frankel , Lois ",DEM
+FL,21,H4FL22110 ,,Paul ,Spain,"Spain, Paul ",REP
+FL,21,H2FL21066,,"W. Michael ""Mike""",Trout,"Trout, W. Michael ""Mike""",NPA
+,,,,,,,
+FL,22,H0FL19080 ,(I),Ted,Deutch,"Deutch, Ted",DEM
+FL,22,H4FL22086 ,,Andrea Leigh,McGee,"McGee, Andrea Leigh",REP
+,,,,,,,
+FL,23,H4FL20023,(I),Debbie Wasserman,Schultz,"Schultz, Debbie Wasserman",DEM
+FL,23,H2FL20043,,"Joseph ""Joe""",Kaufman,"Kaufman, Joseph ""Joe""",REP
+FL,23,H6FL23089 ,,Don,Endriss,"Endriss, Don",NPA
+FL,23,H6FL23097,,Lyle ,Milstein,"Milstein, Lyle ",NPA
+,,,,,,,
+FL,24,H0FL17068 ,(I),Frederica,Wilson,"Wilson, Frederica",DEM
+,,,,,,,
+FL,25,H6FL25027 ,,Alina,Valdes,"Valdes, Alina",DEM
+FL,25,H2FL25018 ,(I),Mario ,Diaz-Balart,"Diaz-Balart, Mario ",REP   
+,,,,,,,
+FL,26,H8FL25015 ,(I),Joe ,Garcia,"Garcia, Joe ",DEM
+FL,26,H4FL26038 ,,Carlos,Curbelo,"Curbelo, Carlos",REP  
+FL,26,H6FL26033,,Jose ,Peixoto,"Peixoto, Jose ",NPA
+,,,,,,,
+FL,27,H6FL27031 ,,Scott,Fuhrman,"Fuhrman, Scott",DEM
+FL,27,H0FL18025 ,(I),Ileana,Ros-Lehtinen,"Ros-Lehtinen, Ileana",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LBF = Libertarian Party of Florida
+,,,,,,,NPA = No Party Affiliation
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+GA,S,S6GA00200 ,,Jim,Barksdale,"Barksdale, Jim",DEM
+GA,S,S6GA00218,,Cheryl ,Copeland,"Copeland, Cheryl ",DEM
+GA,S,S4GA11202,,"John F., III",Coyne,"Coyne, John F., III",DEM
+GA,S,S6GA00242,,Mary Kay,Bacallao,"Bacallao, Mary Kay",REP
+GA,S,S4GA11236 ,,Derrick,Grayson,"Grayson, Derrick",REP
+GA,S,S6GA00119 ,(I),Johnny,Isakson,"Isakson, Johnny",REP
+GA,S,S4GA11103,,Allen,Buckley,"Buckley, Allen",LIB
+GA,S,S6GA00259,,Michelle,Gates,"Gates, Michelle",W
+,,,,,,,
+GA,01,H4GA01039 ,(I),"Earl ""Buddy""",Carter,"Carter, Earl ""Buddy""",REP
+GA,01,H2GA01223,,Nathan,Russo,"Russo, Nathan",W
+,,,,,,,
+GA,02,H2GA02031,(I),Sanford,Bishop,"Bishop, Sanford",DEM
+GA,02,H4GA02060 ,,Greg,Duke,"Duke, Greg",REP
+GA,02,H6GA02123,,Diane,Vann,"Vann, Diane",REP
+,,,,,,,
+GA,03,H6GA03154,,Angela,Pendley,"Pendley, Angela",DEM
+GA,03,H6GA03113,,Drew,Ferguson,"Ferguson, Drew",REP
+,,,,,,,
+GA,04,H6GA04129,(I),"Henry C. ""Hank,"" Jr.",Johnson,"Johnson, Henry C. ""Hank,"" Jr.",DEM
+GA,04,H6GA04152,,Victor ,Armendariz,"Armendariz, Victor ",REP
+,,,,,,,
+GA,05,H6GA05217,(I),John R.,Lewis,"Lewis, John R.",DEM
+GA,05,H6GA05290,,Douglas ,Bell,"Bell, Douglas ",REP
+,,,,,,,
+GA,06,H6GA06124,,Rodney ,Stooksbury,"Stooksbury, Rodney ",DEM
+GA,06,H4GA06087,(I),Tom ,Price,"Price, Tom ",REP
+,,,,,,,
+GA,07,H6GA07155,,Rashid ,Malik,"Malik, Rashid ",DEM
+GA,07,H0GA07133,(I),Rob,Woodall,"Woodall, Rob",REP
+,,,,,,,
+GA,08,H6GA08120,,James Neal,Harris,"Harris, James Neal",DEM
+GA,08,H0GA08099 ,(I),Austin ,Scott,"Scott, Austin ",REP
+,,,,,,,
+GA,09,H2GA09150 ,(I),Doug ,Collins,"Collins, Doug ",REP
+,,,,,,,
+GA,10,H0GA07125 ,(I),Jody ,Hice,"Hice, Jody ",REP
+GA,10,H6GA10159,,Leonard,Ware,"Ware, Leonard",W
+,,,,,,,
+GA,11,H4GA11111,,Don ,Wilson,"Wilson, Don ",DEM
+GA,11,H4GA11061 ,(I),Barry,Loudermilk,"Loudermilk, Barry",REP
+,,,,,,,
+GA,12,H6GA12031,,Patricia C.,McCracken,"McCracken, Patricia C.",DEM
+GA,12,H2GA12121,(I),Rick ,Allen,"Allen, Rick ",REP
+,,,,,,,
+GA,13,H2GA13012 ,(I),David ,Scott,"Scott, David ",DEM
+,,,,,,,
+GA,14,H0GA09030 ,(I),Tom ,Graves,"Graves, Tom ",REP
+GA,14,H6GA14037,,Patrick A.,Boggs,"Boggs, Patrick A.",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB=Libertarian
+,,,,,,,W= Write-In
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+HI,S,S4HI00136 ,(I),Brian,Schatz,"Schatz, Brian",DEM
+HI,S,S0HI00126,,John,Carroll,"Carroll, John",REP
+HI,S,S6HI00305,,John M. (Raghu),Giuffre,"Giuffre, John M. (Raghu)",AMS
+HI,S,S4HI00151,,Joy J,Allison,"Allison, Joy J",CON
+HI,S,S4HI00169,,Michael A.,Kokoski,"Kokoski, Michael A.",LIB
+,,,,,,,
+HI,01,H2HI02110,,Colleen Wakako,Hanabusa,"Hanabusa, Colleen Wakako",DEM
+HI,01,H6HI01279,,Shirlene D. (Shirl),Ostrov,"Ostrov, Shirlene D. (Shirl)",REP
+HI,01,H6HI01261,,Alan J.K.,Yim,"Yim, Alan J.K.",LIB
+HI,01,H4HI01183,,Calvin (G),Griffin,"Griffin, Calvin (G)",N
+,,,,,,,
+HI,02,H2HI02508,(I),Tulsi,Gabbard,"Gabbard, Tulsi",DEM
+HI,02,H6HI02400,,Angela Aulani,Kaaihue,"Kaaihue, Angela Aulani",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,AMS = American Shopping
+,,,,,,,CON = Constitution
+,,,,,,,LIB = Libertarian
+,,,,,,,N = Nonpartisan
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+IA,S,S0IA00119,,Thomas L.,Fiegen,"Fiegen, Thomas L.",DEM
+IA,S,S6IA00124,,Robert M,Hogg,"Hogg, Robert M",DEM
+IA,S,S6IA00140,,Patty ,Judge,"Judge, Patty ",DEM
+IA,S,,,,Scattered,Scattered,W(DEM)
+IA,S,S0IA00028,(I),Charles E.,Grassley,"Grassley, Charles E.",REP
+IA,S,,,,Scattered,"Scattered, ",W(REP)
+IA,S,S6IA00165,,Charles,Aldrich,"Aldrich, Charles",LIB
+IA,S,S6IA00173,,Jim,Hennager,"Hennager, Jim",NPI
+IA,S,S6IA00157,,Michael,Luick-Thrams,"Luick-Thrams, Michael",NNE
+,,,,,,,
+IA,01,H4IA01069,,Pat,Murphy,"Murphy, Pat",DEM
+IA,01,H4IA01077,,Monica,Vernon,"Vernon, Monica",DEM
+IA,01,,,,Scattered,Scattered,W(DEM)
+IA,01,H2IA01055,(I),Rod,Blum,"Blum, Rod",REP
+IA,01,,,,Scattered,Scattered,W(REP)
+,,,,,,,
+IA,02,H6IA02146,(I),Dave,Loebsack,"Loebsack, Dave",DEM
+IA,02,,,,Scattered,Scattered,W(DEM)
+IA,02,H6IA02161,,Christopher,Peters,"Peters, Christopher",REP
+IA,02,,,,Scattered,Scattered,W(REP)
+,,,,,,,
+IA,03,H4IA04113,,Jim,Mowrer,"Mowrer, Jim",DEM
+IA,03,H4IA03115,(I),David,Young,"Young, David",REP
+IA,03,H4IA03149,,Bryan Jack,Holder,"Holder, Bryan Jack",LIB
+IA,03,H6IA03250,,Claudia,Addy,"Addy, Claudia",NNE
+IA,03,H4IA03123,,Joe,Grandanette,"Grandanette, Joe",NNE
+,,,,,,,
+IA,04,H6IA04134,,Kim,Weaver,"Weaver, Kim",DEM
+IA,04,H2IA05072,(I),Steve,King,"King, Steve",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,NPI = New Independent Party Iowa
+,,,,,,,NNE = None
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID #,(I),CANDATE NAME (First),CANDATE NAME (Last),CANDATE NAME,PARTY
+,,,,,,,
+ID,S,S6ID00112,,Jerry ,Sturgill,"Sturgill, Jerry ",DEM
+ID,S,S8ID00027,(I),Mike,Crapo,"Crapo, Mike",REP
+ID,S,S6ID00104,,Ray J.,Writz,"Writz, Ray J.",CON
+,,,,,,,
+ID,01,H6ID01250,,James ,Piotrowski,"Piotrowski, James ",DEM
+ID,01,H0ID01253,(I),Raul R.,Labrador,"Labrador, Raul R.",REP
+ID,01,H2ID01150,,,Pro-Life,Pro-Life,W
+,,,,,,,
+ID,02,H6ID02209,,Jennifer ,Martinez,"Martinez, Jennifer ",DEM
+ID,02,H8ID02064,(I),Mike ,Simpson,"Simpson, Mike ",REP
+ID,02,H6ID02183,,Anthony,Tomkins,"Tomkins, Anthony",CON
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+IL,S,S6IL00292 ,,Tammy,Duckworth,"Duckworth, Tammy",DEM
+IL,S,S0IL00261 ,(I),Mark Steven,Kirk,"Kirk, Mark Steven",REP
+IL,S,S4IL00388,,Scott,Summers,"Summers, Scott",GRE
+IL,S,S6IL00383,,Kenton,McMillen,"McMillen, Kenton",LIB
+,,,,,,,
+IL,01,H2IL01042 ,(I),Bobby L.,Rush,"Rush, Bobby L.",DEM
+IL,01,H6IL01159,,August (O'Neill),Deuser,"Deuser, August (O'Neill)",REP
+,,,,,,,
+IL,02,H2IL02172,(I),Robin,Kelly,"Kelly, Robin",DEM
+IL,02,H6IL02199,,John F,Morrow,"Morrow, John F",REP
+,,,,,,,
+IL,03,H4IL03077 ,(I),Daniel William,Lipinski,"Lipinski, Daniel William",DEM
+,,,,,,,
+IL,04,H2IL08039 ,(I),Luis V.,Gutierrez,"Gutierrez, Luis V.",DEM
+,,,,,,,
+IL,05,H0IL05096 ,(I),Mike,Quigley,"Quigley, Mike",DEM
+IL,05,H6IL05168 ,,Vince,Kolber,"Kolber, Vince",REP
+IL,05,H6IL05176,,Rob ,Sherman,"Sherman, Rob ",GRE
+,,,,,,,
+IL,06,H6IL06166,,Amanda,Howland,"Howland, Amanda",DEM
+IL,06,H6IL06117,(I),Peter J.,Roskam,"Roskam, Peter J.",REP
+,,,,,,,
+IL,07,H4IL07037,(I),Danny K.,Davis,"Davis, Danny K.",DEM
+IL,07,H6IL07305,,Jeffrey A.,Leef,"Leef, Jeffrey A.",REP
+,,,,,,,
+IL,08,H6IL08147,,Raja,Krishnamoorthi,"Krishnamoorthi, Raja",DEM
+IL,08,H6IL08170 ,,"Peter ""Pete""",DiCianni,"DiCianni, Peter ""Pete""",REP
+,,,,,,,
+IL,09,H8IL09067,(I),Janice D,Schakowsky,"Schakowsky, Janice D",DEM
+IL,09,H6IL09145,,Joan McCarthy,Lasonde,"Lasonde, Joan McCarthy",REP
+,,,,,,,
+IL,10,H2IL10068,,Brad,Schneider,"Schneider, Brad",DEM
+IL,10,H0IL10302 ,(I),Robert ,Dold,"Dold, Robert ",REP
+,,,,,,,
+IL,11,H8IL14067 ,(I),Bill,Foster,"Foster, Bill",DEM
+IL,11,H6IL11117 ,,Tonia,Khouri,"Khouri, Tonia",REP
+,,,,,,,
+IL,12,H6IL12099 ,,"Charles ""C.J."" ",Baricevic,"Baricevic, Charles ""C.J."" ",DEM
+IL,12,H4IL12060,(I),Michael ,Bost,"Bost, Michael ",REP
+IL,12,H2IL12130,,Paula,Bradshaw,"Bradshaw, Paula",GRE
+,,,,,,,
+IL,13,H6IL13121 ,,Mark D ,Wicklund,"Wicklund, Mark D ",DEM
+IL,13,H2IL13120 ,(I),Rodney,Davis,"Davis, Rodney",REP
+,,,,,,,
+IL,14,H6IL14129,,Jim ,Walz,"Walz, Jim ",DEM
+IL,14,H0IL14080,(I),"Randall M. ""Randy""",Hultgren,"Hultgren, Randall M. ""Randy""",REP
+,,,,,,,
+IL,15,H2IL20042 ,(I),John M.,Shimkus,"Shimkus, John M.",REP
+,,,,,,,
+IL,16,H0IL11052 ,(I),Adam,Kinzinger,"Kinzinger, Adam",REP
+,,,,,,,
+IL,17,H2IL17071 ,(I),Cheri ,Bustos,"Bustos, Cheri ",DEM
+IL,17,H6IL17205,,Patrick,Harlan,"Harlan, Patrick",REP
+,,,,,,,
+,18,H6IL18161 ,,Junius,Rodriguez,"Rodriguez, Junius",DEM
+IL,18,H6IL18088 ,(I),Darin,LaHood,"LaHood, Darin",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+IN,S,S8IN00049,,Evan,Bayh,"Bayh, Evan",DEM
+IN,S,S6IN00191 ,,Todd,Young,"Young, Todd",REP
+IN,S,S6IN00225,,Lucy,Brenton,"Brenton, Lucy",LIB
+IN,S,S2IN00117,,James L.,Johnson,"Johnson, James L.",W
+,,,,,,,
+IN,01,H4IN01012,(I),Peter J,Visclosky,"Visclosky, Peter J",DEM
+IN,01,H4IN01152,,Donna,Dunn,"Dunn, Donna",LIB
+IN,01,H6IN01207,,John ,Meyer,"Meyer, John ",W
+,,,,,,,
+IN,02,H6IN02155 ,,Lynn C.,Coleman,"Coleman, Lynn C.",DEM
+IN,02,H0IN02190,(I),Jackie,Walorski,"Walorski, Jackie",REP
+IN,02,H6IN02163,,Ron,Cenkush,"Cenkush, Ron",LIB
+,,,,,,,
+IN,03,H6IN03187,,Tommy A.,Schrader,"Schrader, Tommy A.",DEM
+IN,03,H6IN03229,,Jim,Banks,"Banks, Jim",REP
+IN,03,H6IN03286,,Pepper,Snyder,"Snyder, Pepper",LIB
+,,,,,,,
+IN,04,H4IN04172,,John,Dale,"Dale, John",DEM
+IN,04,H0IN04170 ,(I),Todd,Rokita,"Rokita, Todd",REP
+IN,04,H6IN04169,,Steven M.,Mayoras,"Mayoras, Steven M.",LIB
+,,,,,,,
+IN,05,H6IN05216,,Angela ,Demaree,"Demaree, Angela ",DEM
+IN,05,H2IN05082,(I),Susan W.,Brooks,"Brooks, Susan W.",REP
+IN,05,H6IN05257,,Matthew,Wittlief,"Wittlief, Matthew",LIB
+,,,,,,,
+IN,06,H6IN06149,,Barry,Welsh,"Welsh, Barry",DEM
+IN,06,H0IN02125 ,(I),Luke ,Messer,"Messer, Luke ",REP
+IN,06,H6IN06214,,Rich,Turvey,"Turvey, Rich",LIB
+,,,,,,,
+IN,07,H8IN07184,(I),André D.,Carson,"Carson, André D.",DEM
+IN,07,H8IN07259,,Catherine (CAT),Ping,"Ping, Catherine (CAT)",REP
+IN,07,H6IN07386,,Drew,Thompson,"Thompson, Drew",LIB
+,,,,,,,
+IN,08,H6IN08244,,Ron,Drake,"Drake, Ron",DEM
+IN,08,H0IN08114 ,(I),Larry D.,Bucshon,"Bucshon, Larry D.",REP
+IN,08,H2IN07088,,Andrew,Horning,"Horning, Andrew",LIB
+,,,,,,,
+IN,09,H2IN09167 ,,Shelli ,Yoder,"Yoder, Shelli ",DEM
+IN,09,H6IN09176 ,,Trey,Hollingsworth,"Hollingsworth, Trey",REP
+IN,09,H6IN09218,,Russell,Brooksbank,"Brooksbank, Russell",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+KS,S,S0KS00166,,Patrick,Wiesner,"Wiesner, Patrick",DEM 
+KS,S,S0KS00091,(I),Jerry,Moran,"Moran, Jerry",REP 
+KS,S,S6KS00221,,Robert D.,Garrard,"Garrard, Robert D.",LIB
+,,,,,,,
+KS,01,H6KS01179 ,,Roger,Marshall,"Marshall, Roger",REP 
+KS,01,H6KS01187,,Kerry,Burt,"Burt, Kerry",LIB
+KS,01,H4KS01059,,Alan,LaPolice,"LaPolice, Alan",IND
+,,,,,,,
+KS,02,H6KS02250 ,,Britani,Potter,"Potter, Britani",DEM 
+KS,02,H8KS02090 ,(I),Lynn,Jenkins,"Jenkins, Lynn",REP 
+KS,02,H6KS02268,,James Houston,Bales,"Bales, James Houston",LIB
+,,,,,,,
+KS,03,H6KS03241,,Jay,Sidie,"Sidie, Jay",DEM 
+KS,03,H0KS03137 ,(I),Kevin,Yoder,"Yoder, Kevin",REP 
+KS,03,H6KS03225,,Steven A.,Hohe,"Hohe, Steven A.",LIB
+,,,,,,,
+KS,04,H6KS04165,,Daniel B.,Giroux,"Giroux, Daniel B.",DEM
+KS,04,H0KS04051,(I),Michael,Pompeo,"Pompeo, Michael",REP 
+KS,04,H6KS04181,,Gorden J.,Bakken,"Bakken, Gorden J.",LIB
+KS,04,H6KS04173,,Miranda,Allen,"Allen, Miranda",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+KY,S,S6KY00120,,Jim,Gray,"Gray, Jim",DEM
+KY,S,S0KY00156,(I),Rand,Paul,"Paul, Rand",REP
+KY,S,S0KY00255,,Billy Ray,Wilson,"Wilson, Billy Ray",W
+,,,,,,,
+KY,01,H4KY01073,,Samuel L.,Gaskins,"Gaskins, Samuel L.",DEM
+KY,01,H6KY01110,,James R.,Comer,"Comer, James R.",REP
+KY,01,H6KY01151,,Terry,McIntosh,"McIntosh, Terry",W
+,,,,,,,
+KY,02,H8KY02031,(I),S. Brett,Guthrie,"Guthrie, S. Brett",REP
+,,,,,,,
+KY,03,H6KY03124,(I),John A.,Yarmuth,"Yarmuth, John A.",DEM
+KY,03,H6KY03173,,Harold,Bratcher,"Bratcher, Harold",REP
+KY,03,H6KY03181,,Everett,Corley,"Corley, Everett",FFP
+,,,,,,,
+KY,04,H6KY04106 ,,Calvin,Sidle,"Sidle, Calvin",DEM
+KY,04,H2KY04121,(I),Thomas,Massie,"Massie, Thomas",REP
+,,,,,,,
+KY,05,H0KY05015,(I),"Harold ""Hal""",Rogers,"Rogers, Harold ""Hal""",REP
+,,,,,,,
+KY,06,H6KY06127,,Nancy Jo,Kemper,"Kemper, Nancy Jo",DEM
+KY,06,H0KY06104,(I),Andy,Barr,"Barr, Andy",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,FFP = Forefathers Party
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+LA,S,S6LA00359,,Foster,Campbell,"Campbell, Foster",DEM
+LA,S,S6LA00342,,Derrick,Edwards,"Edwards, Derrick",DEM
+LA,S,S6LA00334,,Caroline,Fayard,"Fayard, Caroline",DEM
+LA,S,S6LA00391,,Gary,Landrieu,"Landrieu, Gary",DEM
+LA,S,S6LA00409,,"MV ""Vinny""",Mendoza,"Mendoza, MV ""Vinny""",DEM
+LA,S,S6LA00367,,Joshua,Pellerin,"Pellerin, Joshua",DEM
+LA,S,S6LA00417,,Peter,Williams,"Williams, Peter",DEM
+LA,S,S6LA00300,,Charles,Boustany,"Boustany, Charles",REP
+LA,S,S6LA00326,,"""Joseph""",Cao,"Cao, ""Joseph""",REP
+LA,S,S6LA00383,,"Donald ""Crawdaddy""",Crawford,"Crawford, Donald ""Crawdaddy""",REP
+LA,S,S0LA00071,,David,Duke,"Duke, David",REP
+LA,S,S6LA00318,,John,Fleming,"Fleming, John",REP
+LA,S,S4LA00065,,John,Kennedy,"Kennedy, John",REP
+LA,S,S4LA00115,,"""Rob""",Maness,"Maness, ""Rob""",REP
+LA,S,S6LA00425,,Charles,Marsala,"Marsala, Charles",REP
+LA,S,S6LA00375,,Abhay,Patel,"Patel, Abhay",REP
+LA,S,S4LA00149,,Thomas P.,Clements,"Clements, Thomas P.",LIB
+LA,S,S6LA00433,,Le Roy,Gillam,"Gillam, Le Roy",LIB
+LA,S,S6LA00441,,Beryl,Billiot,"Billiot, Beryl",NPA
+LA,S,S6LA00458,,Troy,Hebert,"Hebert, Troy",NPA
+LA,S,S6LA00466,,Kaitlin,Marone,"Marone, Kaitlin",NPA
+LA,S,S6LA00474,,Arden,Wells,"Wells, Arden",NPA
+LA,S,S0LA00170,,"William Robert ""Bob.,"" Jr.",Lang,"Lang, William Robert ""Bob.,"" Jr.",OTH
+LA,S,S6LA00482,,"Gregory, Jr.",Taylor,"Taylor, Gregory, Jr.",OTH
+,,,,,,,
+LA,01,H4LA01147,,Lee Ann,Dugas,"Dugas, Lee Ann",DEM
+LA,01,H6LA01209,,Danil Ezekiel,Faust,"Faust, Danil Ezekiel",DEM
+LA,01,H6LA01217,,"Joseph ""Joe""",Swider,"Swider, Joseph ""Joe""",DEM
+LA,01,H0LA01087,(I),Steve,Scalise,"Scalise, Steve",REP
+LA,01,H4LA05098,,Eliot,Barron,"Barron, Eliot",GRE
+LA,01,H6LA01225,,Howard,Kearney,"Kearney, Howard",LIB
+LA,01,H6LA01233,,Chuemai,Yang,"Yang, Chuemai",NPA
+,,,,,,,
+LA,02,H6LA02223,,Kenneth,Cutno,"Cutno, Kenneth",DEM
+LA,02,H6LA02215,,"Melvin L. ""Kip""",Holden,"Holden, Melvin L. ""Kip""",DEM
+LA,02,H8LA02054,(I),Cedric,Richmond,"Richmond, Cedric",DEM
+,,,,,,,
+LA,03,H6LA03163,,"Jacob ""Dorian Phibian""",Hebert,"Hebert, Jacob ""Dorian Phibian""",DEM
+LA,03,H6LA03155,,Larry,Rader,"Rader, Larry",DEM
+LA,03,H6LA03130,,Scott A.,Angelle,"Angelle, Scott A.",REP
+LA,03,H2LA03063,,Bryan,Barrilleaux,"Barrilleaux, Bryan",REP
+LA,03,H6LA03098,,"""Greg""",Ellison,"Ellison, ""Greg""",REP
+LA,03,H6LA03106,,Brett,Geymann,"Geymann, Brett",REP
+LA,03,H6LA03148,,Clay,Higgins,"Higgins, Clay",REP
+LA,03,H6LA03122,,Gus,Rantz,"Rantz, Gus",REP
+LA,03,H6LA03114,,Grover Joseph,Rees,"Rees, Grover Joseph",REP
+LA,03,H6LA03171,,Herman L.,Vidrine,"Vidrine, Herman L.",REP
+LA,03,H6LA03189,,Guy ,McLendon,"McLendon, Guy ",LIB
+LA,03,H6LA03197,,"Kenny P., Sr.",Scelfo,"Scelfo, Kenny P., Sr.",NPA
+,,,,,,,
+LA,04,H6LA04153,,Marshall,Jones,"Jones, Marshall",DEM
+LA,04,H6LA04120,,"Ralph ""Trey""",Baucum,"Baucum, Ralph ""Trey""",REP
+LA,04,H6LA04112,,Elbert,Guillory,"Guillory, Elbert",REP
+LA,04,H6LA04146,,Oliver,Jenkins,"Jenkins, Oliver",REP
+LA,04,H6LA04096,,"""Rick""",John,"John, ""Rick""",REP
+LA,04,H6LA04138,,"""Mike""",Johnson,"Johnson, ""Mike""",REP
+LA,04,H6LA04161,,Mark David,Halverson,"Halverson, Mark David",NPA
+LA,04,H6LA04179,,Kenneth J.,Krefft,"Krefft, Kenneth J.",NPA
+,,,,,,,
+LA,05,H4LA05221,(I),"Ralph,  Jr.",Abraham,"Abraham, Ralph,  Jr.",REP
+LA,05,H6LA05150,,Billy,Burkette,"Burkette, Billy",REP
+,,,,,,,
+LA,06,H4LA06062,,Richard ,Lieberman,"Lieberman, Richard ",DEM
+LA,06,H6LA06117,,Jermaine,Sampson,"Sampson, Jermaine",DEM
+LA,06,H4LA06153,(I),Garret,Graves,"Graves, Garret",REP
+LA,06,H6LA06125,,"Robert Lamar ""Bob""",Bell,"Bell, Robert Lamar ""Bob""",REP
+LA,06,H6LA06109,,Richard M.,Fontanesi,"Fontanesi, Richard M.",LIB
+LA,06,H6LA06133,,Devin Lance,Graham,"Graham, Devin Lance",OTH
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,NPA = No Party Affiliation
+,,,,,,,OTH = Other
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MA,01,H8MA02041,(I),Richard E.,Neal,"Neal, Richard E.",DEM
+MA,01,H6MA01096,,Thomas T.,Simmons,"Simmons, Thomas T.",LIB
+MA,01,H4MA01059,,Frederick O.,Mayock,"Mayock, Frederick O.",IND
+,,,,,,,
+MA,02,H4MA03022,(I),James P.,McGovern,"McGovern, James P.",DEM
+,,,,,,,
+MA,03,H8MA05143,(I),Nicola S.,Tsongas,"Tsongas, Nicola S.",DEM
+MA,03,H4MA03097,,Ann,Wofford,"Wofford, Ann",REP
+,,,,,,,
+MA,04,H2MA04073,(I),"Joseph P., III",Kennedy,"Kennedy, Joseph P., III",DEM
+MA,04,H0MA09027,,David A.,Rosa,"Rosa, David A.",REP
+,,,,,,,
+MA,05,H4MA05084,(I),Katherine M.,Clark,"Clark, Katherine M.",DEM
+,,,,,,,
+MA,06,H4MA06090,(I),Seth,Moulton,"Moulton, Seth",DEM
+,,,,,,,
+MA,07,H8MA08071,(I),Michael E.,Capuano,"Capuano, Michael E.",DEM
+,,,,,,,
+MA,08,H2MA09072,(I),Stephen F. ,Lynch,"Lynch, Stephen F. ",DEM
+MA,08,H6MA08299,,William,Burke,"Burke, William",DEM
+,,,,,,,
+MA,09,H0MA10082,(I),William Richard ,Keating,"Keating, William Richard ",DEM
+MA,09,H4MA09052,,Mark C.,Alliegro,"Alliegro, Mark C.",REP
+MA,09,H6MA09180,,Paul J.,Harrington,"Harrington, Paul J.",IND
+MA,09,H6MA09164,,Christopher D.,Cataldo,"Cataldo, Christopher D.",U
+MA,09,H6MA09198,,Anna Grace,Raduc,"Raduc, Anna Grace",U
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LIB = Libertarian
+,,,,,,,U = Unenrolled
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MD,S,S6MD03441,,Chris,Van Hollen,"Van Hollen, Chris",DEM
+MD,S,S6MD03508,,Kathy,Szeliga,"Szeliga, Kathy",REP
+MD,S,S6MD03474 ,,Margaret ,Flowers,"Flowers, Margaret ",GRE
+MD,S,S6MD03623,,Greg,Dorsey,"Dorsey, Greg",W
+MD,S,S6MD03490 ,,Michael T.,Pearson,"Pearson, Michael T.",W
+MD,S,S6MD03326,,Bob,Robinson,"Robinson, Bob",W
+MD,S,S6MD03359,,Charles U.,Smith,"Smith, Charles U.",W
+MD,S,S2MD00446,,Ed,Tinus,"Tinus, Ed",W
+MD,S,S6MD03375,,Lih,Young,"Young, Lih",W
+,,,,,,,
+MD,01,H8MD01144,,Joe,Werner,"Werner, Joe",DEM
+MD,01,H8MD01094,(I),Andy,Harris,"Harris, Andy",REP
+MD,01,H6MD01247 ,,Matt,Beers,"Beers, Matt",LIB
+,,,,,,,
+MD,02,H2MD02160,(I),C.A. Dutch,Ruppersberger,"Ruppersberger, C.A. Dutch",DEM
+MD,02,H6MD02211,,Pat,McDonough,"McDonough, Pat",REP
+MD,02,H6MD02245,,Kristin S.,Kasprzak,"Kasprzak, Kristin S.",LIB
+,,,,,,,
+MD,03,H6MD03292,(I),John,Sarbanes,"Sarbanes, John",DEM
+MD,03,H6MD03441,,Mark,Plaster,"Plaster, Mark",REP
+MD,03,H6MD03458,,Nnabu,Eze,"Eze, Nnabu",GRE
+MD,03, H6MD03466,,Ann,Dalrymple,"Dalrymple, Ann",W
+,,,,,,,
+MD,04,H6MD04209,,Anthony G.,Brown,"Brown, Anthony G.",DEM
+MD,04,H4MD04071,,George E.,McDermott,"McDermott, George E.",REP
+MD,04,H6MD04290,,Kamesha T.,Clark,"Clark, Kamesha T.",GRE
+MD,04,H6MD04316,,Benjamin Lee,Krause,"Krause, Benjamin Lee",LIB
+MD,04,H6MD07459,,Adrian,Petrus,"Petrus, Adrian",W
+,,,,,,,
+MD,05,H2MD05155,(I),Steny H.,Hoyer,"Hoyer, Steny H.",DEM
+MD,05,H4MD05144,,Mark,Arness,"Arness, Mark",REP
+MD,05,H5MD05018,,Jason,Summers,"Summers, Jason",LIB
+,,,,,,,
+MD,06,H2MD06195,(I),John K.,Delaney,"Delaney, John K.",DEM
+MD,06,H6MD06212,,Amie,Hoeber,"Hoeber, Amie",REP
+MD,06,H2MD08175,,George,Gluck,"Gluck, George",GRE
+MD,06,H6MD06253,,David L.,Howser,"Howser, David L.",LIB
+MD,06,H6MD06261,,Ted,Athey,"Athey, Ted",W
+,,,,,,,
+MD,07,H6MD07160,(I),Elijah,Cummings,"Cummings, Elijah",DEM
+MD,07,H4MD07074,,Corrogan R.,Vaughn,"Vaughn, Corrogan R.",REP
+MD,07,H6MD07467 ,,Myles B.,Hoeing,"Hoeing, Myles B.",GRE
+MD,07,H6MD07434,,William T.,Newton,"Newton, William T.",W
+MD,07,H4MD07066,,Michael T.,Pearson,"Pearson, Michael T.",W
+,,,,,,,
+MD,08,H6MD08457,,Jamie,Raskin,"Raskin, Jamie",DEM
+MD,08,H6MD08564,,Dan,Cox,"Cox, Dan",REP
+MD,08,H6MD08598,,Nancy,Wallace,"Wallace, Nancy",GRE
+MD,08,H6MD08606,,Jasen,Wunder,"Wunder, Jasen",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+ME,01,H8ME01120,(I),Chellie,Pingree,"Pingree, Chellie",DEM
+ME,01,H6ME01207,,Mark I.,Holbrook,"Holbrook, Mark I.",REP
+ME,01,H6ME01231,,James J.,Bouchard,"Bouchard, James J.",W(LIB)
+,,,,,,,
+ME,02,H4ME02200,,Emily Ann,Cain,"Cain, Emily Ann",DEM
+ME,02,H4ME02234,(I),Bruce,Poliquin,"Poliquin, Bruce",REP
+ME,02,H6ME02130,,Jay Parker,Dresser,"Dresser, Jay Parker",W(IND)
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,W = Write-in Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MI,01,H6MI01200,,Lon,Johnson,"Johnson, Lon",DEM
+MI,01,H6MI01226 ,,Jack,Bergman,"Bergman, Jack",REP
+MI,01,H0MI01187,,Ellis,Boal,"Boal, Ellis",GRE
+MI,01,H6MI01234,,Diane,Bostow,"Bostow, Diane",LIB
+,,,,,,,
+MI,02,H6MI02182,,Dennis B.,Murphy,"Murphy, Dennis B.",DEM
+MI,02,H0MI02094 ,(I),Bill,Huizenga,"Huizenga, Bill",REP
+MI,02,H6MI02190,,Matthew A.,Brady,"Brady, Matthew A.",GRE
+MI,02,H6MI03123,,Erwin J.,Haas,"Haas, Erwin J.",LIB
+MI,02,H0MI02086,,Ronald E.,Graeser,"Graeser, Ronald E.",UST
+,,,,,,,
+MI,03,H6MI03172,,Douglas,Smith,"Smith, Douglas",DEM
+MI,03,H0MI03126 ,(I),Justin,Amash,"Amash, Justin",REP
+MI,03,H0MI03209,,Ted,Gerrard,"Gerrard, Ted",UST
+,,,,,,,
+MI,03,H2MI04237,,Debra,Wirth,"Wirth, Debra",DEM
+MI,04,H4MI04126 ,(I),John ,Moolenaar,"Moolenaar, John ",REP
+MI,04,H6MI04170,,Jordan,Salvi,"Salvi, Jordan",GRE
+MI,04,H8MI05108,,Leonard ,Schwartz,"Schwartz, Leonard ",LIB
+MI,04,H6MI04162,,Keith,Butkovich,"Butkovich, Keith",NLP
+MI,04,H8MI08086,,George M.,Zimmer,"Zimmer, George M.",UST
+,,,,,,,
+MI,05,H2MI05119 ,(I),Daniel T.,Kildee,"Kildee, Daniel T.",DEM
+MI,05,H4MI05123,,Al,Hardwick,"Hardwick, Al",REP
+MI,05,H2MI05101,,Harley,Mikkelson,"Mikkelson, Harley",GRE
+MI,05,H6MI05219,,Steve,Sluka,"Sluka, Steve",LIB
+,,,,,,,
+MI,06,H4MI06105 ,,Paul,Clements,"Clements, Paul",DEM
+MI,06,H6MI04113 ,(I),Fred,Upton,"Upton, Fred",REP
+MI,06,H6MI06159 ,,Lorence,Wenke,"Wenke, Lorence",LIB
+,,,,,,,
+MI,07,H6MI07223 ,,Gretchen D.,Driskell,"Driskell, Gretchen D.",DEM
+MI,07,H4MI07103 ,(I),Tim,Walberg,"Walberg, Tim",REP
+MI,07,H2MI07073,,Ken,Proctor,"Proctor, Ken",LIB
+,,,,,,,
+MI,08,H6MI08262,,Suzanna,Shkreli,"Shkreli, Suzanna",DEM
+MI,08,H4MI08135,(I),Mike,Bishop,"Bishop, Mike",REP
+MI,08,H6MI08270,,Maria,Green,"Green, Maria",GRE
+MI,08,H6MI08288,,Jeff,Wood,"Wood, Jeff",LIB
+MI,08,H4MI08101,,Jeremy,Burgess,"Burgess, Jeremy",NLP
+,,,,,,,
+MI,09,H2MI17023,(I),Sander,Levin,"Levin, Sander",DEM
+MI,09,H6MI09187,,Christopher R.,Morse,"Morse, Christopher R.",REP
+MI,09,H4MI09091,,John V.,McDermott,"McDermott, John V.",GRE
+MI,09,H6MI09195,,Matthew,Orlando,"Orlando, Matthew",LIB
+,,,,,,,
+MI,10,H6MI10227,,"Frank, Jr.",Accavitti,"Accavitti, Frank, Jr.",DEM
+MI,10,H4MI04118,,Paul ,Mitchell,"Mitchell, Paul ",REP
+MI,10,H6MI10250,,Benjamin,Nofs,"Nofs, Benjamin",GRE
+MI,10,H6MI10243,,Lisa Lane,Gioia,"Gioia, Lisa Lane",LIB
+,,,,,,,
+MI,11,H4MI11089 ,,Anil ,Kumar,"Kumar, Anil ",DEM
+MI,11,H4MI11097,(I),David A.,Trott,"Trott, David A.",REP
+MI,11,H6MI11183,,Jonathan Ray,Osment,"Osment, Jonathan Ray",LIB
+MI,11,H2MI11133,,Kerry,Bentivolio,"Bentivolio, Kerry",NPA
+,,,,,,,
+MI,12,H4MI12079 ,(I),Debbie,Dingell,"Dingell, Debbie",DEM
+MI,12,H6MI12264 ,,Jeff,Jones,"Jones, Jeff",REP
+MI,12,H6MI12280,,Dylan,Calewarts,"Calewarts, Dylan",GRE
+MI,12,H6MI12272,,Tom,Bagwell,"Bagwell, Tom",LIB
+MI,12,H8MI07039,,Gary,Walkowicz,"Walkowicz, Gary",WC
+,,,,,,,
+MI,13,H6MI01028,(I),"John, Jr.",Conyers,"Conyers, John, Jr.",DEM
+MI,13,H4MI13200,,Jeff,Gorman,"Gorman, Jeff",REP
+MI,13,H6MI13239,,Tiffany,Hayden,"Hayden, Tiffany",LIB
+MI,13,H4MI13218,,Sam,Johnson,"Johnson, Sam",WC
+,,,,,,,
+MI,14,H2MI14111,(I),Brenda L.,Lawrence,"Lawrence, Brenda L.",DEM
+MI,14,H6MI14211 ,,Howard,Klausner,"Klausner, Howard",REP
+MI,14,H6MI14229,,Marcia,Squier,"Squier, Marcia",GRE
+MI,14,H4MI09083,,Gregory,Creswell,"Creswell, Gregory",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,NLP = Natural Law
+,,,,,,,NPA = No Party Affiliation
+,,,,,,,UST =US Taxpayers
+,,,,,,,WC = Working Class
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MN,01,H6MN01174,(I),Tim ,Walz,"Walz, Tim ",DFL
+MN,01,H0MN01045,,Jim,Hagedorn,"Hagedorn, Jim",REP
+,,,,,,,
+MN,02,H6MN02131,,Angie ,Craig,"Craig, Angie ",DFL
+MN,02,H6MN02149,,Jason,Lewis,"Lewis, Jason",REP
+MN,02,H4MN02136,,Paula,Overby,"Overby, Paula",IDP
+,,,,,,,
+MN,03,H8MN03069 ,,Terri E.,Bonoff,"Bonoff, Terri E.",DFL
+MN,03,H8MN03077 ,(I),Erik,Paulsen,"Paulsen, Erik",REP
+,,,,,,,
+MN,04,H0MN04049,(I),Betty ,McCollum,"McCollum, Betty ",DFL
+MN,04,H6MN04236,,Greg,Ryan,"Ryan, Greg",REP
+MN,04,H6MN04269 ,,Susan Pendergast,Sindt,"Sindt, Susan Pendergast",LMN
+,,,,,,,
+MN,05,H6MN05183,(I),Keith,Ellison,"Ellison, Keith",DFL
+MN,05,H6MN05332 ,,Frank Nelson,Drake,"Drake, Frank Nelson",REP
+MN,05,H6MN05340,,Dennis,Schuller,"Schuller, Dennis",LMN
+,,,,,,,
+MN,06,H6MN06181,,David,Snyder,"Snyder, David",DFL
+MN,06,H4MN06087,(I),Tom,Emmer,"Emmer, Tom",REP
+,,,,,,,
+MN,07,H2MN07014,(I),Collin,Peterson,"Peterson, Collin",DFL
+MN,07,H6MN07304,,Dave,Hughes,"Hughes, Dave",REP
+,,,,,,,
+MN,08,H2MN08111,(I),Rick ,Nolan,"Nolan, Rick ",DFL
+MN,08,H4MN08083,,Stewart,Mills,"Mills, Stewart",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DFL = Democratic-Farmer-Labor
+,,,,,,,REP = Republican
+,,,,,,,IDP = Independence
+,,,,,,,LMN = Legal Marijuana Now
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MO,S,S6MO00362,,Jason,Kander,"Kander, Jason",DEM
+MO,S,S0MO00183,(I),Roy ,Blunt,"Blunt, Roy ",REP
+MO,S,S6MO00453,,Fred ,Ryman,"Ryman, Fred ",CON
+MO,S,S6MO00479,,Jonathan ,McFarland,"McFarland, Jonathan ",GRE
+MO,S,S0MO00340,,Jonathan ,Dine,"Dine, Jonathan ",LIB
+,,,,,,,
+MO,01,H0MO01066,(I),Lacy ,Clay,"Clay, Lacy ",DEM
+MO,01,H8MO03131,,Steven G. ,Bailey,"Bailey, Steven G. ",REP
+MO,01,H6MO01246,,Robb E.,Cunningham,"Cunningham, Robb E.",LIB
+,,,,,,,
+MO,02,H6MO02301,,Bill,Otto,"Otto, Bill",DEM
+MO,02,H2MO02102,(I),Ann ,Wagner,"Wagner, Ann ",REP
+MO,02,H0MO03120,,David Justus,Arnold,"Arnold, David Justus",GRE
+MO,02,H2MO02078,,Jim ,Higgins,"Higgins, Jim ",LIB
+,,,,,,,
+MO,03,H6MO03341,,Kevin ,Miller,"Miller, Kevin ",DEM
+MO,03,H8MO09153,(I),Blaine,Luetkemeyer,"Luetkemeyer, Blaine",REP
+MO,03,H6MO03358,,Dan ,Hogan,"Hogan, Dan ",LIB
+MO,03,H6MO03325,,Doanita,Simmons,"Simmons, Doanita",CON
+,,,,,,,
+MO,04,H6MO04224,,Gordon,Christensen,"Christensen, Gordon",DEM
+MO,04,H0MO04086,(I),Vicky,Hartzler,"Hartzler, Vicky",REP
+MO,04,H6MO04232,,Mark ,Bliss,"Bliss, Mark ",LIB
+,,,,,,,
+MO,05,H4MO05234,(I),"Emanuel, II",Cleaver,"Cleaver, Emanuel, II",DEM
+MO,05,H6MO05189,,Jacob ,Turk,"Turk, Jacob ",REP
+MO,05,H4MO05341,,Roy ,Welborn,"Welborn, Roy ",LIB
+,,,,,,,
+MO,06,H6MO06229,,David M. ,Blackwell,"Blackwell, David M. ",DEM
+MO,06,H0MO06073,(I),Sam,Graves,"Graves, Sam",REP
+MO,06,H6MO06245,,Mike,Diel,"Diel, Mike",GRE
+MO,06,H2MO06228,,Russ Lee,Monchil,"Monchil, Russ Lee",LIB
+,,,,,,,
+MO,07,H4MO07131,,Genevieve (Gen),Williams,"Williams, Genevieve (Gen)",DEM
+MO,07,H0MO07113,(I),Billy ,Long,"Long, Billy ",REP
+MO,07,H6MO07292,,Benjamin T.,Brixey,"Brixey, Benjamin T.",LIB
+,,,,,,,
+MO,08,H6MO08126,,Dave,Cowell,"Cowell, Dave",DEM
+MO,08,H4MO08162,(I),Jason ,Smith,"Smith, Jason ",REP
+MO,08,H6MO08159,,Jonathan ,Shell,"Shell, Jonathan ",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MS,01,H6MS01263,,Jacob,Owens,"Owens, Jacob",DEM
+MS,01,H6MS01271,,Paul,Clever,"Clever, Paul",Republican
+MS,01,H6MS01131,(I),Trent,Kelly,"Kelly, Trent",REP
+MS,01,H6MS02154 ,,Chase,Wilson,"Wilson, Chase",LIB
+MS,01,H6MS01289,,Cathy L.,Toole,"Toole, Cathy L.",REF
+,,,,,,,
+MS,02,H4MS02068,(I),Bennie G.,Thompson,"Thompson, Bennie G.",DEM
+MS,02,H6MS02162 ,,"John, II",Bouie,"Bouie, John, II",REP
+MS,02,H6MS02170 ,,Johnny,McLeod,"McLeod, Johnny",REF
+MS,02,H4MS02183,,Troy,Ray,"Ray, Troy",IND
+,,,,,,,
+MS,03,H4MS03041,,Dennis C.,Quinn,"Quinn, Dennis C.",DEM
+MS,03,H6MS03186 ,,Nathan,Stewart,"Stewart, Nathan",Democratic
+MS,03,H8MS03067,(I),Gregg,Harper,"Harper, Gregg",REP
+MS,03,H6MS03194 ,,Lajena,Sheets,"Sheets, Lajena",REF
+MS,03,H4MS03058,,Roger I.,Gerrard,"Gerrard, Roger I.",VPA
+,,,,,,,
+MS,04,H6MS04192,,Mark,Gladney,"Gladney, Mark",DEM
+MS,04,H0MS04120,(I),Steven,Palazzo,"Palazzo, Steven",REF
+MS,04,H6MS04200,,Richard Blake,McCluskey,"McCluskey, Richard Blake",LIB
+MS,04,H0MS03049,,Shawn,O'Hara,"O'Hara, Shawn",REF
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,REF = Reform
+,,,,,,,VPA = Veterans Party of America
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MT,00,H6MT01095,,Denise,Juneau,"Juneau, Denise",DEM
+MT,00,H4MT01041,(I),Ryan,Zinke,"Zinke, Ryan",REP
+MT,00,H6MT00097,,Rick,Breckenridge,"Breckenridge, Rick",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NC,S,S6NC00274,,Kevin D.,Griffin,"Griffin, Kevin D.",DEM
+NC,S,S4NC00238,,Ernest T.,Reeves,"Reeves, Ernest T.",DEM
+NC,S,S6NC00282,,Chris,Rey,"Rey, Chris",DEM
+NC,S,S6NC00266,,Deborah K.,Ross,"Ross, Deborah K.",DEM
+NC,S,S4NC00147,,Greg,Brannon,"Brannon, Greg",REP
+NC,S,S4NC00089,(I),Richard,Burr,"Burr, Richard",REP
+NC,S,S6NC00308,,Larry,Holmquist,"Holmquist, Larry",REP
+NC,S,S6NC00316,,Paul,Wright,"Wright, Paul",REP
+NC,S,S2NC00257,,Sean,Haugh,"Haugh, Sean",LIB
+,,,,,,,
+NC,01,H4NC01046,(I),G. K.,Butterfield,"Butterfield, G. K.",DEM
+NC,01,H6NC01108 ,,"H. Powell, Jr.",Dew,"Dew, H. Powell, Jr.",REP
+NC,01,H6NC01116,,J.J.,Summerell,"Summerell, J.J.",LIB
+,,,,,,,
+NC,02,H6NC02163,,Elton R.,Brewington,"Brewington, Elton R.",DEM
+NC,02,H6NC02171,,Steven E.,Hight,"Hight, Steven E.",DEM
+NC,02,H6NC13046,,John P.,McNeil,"McNeil, John P.",DEM
+NC,02,H4NC13058,,Ron,Sanyal,"Sanyal, Ron",DEM
+NC,02,H6NC02155,,Jane,Watson,"Watson, Jane",DEM
+NC,02,H6NC02148,,Greg,Brannon,"Brannon, Greg",REP
+NC,02,H0NC02059,(I),Renee,Ellmers,"Ellmers, Renee",REP
+NC,02,H2NC13110,(I),George,Holding,"Holding, George",REP
+,,,,,,,
+NC,03,H6NC03153,,David Allan,Hurst,"Hurst, David Allan",DEM
+NC,03,H6NC03161,,Ernest T.,Reeves,"Reeves, Ernest T.",DEM
+NC,03,H4NC03059,,Taylor,Griffin,"Griffin, Taylor",REP
+NC,03,H2NC01081,(I),Walter B.,Jones,"Jones, Walter B.",REP
+NC,03,H6NC03138,,Phil,Law,"Law, Phil",REP
+,,,,,,,
+NC,04,H6NC04037,(I),David,Price,"Price, David",DEM
+NC,04,H6NC04151,,Sue,Googe,"Googe, Sue",REP
+NC,04,H6NC04169,,Teiji,Kimball,"Kimball, Teiji",REP
+,,,,,,,
+NC,05,H4NC05245,,Josh,Brannon,"Brannon, Josh",DEM
+NC,05,H6NC06131,,Jim,Roberts,"Roberts, Jim",DEM
+NC,05,H6NC05125,,Charlie,Wallin,"Wallin, Charlie",DEM
+NC,05,H6NC05117,,Pattie,Curran,"Curran, Pattie",REP
+NC,05,H4NC05146,(I),Virginia,Foxx,"Foxx, Virginia",REP
+,,,,,,,
+NC,06,H6NC06099,,Pete,Glidewell,"Glidewell, Pete",DEM
+NC,06,H6NC06107,,Chris,Hardin,"Hardin, Chris",REP
+NC,06,H4NC06052,(I),B. Mark,Walker,"Walker, B. Mark",REP
+,,,,,,,
+NC,07,H4NC07100,,J. Wesley,Casteen,"Casteen, J. Wesley",DEM
+NC,07,H2NC07096,(I),David,Rouzer,"Rouzer, David",REP
+,,,,,,,
+NC,08,H6NC08145,,Thomas,Mills,"Mills, Thomas",DEM
+NC,08,H0NC08163,,Tim,D'Annunzio,"D'Annunzio, Tim",REP
+NC,08,H2NC08185,(I),Richard,Hudson,"Hudson, Richard",REP
+,,,,,,,
+NC,09,H6NC09184,,Christian,Cano,"Cano, Christian",DEM
+NC,09,H6NC09200,,Mark,Harris,"Harris, Mark",REP
+NC,09,H6NC09192,,Todd,Johnson,"Johnson, Todd",REP
+NC,09,H2NC09134,(I),Robert,Pittenger,"Pittenger, Robert",REP
+,,,,,,,
+NC,10,H6NC10158,,Andy,Millard,"Millard, Andy",DEM
+NC,10,H6NC10166,,Jeffrey,Baker,"Baker, Jeffrey",REP
+NC,10,H0NC10177,,Jeff,Gregory,"Gregory, Jeff",REP
+NC,10,H4NC10047,(I),Patrick,McHenry,"McHenry, Patrick",REP
+NC,10,H0NC01036,,"Albert Lee, Jr.",Wiley,"Wiley, Albert Lee, Jr.",REP
+,,,,,,,
+NC,11,H6NC11198,,Rick,Bryson,"Bryson, Rick",DEM
+NC,11,H4NC11086,,Tom,Hill,"Hill, Tom",DEM
+NC,11,H2NC11080,(I),Mark,Meadows,"Meadows, Mark",REP
+,,,,,,,
+NC,12,H4NC12100,(I),Alma,Adams,"Adams, Alma",DEM
+NC,12,H6NC12055,,Tricia,Cotham,"Cotham, Tricia",DEM
+NC,12,H6NC12063,,Carla D.,Cunningham,"Cunningham, Carla D.",DEM
+NC,12,H4NC12084,,Malcolm,Graham,"Graham, Malcolm",DEM
+NC,12,H4NC05260,,Gardenia,Henley,"Henley, Gardenia",DEM
+NC,12,H6NC12071,,Rick,Miller,"Miller, Rick",DEM
+NC,12,H4NC12068,,Rodney W.,Moore,"Moore, Rodney W.",DEM
+NC,12,H6NC12030,,Ryan,Duffie,"Duffie, Ryan",REP
+NC,12,H4NC12142,,Leon,Threatt,"Threatt, Leon",REP
+NC,12,H6NC12089 ,,Paul,Wright,"Wright, Paul",REP
+,,,,,,,
+NC,13,H4NC06136,,Bruce,Davis,"Davis, Bruce",DEM
+NC,13,H6NC13152,,Mazie,Ferguson,"Ferguson, Mazie",DEM
+NC,13,H6NC13210,,Kevin D.,Griffin,"Griffin, Kevin D.",DEM
+NC,13,H6NC13160 ,,Bob,Isner,"Isner, Bob",DEM
+NC,13,H6NC03179,,Dan,Barrett,"Barrett, Dan",REP
+NC,13,H6NC13087,,John,Blust,"Blust, John",REP
+NC,13,H6NC13053,,Andrew C.,Brock,"Brock, Andrew C.",REP
+NC,13,H6NC13129,,Ted,Budd,"Budd, Ted",REP
+NC,13,H6NC02122,,Kay,Daly,"Daly, Kay",REP
+NC,13,H6NC13111,,Kathy,Feather,"Feather, Kathy",REP
+NC,13,H6NC13178,,Chad A.,Gant,"Gant, Chad A.",REP
+NC,13,H6NC13095,,Hank,Henning,"Henning, Hank",REP
+NC,13,H6NC13137,,Julia Craven,Howard,"Howard, Julia Craven",REP
+NC,13,H6NC13079,,Matthew J.,McCall,"McCall, Matthew J.",REP
+NC,13,H6NC13061,,Vernon,Robinson,"Robinson, Vernon",REP
+NC,13,H6NC09176,,George,Rouco,"Rouco, George",REP
+NC,13,H6NC13103,,Farren K. ,Shoaf,"Shoaf, Farren K. ",REP
+NC,13,H6NC13186,,Jim,Snyder,"Snyder, Jim",REP
+NC,13,H6NC13194 ,,David W. ,Thompson,"Thompson, David W. ",REP
+NC,13,H6NC13145,,Jason A.,Walser,"Walser, Jason A.",REP
+NC,13,H6NC13202,,Harry,Warren,"Warren, Harry",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB= Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+ND,S,S6ND00108,,Eliot,Glassheim,"Glassheim, Eliot",DNL
+ND,S,S0ND00093,(I),John,Hoeven,"Hoeven, John",REP
+ND,S,S6ND00116,,Robert N.,Marquette,"Marquette, Robert N.",LIB
+ND,S,S6ND00082,,,,"Germalic, James",IND
+,,,,,,,
+ND,00,H6ND01015,,Chase,Iron Eyes,"Iron Eyes, Chase",DNL
+ND,00,H0ND01026,(I),Kevin,Cramer,"Cramer, Kevin",REP
+ND,00,H4ND01028,,Jack,Seaman,"Seaman, Jack",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DNL = Democratic-Nonpartisan League
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NE,01,H6NE01119,(I),Daniel M.,Wik,"Wik, Daniel M.",DEM
+NE,01,H4NE01064,,Jeff,Fortenberry,"Fortenberry, Jeff",REP
+,,,,,,,
+NE,02,H4NE02054,(I),Brad,Ashford,"Ashford, Brad",DEM
+NE,02,H6NE02125,,Don,Bacon,"Bacon, Don",REP
+NE,02,H8NE02204,,Steven,Laird,"Laird, Steven",LIB
+,,,,,,,
+NE,03,H6NE03115,(I),Adrian,Smith,"Smith, Adrian",REP
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NH,S,S6NH00091,,Maggie,Hassan,"Hassan, Maggie",DEM
+NH,S,S0NH00235,(I),Kelly,Ayotte,"Ayotte, Kelly",REP
+NH,S,S6NH00117,,Brian,Chabot,"Chabot, Brian",LIB
+NH,S,S6NH00125,,Aaron,Day,"Day, Aaron",IND
+,,,,,,,
+NH,01,H6NH01230,(I),Carol ,Shea-Porter,"Shea-Porter, Carol ",DEM
+NH,01,H0NH01217,,Frank,Guinta,"Guinta, Frank",REP
+NH,01,H6NH01313,,Robert,Lombardo,"Lombardo, Robert",LIB
+NH,01,H4NH01235,,Brendan,Kelly,"Kelly, Brendan",IND
+NH,01,H6NH01271,,Shawn P.,O'Connor,"O'Connor, Shawn P.",IND
+,,,,,,,
+NH,02,H0NH02181,(I),Ann McLane,Kuster,"Kuster, Ann McLane",DEM
+NH,02,H4NH02258,,Jim,Lawrence,"Lawrence, Jim",REP
+NH,02,H6NH02246,,John J.,Babiarz,"Babiarz, John J.",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NJ,01,H4NJ01084,(I),Donald W.,Norcross,"Norcross, Donald W.",DEM
+NJ,01,H6NJ01204,,Bob,Patterson,"Patterson, Bob",REP
+NJ,01,H6NJ01212,,"William F., IV",Sihr,"Sihr, William F., IV",LIB
+NJ,01,H4NJ01159,,Michael ,Berman,"Berman, Michael ",AO
+NJ,01,H4NJ01142,,Scot John,Tomaszewski,"Tomaszewski, Scot John",WDB
+,,,,,,,
+NJ,02,H4NJ02157,,David H.,Cole,"Cole, David H.",DEM
+NJ,02,H2NJ02037,(I),Frank A.,LoBiondo,"LoBiondo, Frank A.",REP
+NJ,02,H2NJ02177,,John,Ordille,"Ordille, John",LIB
+NJ,02,H6NJ02186,,Eric,Beechwood,"Beechwood, Eric",PIP
+NJ,02, H6NJ02210,,Steven,Fenichel,"Fenichel, Steven",RNN
+NJ,02,H6NJ02202,,Gabriel Brian,Franco,"Franco, Gabriel Brian",FPR
+NJ,02,H6NJ02194 ,,James,Keenan,"Keenan, James",MGW
+,,,,,,,
+NJ,03,H4NJ03163,,Frederick John,LaVergne,"LaVergne, Frederick John",DEM
+NJ,03,H4NJ03130,(I),Tom,MacArthur,"MacArthur, Tom",REP
+NJ,03,H6NJ03150,,"Lawrence W., Jr.",Berlinski,"Berlinski, Lawrence W., Jr.",CON
+,,,,,,,
+NJ,04,H6NJ04158,,Lorna,Phillipson,"Phillipson, Lorna",DEM
+NJ,04,H8NJ04014,(I),Christopher H.,Smith,"Smith, Christopher H.",REP
+NJ,04,H6NJ04174,,Jeremy,Marcus,"Marcus, Jeremy",LIB
+NJ,04,H6NJ04182,,Hank,Schroeder,"Schroeder, Hank",EG
+,,,,,,,
+NJ,05,H6NJ05171,,Joshua S.,Gottheimer,"Gottheimer, Joshua S.",DEM
+NJ,05,H8NJ05052,(I),Scott,Garrett,"Garrett, Scott",REP
+NJ,05,H6NJ05205,,Claudio,Belusic,"Belusic, Claudio",LIB
+,,,,,,,
+NJ,06,H8NJ03073,(I),"Frank, Jr.",Pallone,"Pallone, Frank, Jr.",DEM
+NJ,06,H6NJ06229,,Brent,Sonnek-Schmelz,"Sonnek-Schmelz, Brent",REP
+NJ,06,H6NJ06237,,Rajit B.,Malliah,"Malliah, Rajit B.",GRE
+NJ,06,H6NJ06245,,Judith ,Shamy,"Shamy, Judith ",LIB
+,,,,,,,
+NJ,07,H6NJ07151,,Peter,Jacob,"Jacob, Peter",DEM
+NJ,07,H6NJ12136,(I),Leonard,Lance,"Lance, Leonard",REP
+NJ,07,H6NJ07185,,"Arthur T., Jr.",Haussmann,"Haussmann, Arthur T., Jr.",CON
+NJ,07,H6NJ07193,,Dan,O'Neill,"O'Neill, Dan",LIB
+,,,,,,,
+NJ,08,H6NJ13191,(I),Albio,Sires,"Sires, Albio",DEM
+NJ,08,H6NJ08167,,Agha,Khan,"Khan, Agha",REP
+NJ,08,H6NJ08175 ,,Dan,Delaney,"Delaney, Dan",LIB
+NJ,08,H2NJ08224,,Pablo ,Olivera,"Olivera, Pablo ",WUA
+,,,,,,,
+NJ,09,H6NJ08118,(I),"Bill, Jr.",Pascrell,"Pascrell, Bill, Jr.",DEM
+NJ,09,H6NJ09231,,Hector L.,Castillo,"Castillo, Hector L.",REP
+NJ,09,H6NJ09256,,Diego,Rivera,"Rivera, Diego",LIB
+NJ,09,H6NJ09249,,Jeff,Boss,"Boss, Jeff",NSA
+,,,,,,,
+NJ,10,H2NJ10154,(I),"Donald M., Jr.",Payne,"Payne, Donald M., Jr.",DEM
+NJ,10,H0NJ10133,,David H.,Pinckney,"Pinckney, David H.",REP
+NJ,10,H4NJ10085,,Aaron Walter,Fraser,"Fraser, Aaron Walter",NBP
+NJ,10,H0NJ10182,,Joanne,Miller,"Miller, Joanne",WOP
+,,,,,,,
+NJ,11,H6NJ11138,,Joseph M.,Wenzel,"Wenzel, Joseph M.",DEM
+NJ,11,H2NJ05014,(I),Rodney P.,Frelinghuysen,"Frelinghuysen, Rodney P.",REP
+NJ,11,H6NJ11161,,Jeff,Hetrick,"Hetrick, Jeff",LIB
+NJ,11,H6NJ11153,,Thomas,Depasquale,"Depasquale, Thomas",FI
+,,,,,,,
+NJ,12,H4NJ12149,(I),Bonnie Watson,Coleman,"Coleman, Bonnie Watson",DEM
+NJ,12,H6NJ12201,,Steven J.,Uccio,"Uccio, Steven J.",REP
+NJ,12,H8NJ04154,,Steven  ,Welzer,"Welzer, Steven  ",GRE
+NJ,12,H6NJ12219,,Thomas ,Fitzpatrick,"Fitzpatrick, Thomas ",LIB
+NJ,12, H6NJ12227,,Michael R.,Bollentin,"Bollentin, Michael R.",WTP
+NJ,12,H2NJ03191,,R. Edward,Forchion,"Forchion, R. Edward",LMP
+NJ,12,H6NJ12235,,Robert,Shapiro,"Shapiro, Robert",TED
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,AO = Americanindependents.org
+,,,,,,,CON = Constitution
+,,,,,,,CRV = Conservative
+,,,,,,,EG = Economic Growth
+,,,,,,,FI = Financial Independence
+,,,,,,,FPR = For Political Revolution
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,LMP = Legalize Marijuana Party
+,,,,,,,MGW = Make Government Work
+,,,,,,,NBP = New Beginning's
+,,,,,,,NSA = NSA Did 911
+,,,,,,,PIP = People's Independent Progressive
+,,,,,,,REP = Republican
+,,,,,,,RNN = Representing the 99%
+,,,,,,,TED = Teddy Roosevelt Progressive
+,,,,,,,WDB = We Deserve Better
+,,,,,,,WOP = Women of Power
+,,,,,,,WTP = We the People
+,,,,,,,WUA = Wake Up America
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NM,01,H8NM01257,(I),Michelle,Lujan Grisham,"Lujan Grisham, Michelle",DEM
+NM,01,H4NM01124,,Richard Gregory,Priem,"Priem, Richard Gregory",REP
+,,,,,,,
+NM,02,H6NM02101,,Merrie Lee,Soules,"Soules, Merrie Lee",DEM
+NM,02,H2NM02126 ,(I),Steve,Pearce,"Pearce, Steve",REP
+NM,02,H4NM02080,,Jack A.,McGrann,"McGrann, Jack A.",W
+,,,,,,,
+NM,03,H8NM03196,(I),Ben R,Lujan,"Lujan, Ben R",DEM
+NM,03,H6NM03067 ,,Michael H.,Romero,"Romero, Michael H.",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NV,S,S6NV00200,,Catherine,Cortez Masto,"Cortez Masto, Catherine",DEM
+NV,S,S6NV00218,,Joe,Heck,"Heck, Joe",REP
+NV,S,S6NV00242,,Tom,Jones,"Jones, Tom",IAP
+NV,S,S6NV00259,,Tony,Gumina,"Gumina, Tony",NPY
+NV,S,S6NV00317,,"Thomas ""Tom""",Sawyer,"Sawyer, Thomas ""Tom""",NPY
+NV,S,S6NV00341,,Jarrod M.,Williams,"Williams, Jarrod M.",NPY
+,,,,,,,
+NV,01,H8NV03036,(I),Dina,Titus,"Titus, Dina",DEM
+NV,01,H6NV01208,,Mary,Perry,"Perry, Mary",REP
+NV,01,H4NV01187,,Kamau A. ,Bakari,"Bakari, Kamau A. ",IAP
+NV,01,H6NV01232,,Reuben,D'Silva,"D'Silva, Reuben",NPY
+,,,,,,,
+NV,02,H6NV02248,,"H. D. ""Chip""",Evans,"Evans, H. D. ""Chip""",DEM
+NV,02,H2NV02395,(I),Mark E.,Amodei,"Amodei, Mark E.",REP
+NV,02,H8NV02079,,John H.,Everhart,"Everhart, John H.",IAP
+NV,02,H6NV02263,,Drew ,Knight,"Knight, Drew ",NPY
+,,,,,,,
+NV,03,H6NV03139,,Jacky,Rosen,"Rosen, Jacky",DEM
+NV,03,H2NV04045,,Danny,Tarkanian,"Tarkanian, Danny",REP
+NV,03,H6NV03162,,Warren,Markowitz,"Markowitz, Warren",IAP
+NV,03,H4NV03126,,David,Goossen,"Goossen, David",NPY
+,,,,,,,
+NV,04,H2NV00050,,Ruben,Kihuen,"Kihuen, Ruben",DEM
+NV,04,H4NV04017,(I),Cresent,Hardy,"Hardy, Cresent",REP
+NV,04,H6NV04103,,Mike ,Little,"Little, Mike ",IAP
+NV,04,H4NV04058,,Steve,Brown,"Brown, Steve",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IAP = Independent American Party
+,,,,,,,LIB = Libertarian
+,,,,,,,NPY = No Political Party
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+NY,S,S8NY00082,(I),Charles E.,Schumer,"Schumer, Charles E.",DEM/IDP/WEP/WF
+NY,S,S2NY00259,,Wendy,Long,"Long, Wendy",REP/CRV/REF
+NY,S,S6NY00425,,Robin Laverne,Wilson,"Wilson, Robin Laverne",GRE
+NY,S,S6NY00433,,Alex,Merced,"Merced, Alex",LIB
+,,,,,,,
+NY,01,H6NY01126,,Anna E.,Throne-Holst,"Throne-Holst, Anna E.",DEM/WEP/WF
+NY,01,H8NY01148,(I),Lee M.,Zeldin,"Zeldin, Lee M.",REP/CRV/REF/IDP
+,,,,,,,
+NY,02,H6NY02124,,Du Wayne,Gregory,"Gregory, Du Wayne",DEM/IDP/WEP/WF
+NY,02,H2NY03089,(I),Peter T. ,King,"King, Peter T. ",REP/CRV/REF/TRP
+,,,,,,,
+NY,03,H6NY03247,,Thomas R.,Suozzi,"Suozzi, Thomas R.",DEM
+NY,03,H6NY03197,,Jack M.,Martins,"Martins, Jack M.",REP/REF/CRV
+,,,,,,,
+NY,04,H4NY04075,(I),Kathleen M.,Rice,"Rice, Kathleen M.",DEM/WEP
+NY,04,H6NY03171,,David H.,Gurfein,"Gurfein, David H.",REP/CRV/REF/TRP
+,,,,,,,
+NY,05,H8NY06048,(I),Gregory W.,Meeks,"Meeks, Gregory W.",DEM/WEP
+NY,05,H6NY05077,,Michael A.,O'Reilly,"O'Reilly, Michael A.",REP/CRV
+NY,05,H6NY05085,,Frank,Francois,"Francois, Frank",GRE
+,,,,,,,
+NY,06,H2NY06116,(I),Grace ,Meng,"Meng, Grace ",DEM/WEP
+NY,06,H6NY14236,,Danniel S.,Maio,"Maio, Danniel S.",REP/BLM/CRV
+NY,06,H6NY06141,,Haris,Bhatti,"Bhatti, Haris",HBP
+,,,,,,,
+NY,07,H2NY00010,(I),Nydia M.,Velazquez,"Velazquez, Nydia M.",DEM/WEP
+NY,07,H6NY12115,,Allan E.,Romaguera,"Romaguera, Allan E.",REP/CRV
+,,,,,,,
+NY,08,H2NY10092,(I),Hakeem S.,Jeffries,"Jeffries, Hakeem S.",DEM/WF
+NY,08,H2NY09110,,Daniel J.,Cavanagh,"Cavanagh, Daniel J.",CRV
+,,,,,,,
+NY,09,H4NY11138,(I),Yvette D.,Clarke,"Clarke, Yvette D.",DEM/WF
+NY,09,H2NY08120,,Alan,Bellone,"Bellone, Alan",CRV
+,,,,,,,
+NY,10,H2NY17071,(I),Jerrold L.,Nadler,"Nadler, Jerrold L.",DEM/WF/WEP
+NY,10,H6NY10119,,Philip,Rosenthal,"Rosenthal, Philip",REP/CRV/IDP/SID
+,,,,,,,
+NY,11,H6NY11216,,Richard A.,Reichard,"Reichard, Richard A.",DEM
+NY,11,H6NY11174,(I),Dan,Donovan,"Donovan, Dan",REP/CRV/IDP/REF
+NY,11,H2NY13062,,Henry J.,Bardel,"Bardel, Henry J.",GRE
+,,,,,,,
+NY,12,H2NY14037,(I),Carolyn B.,Maloney,"Maloney, Carolyn B.",DEM/WF
+NY,12,H6NY12149,,Robert,Ardini,"Ardini, Robert",REP
+,,,,,,,
+NY,13,H2NY13096,,Adriano,Espaillat,"Espaillat, Adriano",DEM
+NY,13,H6NY13154,,"Robert A., Jr.",Evans,"Evans, Robert A., Jr.",REP/IDP
+NY,13,H4NY13076,,Daniel Vila,Rivera,"Rivera, Daniel Vila",GRE
+NY,13,H6NY13170,,Scott Lloyd,Fenstermaker,"Fenstermaker, Scott Lloyd",TGP
+,,,,,,,
+NY,14,H8NY07046,(I),Joseph,Crowley,"Crowley, Joseph",DEM/WEP/WF
+NY,14,H6NY14244,,Frank J.,Spotorno,"Spotorno, Frank J.",REP/CRV
+,,,,,,,
+NY,15,H0NY18065,(I),Jose E.,Serrano,"Serrano, Jose E.",DEM
+NY,15,H6NY15142,,Alejandro,Vega,"Vega, Alejandro",REP
+NY,15,H4NY15121,,Eduardo,Ramirez,"Ramirez, Eduardo",CRV
+,,,,,,,
+NY,16,H8NY19058,(I),Eliot L.,Engel,"Engel, Eliot L.",DEM/WEP/WF
+NY,16,H6NY16132,,Derickson K.,Lawrence,"Lawrence, Derickson K.",PCC
+,,,,,,,
+NY,17,H8NY20056,(I),Nita M.,Lowey,"Lowey, Nita M.",DEM/WEP/WF
+,,,,,,,
+NY,18,H2NY22139,(I),Sean Patrick,Maloney,"Maloney, Sean Patrick",DEM/IDP/WEP/WF
+NY,18,H6NY18203,,Phil,Oliva,"Oliva, Phil",REP/CRV/REF
+,,,,,,,
+NY,19,H6NY19243,,Zephyr,Teachout,"Teachout, Zephyr",DEM/WF
+NY,19,H6NY19169,,John J.,Faso,"Faso, John J.",REP/CRV/IDP/REF
+,,,,,,,
+NY,20,H8NY21203,(I),Paul D.,Tonko,"Tonko, Paul D.",DEM/IDP/WEP/WF
+NY,20,H6NY20209,,Francis J.,Vitollo,"Vitollo, Francis J.",REP/CRV/REF
+,,,,,,,
+NY,21,H6NY21132,,Mike,Derrick,"Derrick, Mike",DEM/WF
+NY,21,H4NY21079,(I),Elise M.,Stefanik,"Stefanik, Elise M.",REP/CRV/IDP/REF
+NY,21,H4NY21111,,Matthew J.,Funiciello,"Funiciello, Matthew J.",GRE
+,,,,,,,
+NY,22,H6NY22130,,Kim A.,Myers,"Myers, Kim A.",DEM/WF
+NY,22,H4NY22051,,Claudia,Tenney,"Tenney, Claudia",REP/CRV
+NY,22,H6NY22148,,Martin,Babinec,"Babinec, Martin",REF/UPJ
+,,,,,,,
+NY,23,H6NY23518,,John F.,Plumb,"Plumb, John F.",DEM/WF
+NY,23,H0NY29054,(I),"Thomas W., II",Reed,"Reed, Thomas W., II",REP/CRV/REF/IDP
+,,,,,,,
+NY,24,H6NY24177,,Colleen,Deacon,"Deacon, Colleen",DEM/WF
+NY,24,H4NY24073,(I),John M.,Katko,"Katko, John M.",REP/CRV/IDP/REF
+,,,,,,,
+NY,25,H6NY03031,(I),Louise M.,Slaughter,"Slaughter, Louise M.",DEM/WEP/WF
+NY,25,H4NY29098,,Mark W.,Assini,"Assini, Mark W.",REP/CRV/IDP/REF
+,,,,,,,
+NY,26,H4NY27076,(I),Brian,Higgins,"Higgins, Brian",DEM/WEP/WF
+NY,26,H6NY26115,,Shelly,Schratz,"Schratz, Shelly",REP/CRV
+,,,,,,,
+NY,27,H6NY27170,,Diana K.,Kastenbaum,"Kastenbaum, Diana K.",DEM
+NY,27,H8NY29032,(I),Chris,Collins,"Collins, Chris",REP/CRV/IDP/REF
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,BLM = Blue Lives Matter
+,,,,,,,CRV = Conservative
+,,,,,,,GRE = Green
+,,,,,,,HBP = Haris Bhatti
+,,,,,,,IDP = Independence
+,,,,,,,LIB = Libertarian
+,,,,,,,PCC= People's Choice
+,,,,,,,REF = Reform
+,,,,,,,SID = Stop Iran Deal
+,,,,,,,TGP = Transparent Government
+,,,,,,,TRP = Tax Revolt
+,,,,,,,UPJ = Upstate Jobs
+,,,,,,,WEP = Women's Equality Party
+,,,,,,,WF = Working Families
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OH,S,S6OH00254,,Ted,Strickland,"Strickland, Ted",DEM
+OH,S,S0OH00133,(I),Rob,Portman,"Portman, Rob",REP
+OH,S,S2OH00238,,Joseph R.,DeMare,"DeMare, Joseph R.",GRE
+OH,S,S6OH00262,,Tom,Connors,"Connors, Tom",N
+OH,S,S2OH0020,,Scott,Rupert,"Rupert, Scott",N
+OH,S,S6OH00296,,James,Stahl,"Stahl, James",W
+,,,,,,,
+OH,01,H6OH01096 ,,Michele,Young,"Young, Michele",DEM
+OH,01,H8OH01043,(I),Steve,Chabot,"Chabot, Steve",REP
+OH,01,H6OH01104 ,,Sholom D.,Keller,"Keller, Sholom D.",W
+OH,01,H6OH01112,,Kiumars G.,Kiani,"Kiani, Kiumars G.",W
+,,,,,,,
+OH,02,H8OH02074,,William R. ,Smith,"Smith, William R. ",DEM
+OH,02,H2OH02085,(I),Brad ,Wenstrup,"Wenstrup, Brad ",REP
+OH,02,H6OH02292,,Janet,Everhard,"Everhard, Janet",W
+,,,,,,,
+OH,03,H0OH15099,,John,Adams,"Adams, John",REP
+OH,03,H2OH03125,(I),Joyce,Beatty,"Beatty, Joyce",DEM
+,,,,,,,
+OH,04,H4OH04046,,Janet,Garrett,"Garrett, Janet",DEM
+OH,04,H6OH04082,(I),Jim,Jordan,"Jordan, Jim",REP
+,,,,,,,
+OH,05,H6OH05097,,"James, Jr.",Neu,"Neu, James, Jr.",DEM
+OH,05,H8OH05036,(I),Bob,Latta,"Latta, Bob",REP
+,,,,,,,
+OH,06,H6OH06152,,Michael L.,Lorentz,"Lorentz, Michael L.",DEM
+OH,06,H0OH06189,(I),Bill,Johnson,"Johnson, Bill",REP
+,,,,,,,
+OH,07,H6OH07127,,Roy ,Rich,"Rich, Roy ",DEM
+OH,07,H0OH18077,(I),Bob ,Gibbs,"Gibbs, Bob ",REP
+OH,07,H4OH07049,,Dan,Phillip,"Phillip, Dan",N
+,,,,,,,
+OH,08,H6OH08331,,Steven,Fought,"Fought, Steven",DEM
+OH,08,H6OH08315,,Warren,Davidson,"Davidson, Warren",REP
+OH,08,H6OH08349,,Derrick James,Hendricks,"Hendricks, Derrick James",GRE
+,,,,,,,
+OH,09,H2OH09031,(I),Marcy,Kaptur,"Kaptur, Marcy",DEM
+OH,09,H6OH09099,,Donald P.,Larson,"Larson, Donald P.",REP
+OH,09,H4OH09128,,George A.,Skalsky,"Skalsky, George A.",W
+,,,,,,,
+OH,10 ,H4OH10167,,Robert ,Klepinger,"Klepinger, Robert ",DEM
+OH,10,H2OH03067,(I),Mike ,Turner,"Turner, Mike ",REP
+OH,10,H6OH10113,,Tom,McMasters,"McMasters, Tom",N
+OH,10,H0OH08136,,David A.,Harlow,"Harlow, David A.",W
+,,,,,,,
+OH,11,H8OH11141,(I),Marcia L.,Fudge,"Fudge, Marcia L.",DEM
+OH,11,H6OH11160 ,,Beverly A.,Goldstein,"Goldstein, Beverly A.",REP
+,,,,,,,
+OH,12,H6OH12127,,Ed ,Albertson,"Albertson, Ed ",DEM
+OH,12,H0OH12062,(I),Pat,Tiberi,"Tiberi, Pat",REP
+OH,12 ,H6OH12119,,Joe ,Manchik,"Manchik, Joe ",GRE
+OH,12 ,H6OH12135,,John J.,Baumeister,"Baumeister, John J.",W
+,,,,,,,
+OH,13,H2OH17109,(I),Tim ,Ryan,"Ryan, Tim ",DEM
+OH,13,H6OH13240,,Richard A.,Morckel,"Morckel, Richard A.",REP
+OH,13,H6OH13257,,"Calvin, Sr.",Hill,"Hill, Calvin, Sr.",W
+,,,,,,,
+OH,14,H4OH14102,,Michael,Wager,"Wager, Michael",DEM
+OH,14,H2OH14064,(I),David P.,Joyce,"Joyce, David P.",REP
+OH,14,H6OH14206,,Andrew ,Jarvi,"Jarvi, Andrew ",W
+,,,,,,,
+OH,15,H2OH15095,,Scott,Wharton,"Wharton, Scott",DEM
+OH,15,H8OH15076 ,(I),Steve,Stivers,"Stivers, Steve",REP
+OH,15,H4OH06090,,Dennis,Lambert,"Lambert, Dennis",GRE
+,,,,,,,
+OH,16, H6OH16136,,Keith ,Mundy,"Mundy, Keith ",DEM
+OH,16,H0OH16097,(I),Jim,Renacci,"Renacci, Jim",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,N = Nonpartisan
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OK,S,S6OK04114,,Mike ,Workman,"Workman, Mike ",DEM
+OK,S,S4OK00232,(I),James,Lankford,"Lankford, James",REP
+OK,S,S6OK04098,,Robert T.,Murphy,"Murphy, Robert T.",LIB
+OK,S,S4OK00372,,Mark T.,Beard,"Beard, Mark T.",IND
+OK,S,S6OK04130,,Sean ,Braddy,"Braddy, Sean ",IND
+,,,,,,,
+OK,01,H2OK01143 ,(I),Jim ,Bridenstine,"Bridenstine, Jim ",REP
+,,,,,,,
+OK,02,H4OK02170 ,,Joshua,Harris-Till,"Harris-Till, Joshua",DEM
+OK,02,H2OK02083,(I),Markwayne ,Mullin,"Mullin, Markwayne ",REP
+OK,02,H6OK02258,,John ,McCarthy,"McCarthy, John ",IND
+,,,,,,,
+OK,03,H6OK03215 ,,Frankie,Robbins,"Robbins, Frankie",DEM
+OK,03,H4OK06056 ,(I),Frank D.,Lucas,"Lucas, Frank D.",REP
+,,,,,,,
+OK,04,H6OK04130 ,,Christina,Owen,"Owen, Christina",DEM
+OK,04,H2OK04055 ,(I),Tom,Cole,"Cole, Tom",REP
+OK,04,H6OK04148,,Sevier,White,"White, Sevier",LIB
+,,,,,,,
+OK,05,H6OK05251 ,,Al,McAffrey,"McAffrey, Al",DEM
+OK,05,H4OK05132 ,(I),Steve ,Russell,"Russell, Steve ",REP
+OK,05,H6OK05277,,Zachary,Knight,"Knight, Zachary",LIB
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+OR,S,S6OR00110,(I),Ron,Wyden,"Wyden, Ron",DEM
+OR,S,S4OR00172,,Mark,Callahan,"Callahan, Mark",REP
+OR,S,S6OR05127,,Steven C.,Reynolds,"Reynolds, Steven C.",IP
+OR,S,S6OR05176,,Jim,Lindsay,"Lindsay, Jim",LIB
+OR,S,S6OR05150,,Eric,Navickas,"Navickas, Eric",PG/PRO
+OR,S,S6OR05168,,Shanti S.,Lewallen,"Lewallen, Shanti S.",WF
+,,,,,,,
+OR,01,H2OR01133,(I),Suzanne,Bonamici,"Bonamici, Suzanne",DEM/IP
+OR,01,H6OR01274,,Brian J.,Heinrich,"Heinrich, Brian J.",REP
+OR,01,H6OR01282,,Kyle,Sheahan,"Sheahan, Kyle",LIB
+,,,,,,,
+OR,02,H6OR02181,,James (Jim),Crary,"Crary, James (Jim)",DEM
+OR,02,H6OR02116,(I),Greg,Walden,"Walden, Greg",REP/W(IP)
+,,,,,,,
+OR,03,H6OR03064,(I),Earl ,Blumenauer,"Blumenauer, Earl ",DEM
+OR,03,H4OR03135,,David W.,Walker,"Walker, David W.",IP/W(REP)
+OR,03,H6OR03163,,David,Delk,"Delk, David",PRO
+,,,,,,,
+OR,04,H6OR04047,(I),Peter A.,DeFazio,"DeFazio, Peter A.",DEM/PRO/WF/W(IP)
+OR,04,H0OR04081,,Art,Robinson,"Robinson, Art",REP/CON
+OR,04,H6OR04229,,Gil,Guthrie,"Guthrie, Gil",LIB
+OR,04,H8OR04134,,Mike,Beilstein,"Beilstein, Mike",PG
+,,,,,,,
+OR,05,H8OR05107,(I),Kurt,Schrader,"Schrader, Kurt",DEM/W(IP)
+OR,05,H6OR05143,,Colm,Willis,"Willis, Colm",REP
+OR,05,H6OR05192,,Marvin,Sandnes,"Sandnes, Marvin",PG
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON  = Constitution
+,,,,,,,IP = Independent Party
+,,,,,,,LIB = Libertarian
+,,,,,,,PG = Pacific Green
+,,,,,,,PRO = Progressive
+,,,,,,,WF= Working Families
+,,,,,,,W(IP) = Write In Candidate (Independent Party)
+,,,,,,,W(REP) = Write-In Candidate (Republican)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+PA,S,S6PA00266 ,,Katie,McGinty,"McGinty, Katie",DEM
+PA,S,S4PA00121 ,(I),Pat,Toomey,"Toomey, Pat",REP
+PA,S,S6PA00316,,"Edward T., III",Clifford,"Clifford, Edward T., III",LIB
+,,,,,,,
+PA,01,H8PA01153,(I),Robert A.,Brady,"Brady, Robert A.",DEM
+PA,01,H6PA01173,,Deborah,Williams,"Williams, Deborah",REP
+,,,,,,,
+PA,02,H6PA02171,,Dwight,Evans,"Evans, Dwight",DEM
+PA,02,H6PA02197,,James A.,Jones,"Jones, James A.",REP
+,,,,,,,
+PA,03,H4PA03117,(I),Mike ,Kelly,"Kelly, Mike ",REP
+,,,,,,,
+PA,04,H6PA04128,,Joshua,Burkholder,"Burkholder, Joshua",DEM
+PA,04,H2PA04135,(I),Scott,Perry,"Perry, Scott",REP
+,,,,,,,
+PA,05,H6PA05133,,Kerith Strano,Taylor,"Taylor, Kerith Strano",DEM
+PA,05,H8PA05071 ,(I),Glenn GT,Thompson,"Thompson, Glenn GT",REP
+,,,,,,,
+PA,06,H4PA06052 ,,Mike,Parrish,"Parrish, Mike",DEM
+PA,06,H0PA06076 ,(I),Ryan,Costello,"Costello, Ryan",REP
+,,,,,,,
+PA,07,H4PA07092 ,,Mary Ellen,Balchunis,"Balchunis, Mary Ellen",DEM
+PA,07,H0PA07082,(I),Patrick L.,Meehan,"Meehan, Patrick L.",REP
+,,,,,,,
+PA,08,H6PA08228,,Steve ,Santarsiero,"Santarsiero, Steve ",DEM
+PA,08,H6PA08277,,Brian,Fitzpatrick,"Fitzpatrick, Brian",REP
+,,,,,,,
+PA,09,H4PA09056,,Art,Halvorson,"Halvorson, Art",DEM
+PA,09,H2PA09035,(I),Bill,Shuster,"Shuster, Bill",REP
+,,,,,,,
+PA,10,H6PA10141,,Michael,Molesevich,"Molesevich, Michael",DEM
+PA,10,H0PA10078 ,(I),Tom,Marino,"Marino, Tom",REP
+,,,,,,,
+PA,11,H6PA11073 ,,Mike,Marsicano,"Marsicano, Mike",DEM
+PA,11,H2PA11098 ,(I),Lou ,Barletta,"Barletta, Lou ",REP
+,,,,,,,
+PA,12,H4PA12043 ,,Erin R.,McClelland,"McClelland, Erin R.",DEM
+PA,12,H0PA04220 ,(I),Keith ,Rothfus,"Rothfus, Keith ",REP
+,,,,,,,
+PA,13,H4PA13199,(I),Brendan F.,Boyle,"Boyle, Brendan F.",DEM
+,,,,,,,
+PA,14,H4PA18131,(I),Mike,Doyle,"Doyle, Mike",DEM
+PA,14,H6PA14192,,Lenny,McAllister,"McAllister, Lenny",REP
+,,,,,,,
+PA,15,H2PA15099,,Rick ,Daugherty,"Daugherty, Rick ",DEM
+PA,15,H4PA15087,(I),Charles W.,Dent,"Dent, Charles W.",REP
+PA,15,H6PA15173,,Paul,Rizzo,"Rizzo, Paul",LIB
+,,,,,,,
+PA,16,H6PA16296 ,,Christina,Hartman,"Hartman, Christina",DEM
+PA,16,H6PA16320,,Lloyd K.,Smucker,"Smucker, Lloyd K.",REP
+PA,16,H6PA16346,,Shawn Patrick,House,"House, Shawn Patrick",LIB
+,,,,,,,
+PA,17,H2PA17079,(I),Matt,Cartwright,"Cartwright, Matt",DEM
+PA,17,H4PA17141,,Matt,Connolly,"Connolly, Matt",REP
+,,,,,,,
+PA,18,H2PA18143,(I),Tim ,Murphy,"Murphy, Tim ",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+RI,01,H0RI01073,(I),David N.,Cicilline,"Cicilline, David N.",DEM
+RI,01,H4RI01133,,Harold Russell,Taub,"Taub, Harold Russell",REP
+,,,,,,,
+RI,02,H0RI02139,(I),James R.,Langevin,"Langevin, James R.",DEM
+RI,02,H4RI02107,,Rhue R.,Reis,"Reis, Rhue R.",REP
+RI,02,H6RI02284,,Salvatore G.,Caiozzo,"Caiozzo, Salvatore G.",IND
+RI,02,H4RI02073,,Jeffrey C.,Johnson,"Johnson, Jeffrey C.",IND
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+SC,S,S6SC04148,,Thomas,Dixon,"Dixon, Thomas",DEM/WF/GRE
+SC,S,S4SC00240,(I),Tim,Scott,"Scott, Tim",REP
+SC,S,S6SC04171,,Rebel Michael,Scarborough,"Scarborough, Rebel Michael",AM
+SC,S,S6SC04155,,Bill,Bledsoe,"Bledsoe, Bill",LIB/CON
+,,,,,,,
+SC,01,H4SC01271,,Dimitri,Cherny,"Cherny, Dimitri",DEM/WF/GRE
+SC,01,H4SC01073,(I),Mark,Sanford,"Sanford, Mark",REP
+SC,01,H6SC01185,,Albert,Travison,"Travison, Albert",AM
+SC,01,H6SC01177,,"Michael, Jr.",Grier,"Grier, Michael, Jr.",LIB
+,,,,,,,
+SC,02,H6SC02100,,Arik,Bjorn,"Bjorn, Arik",DEM/GRE
+SC,02,H2SC02059,(I),Joe,Wilson,"Wilson, Joe",REP
+SC,02,H0SC02053,,Eddie,McCain,"McCain, Eddie",AM
+,,,,,,,
+SC,03,H4SC03111,,Hosea,Cleveland,"Cleveland, Hosea",DEM
+SC,03,H0SC03077,(I),Jeff,Duncan,"Duncan, Jeff",REP
+,,,,,,,
+SC,04,H6SC04163,,Chris,Fedalei,"Fedalei, Chris",DEM
+SC,04,H0SC04257,(I),Trey,Gowdy,"Gowdy, Trey",REP
+SC,04,H2SC04121,,Michael,Chandler,"Chandler, Michael",CON
+,,,,,,,
+SC,05,H6SC05129,,Fran,Person,"Person, Fran",DEM
+SC,05,H0SC05031,(I),Mick,Mulvaney,"Mulvaney, Mick",REP
+SC,05,H6SC05137,,"Rudy, Jr.",Barnes,"Barnes, Rudy, Jr.",AM
+,,,,,,,
+SC,06,H2SC02042,(I),"James E. ""Jim""",Clyburn,"Clyburn, James E. ""Jim""",DEM
+SC,06,H6SC06119,,Laura,Sterling,"Sterling, Laura",REP
+SC,06,H6SC06135,,Prince Charles,Mallory,"Mallory, Prince Charles",GRE
+SC,06,H6SC06127,,Rich,Piotrowski,"Piotrowski, Rich",LIB
+,,,,,,,
+SC,07,H6SC07018,,Mal,Hyman,"Hyman, Mal",DEM/WF/GRE
+SC,07,H2SC07066,(I),Tom,Rice,"Rice, Tom",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,AM = American Party
+,,,,,,,CON = Constitution 
+,,,,,,,GRE = Green Party
+,,,,,,,LIB = Libertarian
+,,,,,,,WF = Working Families
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+SD,S,S6SD01091,,Jay,Williams,"Williams, Jay",DEM
+SD,S,S2SD00068,(I),John R.,Thune,"Thune, John R.",REP
+,,,,,,,
+SD,00,H6SD01091,,Paula,Hawks,"Hawks, Paula",DEM
+SD,00,H0SD00054,(I),Kristi,Noem,"Noem, Kristi",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+TN,01,H6TN00091 ,,Alan,Bohms,"Bohms, Alan",DEM
+TN,01,H6TN01388 ,(I),Phil,Roe,"Roe, Phil",REP
+TN,01,H4TN01144,,Robert D.,Franklin,"Franklin, Robert D.",IND
+,,,,,,,
+TN,02,H6TN02147,,Stuart,Starr,"Starr, Stuart",DEM
+TN,02,H8TN02069 ,(I),"John J., Jr.",Duncan,"Duncan, John J., Jr.",REP
+,,,,,,,
+TN,03,H6TN03152,,Melody,Shekari,"Shekari, Melody",DEM
+TN,03,H0TN03254,(I),Chuck,Fleischmann,"Fleischmann, Chuck",REP
+TN,03,H6TN03194,,Topher,Kersting,"Kersting, Topher",IND
+TN,03,H4TN03181,,Cassandra,Mitchell,"Mitchell, Cassandra",IND
+TN,03,H6TN04218,,Rick,Tyler,"Tyler, Rick",IND
+,,,,,,,
+TN,04,H6TN05314,,Steven,Reynolds,"Reynolds, Steven",DEM
+TN,04,H0TN04195 ,(I),Scott,DesJarlais,"DesJarlais, Scott",REP
+,,,,,,,
+TN,05,H2TN05131 ,(I),Jim,Cooper,"Cooper, Jim",DEM
+TN,05,H6TN05322,,Stacy Ries,Snyder,"Snyder, Stacy Ries",REP
+,,,,,,,
+TN,06,H6TN06155,,David W.,Kent,"Kent, David W.",DEM
+TN,06,H0TN06257,(I),Diane,Black,"Black, Diane",REP
+TN,06,H6TN06163,,David,Ross,"Ross, David",IND
+,,,,,,,
+TN,07,H6TN07146,,Tharon,Chandler,"Chandler, Tharon",DEM
+TN,07,H2TN06030 ,(I),Marsha,Blackburn,"Blackburn, Marsha",REP
+TN,07,H2TN07194,,Leonard D.,Ladner,"Ladner, Leonard D.",IND
+,,,,,,,
+TN,08,H4TN08057,,Rickey,Hobson,"Hobson, Rickey",DEM
+TN,08,H2TN07103,,David,Kustoff,"Kustoff, David",REP
+TN,08,H6TN08292 ,,Shelia L.,Godwin,"Godwin, Shelia L.",IND
+TN,08,H2TN08077,,James,Hart,"Hart, James",IND
+TN,08,H6TN08300,,Adrian M.,Montague,"Montague, Adrian M.",IND
+TN,08,H0TN08329,,Mark J.,Rawles,"Rawles, Mark J.",IND
+TN,08,H6TN08318 ,,Karen Free Spirit,Talley-Lane,"Talley-Lane, Karen Free Spirit",IND
+,,,,,,,
+TN,09,H6TN09068,(I),Steve,Cohen,"Cohen, Steve",DEM
+TN,09,H4TN09071,,Wayne,Alberson,"Alberson, Wayne",REP
+TN,09,H4TN09097,,Paul,Cook,"Cook, Paul",IND
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+TX,01,H6TX01238,,Shirley J.,McKellar,"McKellar, Shirley J.",DEM
+TX,01,H4TX04039,(I),Louie ,Gohmert,"Gohmert, Louie ",REP
+TX,01,H6TX01261,,Phil,Gray,"Gray, Phil",LIB
+TX,01,H6TX01279,,Renee,Culler,"Culler, Renee",W
+,,,,,,,
+TX,02,H6TX02160,,Pat ,Bryan,"Bryan, Pat ",DEM
+TX,02,H4TX02108,(I),Ted,Poe,"Poe, Ted",REP
+TX,02,H6TX02178,,Joshua,Darr,"Darr, Joshua",GRE
+TX,02,H4TX02173,,James B.,Veasaw,"Veasaw, James B.",LIB
+,,,,,,,
+TX,03,H6TX03192,,Adam P.,Bell,"Bell, Adam P.",DEM
+TX,03,H2TX03118,(I),Sam,Johnson,"Johnson, Sam",REP
+TX,03,H4TX03098,,Paul,Blair,"Blair, Paul",GRE
+TX,03,H6TX03200,,Scott,Jameson,"Jameson, Scott",LIB
+,,,,,,,
+TX,04,H4TX04153,(I),John,Ratcliffe,"Ratcliffe, John",REP
+TX,04,H6TX04125,,Cody,Wommack,"Wommack, Cody",LIB
+,,,,,,,
+TX,05,H2TX05121,(I),Jeb,Hensarling,"Hensarling, Jeb",REP
+TX,05,H8TX05052,,Ken,Ashby,"Ashby, Ken",LIB
+,,,,,,,
+TX,06,H6TX06203,,Ruby Faye,Woolridge,"Woolridge, Ruby Faye",DEM
+TX,06,H4TX06117,(I),Joe,Barton,"Barton, Joe",REP
+TX,06,H6TX06195,,"Darrel, Jr.",Smith,"Smith, Darrel, Jr.",GRE
+,,,,,,,
+TX,07,H2TX07036,,James,Cargas,"Cargas, James",DEM
+TX,07,H0TX07055,(I),John,Culberson,"Culberson, John",REP
+,,,,,,,
+TX,08,H6TX08100,(I),Kevin,Brady,"Brady, Kevin",REP
+,,,,,,,
+TX,09,H4TX09095 ,(I),Al,Green,"Green, Al",DEM
+TX,09,H6TX09082,,Jeff ,Martin,"Martin, Jeff ",REP
+,,,,,,,
+TX,10,H2TX10113 ,,Tawana W. ,Cadien,"Cadien, Tawana W. ",DEM
+TX,10,H4TX10093 ,(I),Michael T.,McCaul,"McCaul, Michael T.",REP
+TX,10,H4TX10184,,Bill,Kelsey,"Kelsey, Bill",LIB
+,,,,,,,
+TX,11,H4TX19136,(I),Mike,Conaway,"Conaway, Mike",REP
+TX,11,H6TX11096 ,,Nicholas,Landholt,"Landholt, Nicholas",LIB
+,,,,,,,
+TX,12,H6TX12136,,Bill,Bradshaw,"Bradshaw, Bill",DEM
+TX,12,H6TX12060,(I),Kay ,Granger,"Granger, Kay ",REP
+TX,12,H4TX12032,,Ed,Colliver,"Colliver, Ed",LIB
+,,,,,,,
+TX,13,H4TX13014,(I),Mac ,Thornberry,"Thornberry, Mac ",REP
+TX,13,H6TX13134,,"H.F. ""Rusty""",Tomlinson,"Tomlinson, H.F. ""Rusty""",GRE
+TX,13,H6TX13142,,Calvin,DeWeese,"DeWeese, Calvin",LIB
+,,,,,,,
+TX,14,H6TX14124,,Michael,Cole,"Cole, Michael",DEM
+TX,14,H2TX14149,(I),Randy,Weber,"Weber, Randy",REP
+,,,,,,,
+TX,15,H6TX15162,,Vicente ,Gonzalez,"Gonzalez, Vicente ",DEM
+TX,15,H6TX15204,,Tim,Westley,"Westley, Tim",REP
+TX,15,H6TX15220,,Vanessa S.,Tijerina,"Tijerina, Vanessa S.",GRE
+TX,15,H8TX28203,,Ross Lynn,Leone,"Leone, Ross Lynn",LIB
+,,,,,,,
+TX,16,H2TX16185,(I),Beto,O'Rourke,"O'Rourke, Beto",DEM
+TX,16,H6TX16137,,Mary L.,Gourdoux,"Gourdoux, Mary L.",GRE
+TX,16,H4TX16082,,Jaime O.,Perez,"Perez, Jaime O.",LIB
+,,,,,,,
+TX,17,H6TX17093 ,,William,Matta,"Matta, William",DEM
+TX,17,H0TX17104 ,(I),Bill,Flores,"Flores, Bill",REP
+TX,17,H2TX01070,,Clark,Patterson,"Patterson, Clark",LIB
+,,,,,,,
+TX,18,H4TX18054,(I),Sheila,Jackson Lee,"Jackson Lee, Sheila",DEM
+TX,18,H6TX18141,,Lori,Bartley,"Bartley, Lori",REP
+TX,18,H6TX18182,,Thomas,Kleven,"Kleven, Thomas",GRE
+,,,,,,,
+TX,19,H6TX19099 ,,Jodey,Arrington,"Arrington, Jodey",REP
+TX,19,H4TX19284,,Mark,Lawson,"Lawson, Mark",GRE
+TX,19,H6TX19180,,Troy,Bonar,"Bonar, Troy",LIB
+,,,,,,,
+TX,20,H2TX35011,(I),Joaquin,Castro,"Castro, Joaquin",DEM
+TX,20,H6TX20105,,Paul,Pipkin,"Pipkin, Paul",GRE
+TX,20,H8TX21125,,Jeffrey C.,Blunt,"Blunt, Jeffrey C.",LIB
+,,,,,,,
+TX,21,H6TX21228,,Tom,Wakely,"Wakely, Tom",DEM
+TX,21,H6TX21012,(I),Lamar,Smith,"Smith, Lamar",REP
+TX,21,H2TX20062,,"Antonio ""Tony""",Diaz,"Diaz, Antonio ""Tony""",GRE
+TX,21,H4TX21082,,Mark,Loewe,"Loewe, Mark",LIB
+,,,,,,,
+TX,22,H4TX22163,,Mark ,Gibson,"Gibson, Mark ",DEM
+TX,22,H8TX22107,(I),Pete,Olson,"Olson, Pete",REP
+,,,,,,,
+TX,23,H2TX23124,,Pete P.,Gallego,"Gallego, Pete P.",DEM
+TX,23,H0TX23086 ,(I),Will ,Hurd,"Hurd, Will ",REP
+TX,23,H4TX23088,,Ruben S.,Corvalan,"Corvalan, Ruben S.",LIB
+,,,,,,,
+TX,24,H6TX24149,,Jan,McDowell,"McDowell, Jan",DEM
+TX,24,H6TX24156,,Kevin,McCormick,"McCormick, Kevin",GRE
+TX,24,H4TX24094,(I),Kenny E.,Marchant,"Marchant, Kenny E.",REP
+TX,24,H4TX24151,,Mike,Kolls,"Kolls, Mike",LIB
+,,,,,,,
+TX,25,H6TX25179,,Kathi ,Thomas,"Thomas, Kathi ",DEM
+TX,25,H2TX33040,(I),Roger,Williams,"Williams, Roger",REP
+TX,25,H6TX25187,,Loren Marc,Schneiderman,"Schneiderman, Loren Marc",LIB
+,,,,,,,
+TX,26,H6TX26102,,Eric,Mauck,"Mauck, Eric",DEM
+TX,26,H2TX26093,(I),Michael C.,Burgess,"Burgess, Michael C.",REP
+TX,26,H0TX26105,,Mark,Boler,"Boler, Mark",LIB
+,,,,,,,
+TX,27,H6TX27092,,Raul (Roy),Barrera,"Barrera, Raul (Roy)",DEM
+TX,27,H0TX27061,(I),Blake,Farenthold,"Farenthold, Blake",REP
+,,,,,,,
+TX,28,H2TX23082,(I),Henry,Cuellar,"Cuellar, Henry",DEM
+TX,28,H6TX28074 ,,Zeffen ,Hardin,"Hardin, Zeffen ",REP
+TX,28,H4TX28061,,Michael D.,Cary,"Cary, Michael D.",GRE
+,,,,,,,
+TX,29,H2TX29030,(I),Gene,Green,"Green, Gene",DEM
+TX,29,H6TX29072,,Julio ,Garza,"Garza, Julio ",REP
+TX,29,H6TX29098,,James ,Partsch-Galvan,"Partsch-Galvan, James ",GRE
+TX,29,H6TX29114,,N. Ruben,Perez,"Perez, N. Ruben",LIB
+,,,,,,,
+TX,30,H2TX00015,(I),Eddie Bernice,Johnson,"Johnson, Eddie Bernice",DEM
+TX,30,H0TX30032,,Charles,Lingerfelt,"Lingerfelt, Charles",REP
+TX,30,H6TX30146,,Thom,Prentice,"Prentice, Thom",GRE
+TX,30,H8TX30035,,Jarrett R.,Woods,"Woods, Jarrett R.",LIB
+,,,,,,,
+TX,31,H6TX31045,,Mike ,Clark,"Clark, Mike ",DEM
+TX,31,H2TX31044,(I),John ,Carter,"Carter, John ",REP
+TX,31,H2TX11095,,Scott J.,Ballard,"Ballard, Scott J.",LIB
+,,,,,,,
+TX,32,H2TX03126 ,(I),Pete,Sessions,"Sessions, Pete",REP
+TX,32,H6TX32092,,Gary,Stuard,"Stuard, Gary",GRE
+TX,32,H2TX30103,,Ed,Rankin,"Rankin, Ed",LIB
+,,,,,,,
+TX,33,H2TX33073 ,(I),Marc ,Veasey,"Veasey, Marc ",DEM
+TX,33,H2TX33099,,M. Mark ,Mitchell,"Mitchell, M. Mark ",REP
+,,,,,,,
+TX,34,H2TX27190 ,(I),Filemon B.,Vela,"Vela, Filemon B.",DEM
+TX,34,H6TX34023 ,,"Rey, Jr.",Gonzalez,"Gonzalez, Rey, Jr.",REP
+,,,,,,,
+TX,35,H4TX10028 ,(I),Lloyd,Doggett,"Doggett, Lloyd",DEM
+TX,35,H2TX35029 ,,Susan,Narvaiz,"Narvaiz, Susan",REP
+TX,35,H6TX35012,,Scott,Trimble,"Trimble, Scott",GRE
+TX,35,H0TX20090,,Rhett Rosenquest,Smith,"Smith, Rhett Rosenquest",LIB
+,,,,,,,
+TX,36,H6TX02079 ,(I),Brian ,Babin,"Babin, Brian ",REP
+TX,36,H4TX08055,,"Hal J., Jr.",Ridley,"Ridley, Hal J., Jr.",GRE
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-In Candidate (Not on Ballot)
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+UT,S,S6UT00246,,Misty K.,Snow,"Snow, Misty K.",DEM
+UT,S,S0UT00165 ,(I),Mike,Lee,"Lee, Mike",REP
+UT,S,S6UT00261,,Stoney,Fonua,"Fonua, Stoney",IAP
+UT,S,S2UT00187,,Bill,Barron,"Barron, Bill",UN
+,,,,,,,
+UT,01,H6UT01137 ,,Peter C.,Clemens,"Clemens, Peter C.",DEM
+UT,01,H2UT01094,(I),Rob,Bishop,"Bishop, Rob",REP
+UT,01,H4UT01108,,Craig,Bowden,"Bowden, Craig",LIB
+UT,01,H6UT01145,,"Chadwick H., III",Fairbanks,"Fairbanks, Chadwick H., III",UN
+,,,,,,,
+UT,02,H6UT02390 ,,Charlene,Albarran,"Albarran, Charlene",DEM
+UT,02,H2UT02324,(I),Chris,Stewart,"Stewart, Chris",REP
+UT,02,H6UT02416 ,,"Paul J., Jr.",McCollaum,"McCollaum, Paul J., Jr.",CON
+,,,,,,,
+UT,03,H4UT03211,,Stephen P.,Tryon,"Tryon, Stephen P.",DEM
+UT,03,H8UT03089,(I),Jason,Chaffetz,"Chaffetz, Jason",REP
+,,,,,,,
+UT,04,H4UT04011,,Doug,Owens,"Owens, Doug",DEM
+UT,04,H2UT04023,(I),Mia B.,Love,"Love, Mia B.",REP
+UT,04,H4UT04045,,Collin R.,Simonsen,"Simonsen, Collin R.",CON
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic 
+,,,,,,,REP = Republican 
+,,,,,,,CON = Constitution 
+,,,,,,,IAP = Independent American
+,,,,,,,LIB = Libertarian  
+,,,,,,,UN =  Unaffiliated
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+VA,01,H6VA01174,,"M. D. ""Matt""",Rowe,"Rowe, M. D. ""Matt""",DEM
+VA,01,H8VA01147,(I),"Robert J. ""Rob""",Wittman,"Wittman, Robert J. ""Rob""",REP
+VA,01,H0VA01185,,Glenda Gail,Parker,"Parker, Glenda Gail",IND
+,,,,,,,
+VA,02,H6VA02115,,Shaun D.,Brown,"Brown, Shaun D.",DEM
+VA,02,H0VA02118,,Scott W.,Taylor,"Taylor, Scott W.",REP
+,,,,,,,
+VA,03,H6VA01117,(I),"Robert C. ""Bobby""",Scott,"Scott, Robert C. ""Bobby""",DEM
+VA,03,H6VA03089,,"M. L. ""Marty""",Williams,"Williams, M. L. ""Marty""",REP
+,,,,,,,
+VA,04,H6VA04061,,A. Donald ,McEachin,"McEachin, A. Donald ",DEM
+VA,04,H6VA07130,,"Michael L. ""Mike""",Wade,"Wade, Michael L. ""Mike""",REP
+,,,,,,,
+VA,05,H6VA05118,,Jane D.,Dittmar,"Dittmar, Jane D.",DEM
+VA,05,H6VA05142,,"Tom A., Jr.",Garrett,"Garrett, Tom A., Jr.",REP
+,,,,,,,
+VA,06,H6VA06157,,Kai E.,Degner,"Degner, Kai E.",DEM
+VA,06,H2VA06115,(I),"Robert W. ""Bob""",Goodlatte,"Goodlatte, Robert W. ""Bob""",REP
+,,,,,,,
+VA,07,H6VA07148,,Eileen M.,Bedell,"Bedell, Eileen M.",DEM
+VA,07,H4VA07143,(I),David A.,Brat,"Brat, David A.",REP
+,,,,,,,
+VA,08,H4VA08224,(I),"Donald S., Jr.",Beyer,"Beyer, Donald S., Jr.",DEM
+VA,08,H6VA08237,,Charles A.,Hernick,"Hernick, Charles A.",REP
+VA,08,H6VA08245,,Julio,Gracia,"Gracia, Julio",IND
+,,,,,,,
+VA,09,H6VA09086,,Derek W.,Kitts,"Kitts, Derek W.",DEM
+VA,09,H0VA09055,(I),H. Morgan,Griffith,"Griffith, H. Morgan",REP
+VA,09,H6VA09094,,Janice Allen,Boyd,"Boyd, Janice Allen",IND
+,,,,,,,
+VA,10,H6VA10209,,LuAnn L.,Bennett,"Bennett, LuAnn L.",DEM
+VA,10,H4VA10089,(I),Barbara Jean,Comstock,"Comstock, Barbara Jean",REP
+,,,,,,,
+VA,11,H8VA11062,(I),"G.E. ""Gerry""",Connolly,"Connolly, G.E. ""Gerry""",DEM
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+VT,S,S4VT00017,(I),Patrick,Leahy,"Leahy, Patrick",DEM
+VT,S,S6VT00160,,Scott,Milne,"Milne, Scott",REP
+VT,S,S6VT00178,,Jerry,Trudell,"Trudell, Jerry",IND
+VT,S,S6VT00152,,Pete ,Diamondstone,"Diamondstone, Pete ",LBU
+VT,S,S4VT00132,,Cris,Ericson,"Ericson, Cris",USM
+,,,,,,,
+VT,00,H6VT00160,(I),Peter,Welch,"Welch, Peter",DEM/REP
+VT,00,H6VT00251,,Erica,Clawson,"Clawson, Erica",LBU
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LBU = Liberty Union
+,,,,,,,USM = United States Marijuana
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WA,S,S2WA00189,(I),Patty ,Murray,"Murray, Patty ",DEM
+WA,S,S6WA00321,,Chris ,Vance,"Vance, Chris ",REP
+,,,,,,,
+WA,01,H0WA08046,(I),Suzan,DelBene,"DelBene, Suzan",DEM
+WA,01,H4WA01258,,Robert J.,Sutherland,"Sutherland, Robert J.",REP
+,,,,,,,
+WA,02,H0WA02080 ,(I),Rick,Larsen,"Larsen, Rick",DEM
+WA,02,H6WA02178,,Marc,Hennemann,"Hennemann, Marc",REP
+,,,,,,,
+WA,03,H6WA03218,,Jim,Moeller,"Moeller, Jim",DEM
+WA,03,H6WA03234,(I),Jaime Herrera,Beutler,"Beutler, Jaime Herrera",REP
+,,,,,,,
+WA,04,H4WA04088 ,,Clint,Didier,"Didier, Clint",REP
+WA,04,H4WA04104,(I),Dan,Newhouse,"Newhouse, Dan",REP
+,,,,,,,
+WA,05,H4WA05127,,Joe,Pakootas,"Pakootas, Joe",DEM
+WA,05,H6WA05171,(I),Cathy McMorris,Rodgers,"Rodgers, Cathy McMorris",REP
+,,,,,,,
+WA,06,H2WA06129 ,(I),Derek,Kilmer,"Kilmer, Derek",DEM
+WA,06,H6WA06211,,Todd A.,Bloom,"Bloom, Todd A.",REP
+,,,,,,,
+WA,07,H6WA07458 ,,Pramila,Jayapal,"Jayapal, Pramila",DEM
+WA,07,H6WA07425 ,,Brady Piñero,Walkinshaw,"Walkinshaw, Brady Piñero",DEM
+,,,,,,,
+WA,08,H6WA08092,,Tony,Ventrella,"Ventrella, Tony",DEM
+WA,08,H4WA08071,(I),Dave,Reichert,"Reichert, Dave",REP
+,,,,,,,
+WA,09,H6WA09025,(I),Adam,Smith,"Smith, Adam",DEM
+WA,09,H4WA09061,,Doug,Basler,"Basler, Doug",REP
+,,,,,,,
+WA,10,H0WA03161,(I),Denny,Heck,"Heck, Denny",DEM
+WA,10,H8WA09047,,Jim,Postma,"Postma, Jim",REP
+,,,,,,,
+,,,,,,,
+,,,,,,  ,PARTY KEY
+,,,,,,,DEM =
+,,,,,,,REP =
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WI,S,S8WI00026,,Russ,Feingold,"Feingold, Russ",DEM
+WI,S,S0WI00197,(I),Ron ,Johnson,"Johnson, Ron ",REP
+WI,S,S6WI00152,,Phillip N.,Anderson,"Anderson, Phillip N.",LIB
+,,,,,,,
+WI,01,H6WI01192,,Ryan,Solen,"Solen, Ryan",DEM
+WI,01,H8WI01024,(I),Paul,Ryan,"Ryan, Paul",REP
+WI,01,H6WI01200,,Jason,Lebeck,"Lebeck, Jason",LIB
+WI,01,H6WI01234,,Jason,Lebeck,"Zimmerman, Spencer",TC
+,,,,,,,
+WI,02,H2WI02124,(I),Mark,Pocan,"Pocan, Mark",DEM
+WI,02,H8WI02121,,Peter,Theron,"Theron, Peter",REP
+,,,,,,,
+WI,03,H6WI03099,(I),Ron ,Kind,"Kind, Ron ",DEM
+,,,,,,,
+WI,04,H4WI04183,(I),Gwen S.,Moore,"Moore, Gwen S.",DEM
+WI,04,H6WI04063,,Andy,Craig,"Craig, Andy",LIB
+WI,04,H4WI04266,,Andy,Craig,"Raymond, Robert R. ",IND
+,,,,,,,
+WI,05,H6WI05110,,Khary,Penebaker,"Penebaker, Khary",DEM
+WI,05,H8WI09050,(I),"F. James., Jr.",Sensenbrenner,"Sensenbrenner, F. James., Jr.",REP
+WI,05,H6WI05128,,John ,Arndt,"Arndt, John ",LIB
+,,,,,,,
+WI,06,H6WI06100,,Sarah,Lloyd,"Lloyd, Sarah",DEM
+WI,06,H4WI06048,(I),Glenn,Grothman,"Grothman, Glenn",REP
+WI,06,H6WI06118,,W. Michael,Slattery,"Dahlke, Jeff",IND
+,,,,,,,
+WI,07,H6WI07181,,Mary,Hoeft,"Hoeft, Mary",DEM
+WI,07,H0WI07051,(I),Sean,Duffy,"Duffy, Sean",REP
+,,,,,,,
+WI,08,H6WI08163,,Tom,Nelson,"Nelson, Tom",DEM
+WI,08,H6WI08155,,Mike,Gallagher,"Gallagher, Mike",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent
+,,,,,,,LIB = Libertarian
+,,,,,,,TC = Trump Conservative
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WV,01,H6WV01087,,Mike ,Manypenny,"Manypenny, Mike ",DEM
+WV,01,H0WV01072,(I),David B.,McKinley,"McKinley, David B.",REP
+,,,,,,,
+WV,02,H0WV02104,,Mark,Hunt,"Hunt, Mark",DEM
+WV,02,H4WV02080,(I),Alex X.,Mooney,"Mooney, Alex X.",REP
+,,,,,,,
+WV,03,H6WV03091,,Matt,Detch,"Detch, Matt",DEM
+WV,03,H4WV03070,(I),Evan ,Jenkins,"Jenkins, Evan ",REP
+WV,03,H6WV03117,,Zane,Lawhorn,"Lawhorn, Zane",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+WY,00,H6WY01074 ,,Ryan,Greene,"Greene, Ryan",DEM
+WY,00,H6WY00159 ,,Liz,Cheney,"Cheney, Liz",REP
+WY,00,H2WY00133,,Daniel Clyde,Cummings,"Cummings, Daniel Clyde",CON
+WY,00,H6WY00175,,Lawrence Gerard,Struempf,"Struempf, Lawrence Gerard",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,CON = Constitution
+,,,,,,,LIB = Libertarian

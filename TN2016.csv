@@ -1,0 +1,46 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+TN,01,H6TN00091 ,,Alan,Bohms,"Bohms, Alan",DEM
+TN,01,H6TN01388 ,(I),Phil,Roe,"Roe, Phil",REP
+TN,01,H4TN01144,,Robert D.,Franklin,"Franklin, Robert D.",IND
+,,,,,,,
+TN,02,H6TN02147,,Stuart,Starr,"Starr, Stuart",DEM
+TN,02,H8TN02069 ,(I),"John J., Jr.",Duncan,"Duncan, John J., Jr.",REP
+,,,,,,,
+TN,03,H6TN03152,,Melody,Shekari,"Shekari, Melody",DEM
+TN,03,H0TN03254,(I),Chuck,Fleischmann,"Fleischmann, Chuck",REP
+TN,03,H6TN03194,,Topher,Kersting,"Kersting, Topher",IND
+TN,03,H4TN03181,,Cassandra,Mitchell,"Mitchell, Cassandra",IND
+TN,03,H6TN04218,,Rick,Tyler,"Tyler, Rick",IND
+,,,,,,,
+TN,04,H6TN05314,,Steven,Reynolds,"Reynolds, Steven",DEM
+TN,04,H0TN04195 ,(I),Scott,DesJarlais,"DesJarlais, Scott",REP
+,,,,,,,
+TN,05,H2TN05131 ,(I),Jim,Cooper,"Cooper, Jim",DEM
+TN,05,H6TN05322,,Stacy Ries,Snyder,"Snyder, Stacy Ries",REP
+,,,,,,,
+TN,06,H6TN06155,,David W.,Kent,"Kent, David W.",DEM
+TN,06,H0TN06257,(I),Diane,Black,"Black, Diane",REP
+TN,06,H6TN06163,,David,Ross,"Ross, David",IND
+,,,,,,,
+TN,07,H6TN07146,,Tharon,Chandler,"Chandler, Tharon",DEM
+TN,07,H2TN06030 ,(I),Marsha,Blackburn,"Blackburn, Marsha",REP
+TN,07,H2TN07194,,Leonard D.,Ladner,"Ladner, Leonard D.",IND
+,,,,,,,
+TN,08,H4TN08057,,Rickey,Hobson,"Hobson, Rickey",DEM
+TN,08,H2TN07103,,David,Kustoff,"Kustoff, David",REP
+TN,08,H6TN08292 ,,Shelia L.,Godwin,"Godwin, Shelia L.",IND
+TN,08,H2TN08077,,James,Hart,"Hart, James",IND
+TN,08,H6TN08300,,Adrian M.,Montague,"Montague, Adrian M.",IND
+TN,08,H0TN08329,,Mark J.,Rawles,"Rawles, Mark J.",IND
+TN,08,H6TN08318 ,,Karen Free Spirit,Talley-Lane,"Talley-Lane, Karen Free Spirit",IND
+,,,,,,,
+TN,09,H6TN09068,(I),Steve,Cohen,"Cohen, Steve",DEM
+TN,09,H4TN09071,,Wayne,Alberson,"Alberson, Wayne",REP
+TN,09,H4TN09097,,Paul,Cook,"Cook, Paul",IND
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,IND = Independent

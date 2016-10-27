@@ -1,0 +1,45 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+SC,S,S6SC04148,,Thomas,Dixon,"Dixon, Thomas",DEM/WF/GRE
+SC,S,S4SC00240,(I),Tim,Scott,"Scott, Tim",REP
+SC,S,S6SC04171,,Rebel Michael,Scarborough,"Scarborough, Rebel Michael",AM
+SC,S,S6SC04155,,Bill,Bledsoe,"Bledsoe, Bill",LIB/CON
+,,,,,,,
+SC,01,H4SC01271,,Dimitri,Cherny,"Cherny, Dimitri",DEM/WF/GRE
+SC,01,H4SC01073,(I),Mark,Sanford,"Sanford, Mark",REP
+SC,01,H6SC01185,,Albert,Travison,"Travison, Albert",AM
+SC,01,H6SC01177,,"Michael, Jr.",Grier,"Grier, Michael, Jr.",LIB
+,,,,,,,
+SC,02,H6SC02100,,Arik,Bjorn,"Bjorn, Arik",DEM/GRE
+SC,02,H2SC02059,(I),Joe,Wilson,"Wilson, Joe",REP
+SC,02,H0SC02053,,Eddie,McCain,"McCain, Eddie",AM
+,,,,,,,
+SC,03,H4SC03111,,Hosea,Cleveland,"Cleveland, Hosea",DEM
+SC,03,H0SC03077,(I),Jeff,Duncan,"Duncan, Jeff",REP
+,,,,,,,
+SC,04,H6SC04163,,Chris,Fedalei,"Fedalei, Chris",DEM
+SC,04,H0SC04257,(I),Trey,Gowdy,"Gowdy, Trey",REP
+SC,04,H2SC04121,,Michael,Chandler,"Chandler, Michael",CON
+,,,,,,,
+SC,05,H6SC05129,,Fran,Person,"Person, Fran",DEM
+SC,05,H0SC05031,(I),Mick,Mulvaney,"Mulvaney, Mick",REP
+SC,05,H6SC05137,,"Rudy, Jr.",Barnes,"Barnes, Rudy, Jr.",AM
+,,,,,,,
+SC,06,H2SC02042,(I),"James E. ""Jim""",Clyburn,"Clyburn, James E. ""Jim""",DEM
+SC,06,H6SC06119,,Laura,Sterling,"Sterling, Laura",REP
+SC,06,H6SC06135,,Prince Charles,Mallory,"Mallory, Prince Charles",GRE
+SC,06,H6SC06127,,Rich,Piotrowski,"Piotrowski, Rich",LIB
+,,,,,,,
+SC,07,H6SC07018,,Mal,Hyman,"Hyman, Mal",DEM/WF/GRE
+SC,07,H2SC07066,(I),Tom,Rice,"Rice, Tom",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,AM = American Party
+,,,,,,,CON = Constitution 
+,,,,,,,GRE = Green Party
+,,,,,,,LIB = Libertarian
+,,,,,,,WF = Working Families

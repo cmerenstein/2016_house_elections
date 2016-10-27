@@ -1,0 +1,57 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AZ,S,S6AZ00225 ,,Ann,Kirkpatrick,"Kirkpatrick, Ann",DEM
+AZ,S,S6AZ00019 ,(I),John,McCain,"McCain, John",REP
+AZ,S,S6AZ00340,,Gary,Swing,"Swing, Gary",GRE
+AZ,S,S2AZ00273,,Sheila ,Bilyeu,"Bilyeu, Sheila ",W
+AZ,S,S6AZ00399 ,,Anthony,Camboni,"Camboni, Anthony",W
+AZ,S,S0AZ00327,,Santos,Chavez,"Chavez, Santos",W
+AZ,S,S6AZ00134 ,,Leonard,Clark,"Clark, Leonard",W
+AZ,S,S6AZ00365,,Sydney,Dudikoff,"Dudikoff, Sydney",W
+AZ,S,S6AZ00241,,Selena,Lopez,"Lopez, Selena",W
+AZ,S,S6AZ00258 ,,Pat,Quinn,"Quinn, Pat",W
+AZ,S,S6AZ00381,,"Gene, II",Scott,"Scott, Gene, II",W
+,,,,,,,
+AZ,01,H6AZ01199,,Tom,O'Halleran,"O'Halleran, Tom",DEM
+AZ,01,H2AZ04127 ,,Paul,Babeu,"Babeu, Paul",REP
+AZ,01,H6AZ01264,,Ray,Parrish,"Parrish, Ray",GRE
+,,,,,,,
+AZ,02,H2AZ08078,,Matt,Heinz,"Heinz, Matt",DEM
+AZ,02,H2AZ08102 ,(I),Martha,McSally,"McSally, Martha",REP
+,,,,,,,
+AZ,03,H2AZ07070 ,(I),Raúl,Grijalva,"Grijalva, Raúl",DEM
+AZ,03,H6AZ03245,,Bill,Abatecola,"Abatecola, Bill",W
+AZ,03,H6AZ03211 ,,Harvey,Martin,"Martin, Harvey",W
+AZ,03,H4AZ03075,,Federico,Sanchez,"Sanchez, Federico",W
+AZ,03,H2AZ07161,,Jaime,Vasquez,"Vasquez, Jaime",W
+,,,,,,,
+AZ,04,H2AZ04143 ,,Mikel,Weisser,"Weisser, Mikel",DEM
+AZ,04,H0AZ01259,(I),Paul,Gosar,"Gosar, Paul",REP
+,,,,,,,
+`,05,H6AZ05133,,Talia,Fuentes,"Fuentes, Talia",DEM
+AZ,05,H6AZ05083,,Andy,Biggs,"Biggs, Andy",REP
+,,,,,,,
+AZ,06,H2AZ05132,,W. John,Williamson,"Williamson, W. John",DEM
+AZ,06,H4AZ06045 ,(I),David,Schweikert,"Schweikert, David",REP
+,,,,,,,
+AZ,07,H4AZ07043,(I),Ruben,Gallego,"Gallego, Ruben",DEM
+AZ,07,H6AZ07030 ,,Eve,Nunez,"Nunez, Eve",REP
+AZ,07,H6AZ07048,,Neil B.,Westbrooks,"Westbrooks, Neil B.",W
+,,,,,,,
+AZ,08,H4AZ04024 ,(I),Trent,Franks,"Franks, Trent",REP
+AZ,08,H2AZ06197,,Mark,Salazar,"Salazar, Mark",GRE
+AZ,08,H6AZ08202,,"Hayden, III",Keener,"Keener, Hayden, III",W
+,,,,,,,
+AZ,09,H2AZ09019 ,(I),Kyrsten,Sinema,"Sinema, Kyrsten",DEM
+AZ,09,H6AZ09010,,Dave,Giles,"Giles, Dave",REP
+AZ,09,H6AZ09077,,Axel ,Bello,"Bello, Axel ",W
+AZ,09,H6AZ09069,,Cary,Dolego,"Dolego, Cary",W
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,GRE = Green
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-In Candidate (Not on Ballot)

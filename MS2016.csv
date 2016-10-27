@@ -1,0 +1,33 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+MS,01,H6MS01263,,Jacob,Owens,"Owens, Jacob",DEM
+MS,01,H6MS01271,,Paul,Clever,"Clever, Paul",Republican
+MS,01,H6MS01131,(I),Trent,Kelly,"Kelly, Trent",REP
+MS,01,H6MS02154 ,,Chase,Wilson,"Wilson, Chase",LIB
+MS,01,H6MS01289,,Cathy L.,Toole,"Toole, Cathy L.",REF
+,,,,,,,
+MS,02,H4MS02068,(I),Bennie G.,Thompson,"Thompson, Bennie G.",DEM
+MS,02,H6MS02162 ,,"John, II",Bouie,"Bouie, John, II",REP
+MS,02,H6MS02170 ,,Johnny,McLeod,"McLeod, Johnny",REF
+MS,02,H4MS02183,,Troy,Ray,"Ray, Troy",IND
+,,,,,,,
+MS,03,H4MS03041,,Dennis C.,Quinn,"Quinn, Dennis C.",DEM
+MS,03,H6MS03186 ,,Nathan,Stewart,"Stewart, Nathan",Democratic
+MS,03,H8MS03067,(I),Gregg,Harper,"Harper, Gregg",REP
+MS,03,H6MS03194 ,,Lajena,Sheets,"Sheets, Lajena",REF
+MS,03,H4MS03058,,Roger I.,Gerrard,"Gerrard, Roger I.",VPA
+,,,,,,,
+MS,04,H6MS04192,,Mark,Gladney,"Gladney, Mark",DEM
+MS,04,H0MS04120,(I),Steven,Palazzo,"Palazzo, Steven",REF
+MS,04,H6MS04200,,Richard Blake,McCluskey,"McCluskey, Richard Blake",LIB
+MS,04,H0MS03049,,Shawn,O'Hara,"O'Hara, Shawn",REF
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,REF = Reform
+,,,,,,,VPA = Veterans Party of America
+,,,,,,,IND = Independent

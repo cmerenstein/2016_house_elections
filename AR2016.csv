@@ -1,0 +1,29 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+AR,S,S6AR00132,,Conner,Eldridge,"Eldridge, Conner",DEM
+AR,S,S0AR00150,(I),John,Boozman,"Boozman, John",REP
+AR,S,S6AR00140 ,,Frank,Gilbert,"Gilbert, Frank",LIB
+AR,S,S6AR00157,,Jason,Tate,"Tate, Jason",W
+,,,,,,,
+AR,01,H0AR01083,(I),Rick ,Crawford,"Crawford, Rick ",REP
+AR,01,H6AR01114,,Mark ,West,"West, Mark ",LIB
+,,,,,,,
+AR,02,H6AR02245 ,,Dianne ,Curry,"Curry, Dianne ",DEM
+AR,02,H4AR02141,(I),French,Hill,"Hill, French",REP
+AR,02,H2AR02061,,Chris,Hayes,"Hayes, Chris",LIB
+AR,02,H4AR02182,,Charles,Neely,"Neely, Charles",W
+AR,02,H6AR02260,,Mathew ,Wescott,"Wescott, Mathew ",W
+,,,,,,,
+AR,03,H0AR03055,(I),Steve,Womack,"Womack, Steve",REP
+AR,03,H6AR03110,,Steve,Isaacson,"Isaacson, Steve",LIB
+,,,,,,,
+AR,04,H4AR04048,(I),Bruce,Westerman,"Westerman, Bruce",REP
+AR,04,H6AR04076,,Kerry,Hicks,"Hicks, Kerry",LIB
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,LIB = Libertarian
+,,,,,,,W = Write-In Candidate (Not on Ballot)

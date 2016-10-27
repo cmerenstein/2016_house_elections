@@ -1,0 +1,16 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+ME,01,H8ME01120,(I),Chellie,Pingree,"Pingree, Chellie",DEM
+ME,01,H6ME01207,,Mark I.,Holbrook,"Holbrook, Mark I.",REP
+ME,01,H6ME01231,,James J.,Bouchard,"Bouchard, James J.",W(LIB)
+,,,,,,,
+ME,02,H4ME02200,,Emily Ann,Cain,"Cain, Emily Ann",DEM
+ME,02,H4ME02234,(I),Bruce,Poliquin,"Poliquin, Bruce",REP
+ME,02,H6ME02130,,Jay Parker,Dresser,"Dresser, Jay Parker",W(IND)
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,W = Write-in Candidate (Not on Ballot)

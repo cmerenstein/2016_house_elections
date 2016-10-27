@@ -1,0 +1,39 @@
+,,,,,,,
+STATE ABBREVIATION,D,FEC ID#,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),CANDIDATE NAME,PARTY
+,,,,,,,
+IA,S,S0IA00119,,Thomas L.,Fiegen,"Fiegen, Thomas L.",DEM
+IA,S,S6IA00124,,Robert M,Hogg,"Hogg, Robert M",DEM
+IA,S,S6IA00140,,Patty ,Judge,"Judge, Patty ",DEM
+IA,S,,,,Scattered,Scattered,W(DEM)
+IA,S,S0IA00028,(I),Charles E.,Grassley,"Grassley, Charles E.",REP
+IA,S,,,,Scattered,"Scattered, ",W(REP)
+IA,S,S6IA00165,,Charles,Aldrich,"Aldrich, Charles",LIB
+IA,S,S6IA00173,,Jim,Hennager,"Hennager, Jim",NPI
+IA,S,S6IA00157,,Michael,Luick-Thrams,"Luick-Thrams, Michael",NNE
+,,,,,,,
+IA,01,H4IA01069,,Pat,Murphy,"Murphy, Pat",DEM
+IA,01,H4IA01077,,Monica,Vernon,"Vernon, Monica",DEM
+IA,01,,,,Scattered,Scattered,W(DEM)
+IA,01,H2IA01055,(I),Rod,Blum,"Blum, Rod",REP
+IA,01,,,,Scattered,Scattered,W(REP)
+,,,,,,,
+IA,02,H6IA02146,(I),Dave,Loebsack,"Loebsack, Dave",DEM
+IA,02,,,,Scattered,Scattered,W(DEM)
+IA,02,H6IA02161,,Christopher,Peters,"Peters, Christopher",REP
+IA,02,,,,Scattered,Scattered,W(REP)
+,,,,,,,
+IA,03,H4IA04113,,Jim,Mowrer,"Mowrer, Jim",DEM
+IA,03,H4IA03115,(I),David,Young,"Young, David",REP
+IA,03,H4IA03149,,Bryan Jack,Holder,"Holder, Bryan Jack",LIB
+IA,03,H6IA03250,,Claudia,Addy,"Addy, Claudia",NNE
+IA,03,H4IA03123,,Joe,Grandanette,"Grandanette, Joe",NNE
+,,,,,,,
+IA,04,H6IA04134,,Kim,Weaver,"Weaver, Kim",DEM
+IA,04,H2IA05072,(I),Steve,King,"King, Steve",REP
+,,,,,,,
+,,,,,,,
+,,,,,,,PARTY KEY
+,,,,,,,DEM = Democratic
+,,,,,,,REP = Republican
+,,,,,,,NPI = New Independent Party Iowa
+,,,,,,,NNE = None
