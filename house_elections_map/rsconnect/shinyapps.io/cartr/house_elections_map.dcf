@@ -1,0 +1,10 @@
+name: house_elections_map
+title:
+account: cartr
+server: shinyapps.io
+appId: 135846
+bundleId: 607249
+url: https://cartr.shinyapps.io/house_elections_map/
+when: 1478472592.95515
+asMultiple: FALSE
+asStatic: FALSE
