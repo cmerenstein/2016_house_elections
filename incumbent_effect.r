@@ -5,6 +5,9 @@ library(stringr)
 OBAMA_MARGIN_2008 = 7.2
 KERRY_MARGIN_2004 = -2.4
 
+## Calculate Partisan Voter Index of each congressional district
+## Source: Daily Kos
+## The CSV contains the results of elections 2000, 2004, and 2008 by congressional district
 PVI_04_08 <- read.csv("president_by_CD_2000_2008.csv") %>% ## only going to use 04-08, can go back an do 00-04 if need be
   mutate(diff_08 = Obama - McCain) %>% 
   mutate(diff_04 = Kerry - Bush..04) %>% 
@@ -38,6 +41,7 @@ PVI_list[[2012]] = PVI_08_12
 PVI_list[[2014]] = PVI_08_12
 
 generic_ballots = list()
+## Source: RCP
 generic_ballots[["2014"]] = -5.7
 generic_ballots[["2012"]] = 1.2
 generic_ballots[["2010"]] = -6.8
