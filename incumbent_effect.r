@@ -22,6 +22,7 @@ PVI_04_08 <- read.csv("president_by_CD_2000_2008.csv") %>% ## only going to use 
 OBAMA_MARGIN_2008 = 7.2
 OBAMA_MARGIN_2012 = 3.9
 
+## Same deal but with 2010 districts
 PVI_08_12 <- read.csv("2008_2012_pres_by_2012_districts.csv") %>% 
   mutate(diff_2012 = Obama.2012 - Romney.2012) %>% 
   mutate(diff_2008 = Obama.2008 - McCain.2008) %>% 
@@ -54,12 +55,17 @@ state_abbreviations = cbind(state.abb, state.name) %>%
   mutate(state.abb = as.character(state.abb)) %>% 
   mutate(state.name = as.character(state.name))
 
+# Annoyingly, some state democratic parties aren't "DEM" so this is a fix for that
 non_dem_D = c("DCG", "IDA", "IDE", "IDP", "IND", "PPD") #easiest way to get to just rep/dem
 
+# CSV file for each year of congressional elections back to 2004
+# Source: FEC
 races_04_08 <- list.files(path = "past_elections/")
 
+# Open each year of races, do a lot of cleaning up, and get each one in a nice dataframe
 race_df_list = list()
 for (csv in races_04_08){
+  # get the year from the name, and the PVI & generic ballot from the year
   year = substr(csv, 1,4)
   PVI_df <- PVI_list[[as.numeric(year)]]
   GENERIC_BALLOT = generic_ballots[[year]]
@@ -88,6 +94,8 @@ for (csv in races_04_08){
     filter(I.P.!= "") %>% 
     select(`I.P.`, `D`, `STATE`)
   
+  # Some races have multiple incumbents, these need to get ignored
+  # It happens when districts merge, and is pretty rare
   multiple_i <- group_by(incumbent_party, D, STATE) %>% 
     summarize(n = n()) %>% 
     filter(n > 1) %>% 
@@ -95,6 +103,8 @@ for (csv in races_04_08){
   
   incumbent_party <- mutate(incumbent_party, I.P. = ifelse(paste(D, STATE, sep="-") %in% multiple_i$key, NA, I.P.))
   
+  # Get the margin (dem - rep) of each district
+  # we use a margin > 95% to weed out uncontested races
   races_diff <- group_by(races_df, D, STATE, PARTY) %>% summarise(general = max(GENERAL..)) %>% 
     spread(PARTY, general) %>% 
     filter(!is.na(DEM)) %>% 
@@ -116,25 +126,36 @@ for (csv in races_04_08){
     mutate(I.P. = ifelse(is.na(I.P.), "OPN", I.P.)) %>% 
     mutate(PVI_expect = PVI + GENERIC_BALLOT)
   
+  # This has for each year the actual difference and the difference based on PVI + Generic Ballot
   race_df_list[[csv]] <- race_PVI
 }
 
-
+# combine all races into a single dataframe
 combined_2004_2014 <- do.call("rbind", race_df_list) %>% 
   mutate(PVI_miss = diff - PVI_expect) %>% 
   filter(abs(diff) < 20) %>% 
   filter(abs(PVI_expect) < 20)
 
+# How many incumbents would win by just PVI + generic ballot
 winners_by_incumbent <- combined_2004_2014 %>% group_by(CD, I.P., year) %>% summarize(margin = max(PVI_expect)) %>% 
   mutate(inc = ifelse(I.P. != "OPN", T, F)) %>% 
   mutate(inc_win = ifelse(inc, ifelse(I.P. == "REP", (margin < 0), (margin > 0)), F)) %>% 
   filter(inc) %>% 
   group_by(inc_win) %>%  summarize(n = n())
 
-
+# For the three types of races, open, dem incumbent, rep incumbent, plots PVI_expect to actual difference
 p <- ggplot(combined_2004_2014, aes(x = PVI_expect, y = diff, color = I.P.)) + geom_point()
 p <- p + stat_smooth(method = "lm")
 p
+
+## Below are the linear models for PVI_expect against actual margin
+## Ideally, the models would have good R^2 and I could just plug in the 2016 PVI_expect & incumbent
+## The R^2 are low, however, below 0.33 for all of them.
+## I think a sample size going back further would help this
+## Generic ballot polling error has varied a lot, and years in which all Dems or all Reps outperform have happened and will reduce significance
+## In the end, I just used these data for the intercepts, to figure out the bump given to an incumbent
+## Hopefully I'll go back and find a more emperically derived formula at some point.
+## Had I started this more than 2 weeks before the election, it wouldn't be so sloppy...
 
 pvi_expect_fit <- lm(diff ~ PVI_expect, data = combined_2004_2014)
 summary(pvi_expect_fit)
